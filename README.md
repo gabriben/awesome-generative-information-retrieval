@@ -1,0 +1,1 @@
+# awesome-generative-information-retrieval
