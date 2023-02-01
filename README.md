@@ -14,7 +14,7 @@ SIGIR Forum 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]
 
 **Conversational Information Seeking. An Introduction to Conversational Search, Recommendation, and Question Answering**  
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
-arXiv – Jan 2023 [paper](https://www.sciencedirect.com/science/article/pii/S0956713521008355)  
+arXiv – Jan 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0956713521008355)]
 
 ## Generative Answer Retrieval
 
@@ -35,6 +35,7 @@ Arxiv 2022 [[paper](https://arxiv.org/abs/2202.06991)] [[Video](https://www.yout
 **CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**  
 *Chen et al.*  
 CIKM 2022 [[paper](https://arxiv.org/abs/2208.07652)] [[Code](https://github.com/ict-bigdatalab/CorpusBrain)] 
+
 **A Neural Corpus Indexer for Document Retrieval**  
 *Wang et al.*  
 Arxiv 2022 [[paper](https://arxiv.org/abs/2206.02743)]
