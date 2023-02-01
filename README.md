@@ -6,7 +6,7 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
 
 # Table of Contents
 
-- [Epistemoplogy Papers](#epistemoplogy-papers)
+- [Epistemology Papers](#epistemoplogy-papers)
 - [Generative Answer Retrieval](#generative-answer-retrieval)
   - [Multimodal](#multimodal)
 - [Generative Document Retrieval](#generative-document-retrieval)
@@ -15,13 +15,18 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
   - [Applications](#applications)
   - [Generative Recommendation](#generative-recommendation)
 
+## Blog Posts
+
+## Live Generative Retrieval
+
+**DocAsker**
+Jan 2023 [[link](https://www.docasker.com/)]
 
 ## Epistemoplogy Papers
 
 **Rethinking Search: Making Domain Experts out of Dilettantes**  
 *Metzler et al.*  
 SIGIR Forum 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]  
-
 
 **Conversational Information Seeking. An Introduction to Conversational Search, Recommendation, and Question Answering**  
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
@@ -31,15 +36,23 @@ arXiv – Jan 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0
 
 **REPLUG: Retrieval-Augmented Black-Box Language Models**  
 *Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih*  
-arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12652)
+arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12652)]
 
 **In-Context Retrieval-Augmented Language Models**  
 *Ori Ram, Yoav Levine, Itay Dalmedigos, Dor Muhlgay, Amnon Shashua, Kevin Leyton-Brown, Yoav Shoham*  
-AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/63c6c20dec4479564db21819_NEW_In_Context_Retrieval_Augmented_Language_Models.pdf)]
+AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/63c6c20dec4479564db21819_NEW_In_Context_Retrieval_Augmented_Language_Models.pdf)] [[code](https://github.com/AI21Labs/in-context-ralm)]
 
 **AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation**  
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.08110.pdf)]  
+
+**Recitation-Augmented Language Models**  
+*Anonymous*  
+ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=-cqvvvb-NkI)]
+
+**Improving language models by retrieving from trillions of tokens**  
+*Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre*  
+arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.04426)]
 
 ### Multimodal
 
