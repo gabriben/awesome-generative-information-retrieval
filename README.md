@@ -20,6 +20,8 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
 
 ## Live Generative Retrieval
 
+Although some of these are not accompanied by a paper, they might be useful to other Generative IR researchers for empirical studies or interface design considerations.
+
 **Sparrow**  
 [not released] [[paper](#paper-sparrow)]
 
@@ -29,14 +31,8 @@ Jan 2023 [[live](https://www.docasker.com/)]
 **YOU.com**  
 Dec 2023 [[live](https://you.com/)]
 
-**Claude**  
-Dec 2022 [private beta] [[paper](#paper-constiutional-ai)]
-
-**ChatGPT**  
-Nov 2022 [[live](https://openai.com/blog/chatgpt/)]
-
 **PHIND**  
-date? [[live](https://phind.com/)]]
+date? [[live](https://phind.com/)]
 
 **Perplexity**  
 date? [[live](https://www.perplexity.ai/)]
@@ -50,6 +46,8 @@ date? [[live](https://elicit.org/)]
 **ZetaAlpha**  
 date? [[live](https://search.zeta-alpha.com/)]  
 uses OpenAI API
+
+Honorable mentions of **Claude** [private beta] [[paper](#paper-constiutional-ai)] and **ChatGPT** [[live](https://openai.com/blog/chatgpt/)] that are borderline retrieval models (hallucinate a lot and don't cite their sources)
 
 ## Blog Posts
 
