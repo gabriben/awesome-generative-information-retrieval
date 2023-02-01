@@ -58,8 +58,8 @@ Hugging Face Blog – Jan 2023 [[link](https://huggingface.co/blog/dialog-agents
 ## Epistemology Papers
 
 **Rethinking Search: Making Domain Experts out of Dilettantes**  
-*Metzler et al.*  
-SIGIR Forum 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]  
+*Donald Metzler, Yi Tay, Dara Bahri, Marc Najork*  
+SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]  
 
 **Conversational Information Seeking. An Introduction to Conversational Search, Recommendation, and Question Answering**  
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
