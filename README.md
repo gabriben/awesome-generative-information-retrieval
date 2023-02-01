@@ -9,7 +9,7 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
 - [Live Generative Retrieval](#live-generative-retrieval)
 - [Blog Posts](#blog-posts)
 - [Epistemology Papers](#epistemoplogy-papers)
-- [Generative Answer Retrieval](#generative-answer-retrieval)
+- [Response Generation](#response-generation)
   - [Multimodal](#multimodal)
 - [Generative Document Retrieval](#generative-document-retrieval)
   - [Indexing Strategy](#indexing-strategy)
@@ -67,7 +67,7 @@ SIGIR Forum 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
 arXiv – Jan 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0956713521008355)]
 
-## Generative Answer Retrieval
+## Response Generation
 
 **REPLUG: Retrieval-Augmented Black-Box Language Models**  
 *Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih*  
