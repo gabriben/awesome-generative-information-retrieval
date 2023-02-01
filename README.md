@@ -19,8 +19,8 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
 
 ## Live Generative Retrieval
 
-**Sparrow**
-*Building safer dialogue agents*
+**Sparrow**  
+*Building safer dialogue agents*  
 [not released] [[paper](#paper-sparrow)]
 
 **DocAsker**  
@@ -31,15 +31,15 @@ Jan 2023 [[live](https://www.docasker.com/)]
 Dec 2023 [[live](https://you.com/)]
 
 **Claude**  
-*RLAIF*
+*RLAIF*  
 Dec 2022 [private beta] [[paper](#paper-constiutional-ai)]
 
 **ChatGPT**  
-*RLHF*
+*RLHF*  
 Nov 2022 [[live](https://openai.com/blog/chatgpt/)]
 
 **PHIND**  
-*The AI search engine for developers.*
+*The AI search engine for developers.*  
 date? [[live](https://phind.com/)]]
 
 **Perplexity**  
