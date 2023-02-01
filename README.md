@@ -47,7 +47,7 @@ date? [[live](https://elicit.org/)]
 date? [[live](https://search.zeta-alpha.com/)]  
 uses OpenAI API
 
-Honorable mentions of **Claude** [private beta] [[paper](#paper-constiutional-ai)] and **ChatGPT** [[live](https://openai.com/blog/chatgpt/)] that are borderline retrieval models (hallucinate a lot and don't cite their sources)
+Honorable mentions of **Claude** [private beta] [[paper](#paper-constiutional-ai)] and **ChatGPT** [[live](https://openai.com/blog/chatgpt/)] that are borderline retrieval models (hallucinate a lot and don't cite their sources for now)
 
 ## Blog Posts
 
