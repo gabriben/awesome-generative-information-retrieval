@@ -43,10 +43,10 @@ date? [[live](https://www.perplexity.ai/)]
 **Galactica**  
 date? [[demo](https://galactica.org/explore/)] [[API](https://github.com/paperswithcode/galai)] [[paper](#paper-galactica)]
 
-**Elicit**
+**Elicit**  
 date? [[live](https://elicit.org/)]
 
-**ZetaAlpha**
+**ZetaAlpha**  
 date? [[live](https://search.zeta-alpha.com/)]  
 uses OpenAI API
 
