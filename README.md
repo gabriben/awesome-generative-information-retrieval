@@ -6,6 +6,8 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
 
 # Table of Contents
 
+- [Live Generative Retrieval](#live-generative-retrieval)
+- [Blog Posts](#blog-posts)
 - [Epistemology Papers](#epistemoplogy-papers)
 - [Generative Answer Retrieval](#generative-answer-retrieval)
   - [Multimodal](#multimodal)
@@ -15,12 +17,31 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
   - [Applications](#applications)
   - [Generative Recommendation](#generative-recommendation)
 
-## Blog Posts
-
 ## Live Generative Retrieval
 
 **DocAsker**  
-Jan 2023 [[link](https://www.docasker.com/)]
+Jan 2023 [[live](https://www.docasker.com/)]
+
+**Claude**  
+*RLAIF*
+Dec 2022 [private beta] [[paper](#paper-constiutional-ai)]
+
+**ChatGPT**  
+*RLHF*
+Nov 2022 [[live](https://openai.com/blog/chatgpt/)]
+
+**PHIND**  
+*The AI search engine for developers.*
+date? [[live](https://phind.com/)]]
+
+**Perplexity**
+*Perplexity AI is an answer engine that delivers accurate answers to complex questions using large language models.*  
+date? [[live](https://www.perplexity.ai/)]
+
+**Galactica**  
+date? [[demo](https://galactica.org/explore/)] [[API](https://github.com/paperswithcode/galai)] [[paper](#paper-galactica)]
+
+## Blog Posts
 
 ## Epistemoplogy Papers
 
@@ -46,6 +67,13 @@ AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b4665
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.08110.pdf)]  
 
+<a name="paper-galactica"></a>
+**Galactica: A Large Language Model for Science**  
+*Ross Taylor, Marcin Kardas, Guillem Cucurull,
+Thomas Scialom, Anthony Hartshorn, Elvis Saravia,
+Andrew Poulton, Viktor Kerkez, Robert Stojnic*
+Galactica.org – 2023 [[paper](https://galactica.org/static/paper.pdf)]
+
 **Recitation-Augmented Language Models**  
 *Anonymous*  
 ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=-cqvvvb-NkI)]
@@ -53,6 +81,22 @@ ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=-cqvvvb-NkI)]
 **Improving language models by retrieving from trillions of tokens**  
 *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre*  
 arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.04426)]
+
+### Reinforcement Learning
+
+<a name="paper-constiutional-ai"></a>
+**Constitutional AI: Harmlessness from AI Feedback**  
+*Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion,
+Andy Jones, Anna Chen, Anna Goldie, Azalia Mirhoseini, Cameron McKinnon,
+Carol Chen, Catherine Olsson, Christopher Olah, Danny Hernandez, Dawn Drain,
+Deep Ganguli, Dustin Li, Eli Tran-Johnson, Ethan Perez, Jamie Kerr, Jared Mueller,
+Jeffrey Ladish, Joshua Landau, Kamal Ndousse, Kamile Lukosiute, Liane Lovitt,
+Michael Sellitto, Nelson Elhage, Nicholas Schiefer, Noemi Mercado, Nova DasSarma,
+Robert Lasenby, Robin Larson, Sam Ringer, Scott Johnston, Shauna Kravec,
+Sheer El Showk, Stanislav Fort, Tamera Lanham, Timothy Telleen-Lawton, Tom Conerly,
+Tom Henighan, Tristan Hume, Samuel R. Bowman, Zac Hatfield-Dodds, Ben Mann,
+Dario Amodei, Nicholas Joseph, Sam McCandlish, Tom Brown, Jared Kaplan*
+Anthropic.com – Dec 2022 [[paper](https://www.anthropic.com/constitutional.pdf)]
 
 ### Multimodal
 
