@@ -209,9 +209,6 @@ Arxiv – Apr 2022 [[paper](https://arxiv.org/pdf/2204.13596.pdf)]
 *Romain Deffayet, Thibaut Thonet, Jean-Michel Renders, and Maarten de Rijke*  
 WSDM 2023
 
-**VAE-IPS: A Deep Generative Recommendation Method for Unbiased Learning From Implicit Feedback**  
-CONSEQUENCES+REVEAL Workshop @ Recsys 2022 [[paper](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/gupta-2022-vae-ips.pdf)]
-
 ## Summarization
 
 **Learning to summarize with human feedback**  
