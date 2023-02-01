@@ -189,7 +189,7 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 ### Applications
 
 **GERE: Generative Evidence Retrieval for Fact Verification**  
-*Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Yixing Fan, Xueqi Cheng*
+*Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Yixing Fan, Xueqi Cheng*  
 SIGIR 2022 [[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531827)] [[Code](https://github.com/Chriskuei/GERE)]
 
 **Generative Multi-hop Retrieval**  
