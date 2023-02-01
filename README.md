@@ -19,8 +19,16 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
 
 ## Live Generative Retrieval
 
+**Sparrow**
+*Building safer dialogue agents*
+[not released] [[paper](#paper-sparrow)]
+
 **DocAsker**  
 Jan 2023 [[live](https://www.docasker.com/)]
+
+**YOU.com**  
+*Search, chat and create with AI*  
+Dec 2023 [[live](https://you.com/)]
 
 **Claude**  
 *RLAIF*
@@ -34,12 +42,14 @@ Nov 2022 [[live](https://openai.com/blog/chatgpt/)]
 *The AI search engine for developers.*
 date? [[live](https://phind.com/)]]
 
-**Perplexity**
+**Perplexity**  
 *Perplexity AI is an answer engine that delivers accurate answers to complex questions using large language models.*  
 date? [[live](https://www.perplexity.ai/)]
 
 **Galactica**  
 date? [[demo](https://galactica.org/explore/)] [[API](https://github.com/paperswithcode/galai)] [[paper](#paper-galactica)]
+
+
 
 ## Blog Posts
 
@@ -72,11 +82,16 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.08110.pdf)]
 *Ross Taylor, Marcin Kardas, Guillem Cucurull,
 Thomas Scialom, Anthony Hartshorn, Elvis Saravia,
 Andrew Poulton, Viktor Kerkez, Robert Stojnic*
-Galactica.org – 2023 [[paper](https://galactica.org/static/paper.pdf)]
+Galactica.org – 2022 [[paper](https://galactica.org/static/paper.pdf)]
 
 **Recitation-Augmented Language Models**  
 *Anonymous*  
 ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=-cqvvvb-NkI)]
+
+<a name="paper-sparrow"></a>
+**Improving alignment of dialogue agents via targeted human judgements**  
+*Amelia Glaese, Nat McAleese, Maja Trębacz, John Aslanides, Vlad Firoiu, Timo Ewalds, Maribeth Rauh, Laura Weidinger, Martin Chadwick, Phoebe Thacker, Lucy Campbell-Gillingham, Jonathan Uesato, Po-Sen Huang, Ramona Comanescu, Fan Yang, Abigail See, Sumanth Dathathri, Rory Greig, Charlie Chen, Doug Fritz, Jaume Sanchez Elias, Richard Green, Soňa Mokrá, Nicholas Fernando, Boxi Wu, Rachel Foley, Susannah Young, Iason Gabriel, William Isaac, John Mellor, Demis Hassabis, Koray Kavukcuoglu, Lisa Anne Hendricks, Geoffrey Irving*  
+arXiv – Sep 2022 [[paper](https://arxiv.org/pdf/2209.14375.pdf)]
 
 **Improving language models by retrieving from trillions of tokens**  
 *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre*  
