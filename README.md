@@ -202,7 +202,7 @@ Arxiv – Apr 2022 [[paper](https://arxiv.org/pdf/2204.13596.pdf)]
 
 **Generative Slate Recommendation with Reinforcement Learning**  
 *Romain Deffayet, Thibaut Thonet, Jean-Michel Renders, and Maarten de Rijke*  
-WSDM 2023
+WSDM 2023 – [[paper](https://arxiv.org/abs/2301.08632)]
 
 ## Summarization
 
