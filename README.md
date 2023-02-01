@@ -15,7 +15,8 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
   - [Indexing Strategy](#indexing-strategy)
   - [Identifier Design](#identifier-design)
   - [Applications](#applications)
-  - [Generative Recommendation](#generative-recommendation)
+- [Generative Recommendation](#generative-recommendation)
+- [Summarization](#summarization)
 
 ## Live Generative Retrieval
 
