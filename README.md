@@ -33,6 +33,10 @@ arXiv – Jan 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0
 *Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12652)
 
+**In-Context Retrieval-Augmented Language Models**  
+*Ori Ram, Yoav Levine, Itay Dalmedigos, Dor Muhlgay, Amnon Shashua, Kevin Leyton-Brown, Yoav Shoham*  
+AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/63c6c20dec4479564db21819_NEW_In_Context_Retrieval_Augmented_Language_Models.pdf)]
+
 **AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation**  
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.08110.pdf)]  
