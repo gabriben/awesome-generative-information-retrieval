@@ -8,6 +8,7 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
 
 - [Epistemoplogy Papers](#epistemoplogy-papers)
 - [Generative Answer Retrieval](#generative-answer-retrieval)
+  - [Multimodal](#multimodal)
 - [Generative Document Retrieval](#generative-document-retrieval)
   - [Indexing Strategy](#indexing-strategy)
   - [Identifier Design](#identifier-design)
@@ -35,6 +36,12 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12652)
 **AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation**  
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.08110.pdf)]  
+
+### Multimodal
+
+**Retrieval-Augmented Multimodal Language Modeling**  
+*Michihiro Yasunaga, Armen Aghajanyan, Weijia Shi, Rich James, Jure Leskovec, Percy Liang, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih*  
+arXiv – Nov 2022 [[paper](https://arxiv.org/pdf/2211.12561.pdf)]
 
 ## Generative Document Retrieval
 
