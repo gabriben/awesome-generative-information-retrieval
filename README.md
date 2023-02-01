@@ -28,6 +28,10 @@ arXiv – Jan 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0
 
 ## Generative Answer Retrieval
 
+**REPLUG: Retrieval-Augmented Black-Box Language Models**  
+*Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih*  
+arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12652)
+
 **AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation**  
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.08110.pdf)]  
