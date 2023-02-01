@@ -2,7 +2,7 @@
 
 # awesome-generative-information-retrieval
 
-Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to be able to access the web or backup their claims with sources (a.k.a. attribution). These chatbots are thus arguably information retrieval machines, competing against or even substituing traditional search engines. We would like to dedicate a space to these models but also to the more general field of generative information retrieval. This includes the neighbouring topic of generative document retrieval, generative recommendation, ...
+Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to be able to access the web or backup their claims with sources (a.k.a. attribution). These chatbots are thus arguably information retrieval machines, competing against or even substituing traditional search engines. We would like to dedicate a space to these models but also to the more general field of generative information retrieval. This includes the neighbouring topic of generative document retrieval, generative recommendation, etc.
 
 # Table of Contents
 
