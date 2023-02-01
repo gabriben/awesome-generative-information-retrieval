@@ -19,7 +19,10 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
 
 ## Live Generative Retrieval
 
-**DocAsker**
+**Character.AI**
+[[link](https://book.character.ai/character-book/welcome-to-character-book)]
+
+**DocAsker**  
 Jan 2023 [[link](https://www.docasker.com/)]
 
 ## Epistemoplogy Papers
