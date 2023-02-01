@@ -2,14 +2,14 @@
 
 # awesome-generative-information-retrieval
 
-Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to be able to access the web or backup their claims with sources (a.k.a. attribution). These chatbots are thus arguably information retrieval machines, competing against or even substituing traditional search engines. We would like to dedicate a space to these models but also to the more general field of generative information retrieval. This includes the neighbouring topic of generative document retrieval, generative recommendation, etc.
+Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to be able to access the web or backup their claims with sources (a.k.a. attribution). These chatbots are thus arguably information retrieval machines, competing against or even substituing traditional search engines. We would like to dedicate a space to these models but also to the more general field of generative information retrieval. We tentatively devide the field in two main topics: **Grounded Answer Generation** and **Generative Document Retrieval**. We also include generative recommendation, generative grounded summarization etc.
 
 # Table of Contents
 
 - [Live Generative Retrieval](#live-generative-retrieval)
 - [Blog Posts](#blog-posts)
 - [Epistemology Papers](#epistemoplogy-papers)
-- [Response Generation](#response-generation)
+- [Grounded Answer Generation](#grounded-answer-generation)
   - [Multimodal](#multimodal)
 - [Generative Document Retrieval](#generative-document-retrieval)
   - [Indexing Strategy](#indexing-strategy)
@@ -67,7 +67,9 @@ SIGIR Forum 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
 arXiv – Jan 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0956713521008355)]
 
-## Response Generation
+## Grounded Answer Generation
+
+Could be subdivided into something like retrieval-enhanced-LLMs and attribution-for-conversations.
 
 **REPLUG: Retrieval-Augmented Black-Box Language Models**  
 *Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih*  
