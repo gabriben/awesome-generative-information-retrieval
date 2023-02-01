@@ -20,30 +20,24 @@ Recently, conversational models (Galactica, YOU.com, perplexity.ai) started to b
 ## Live Generative Retrieval
 
 **Sparrow**  
-*Building safer dialogue agents*  
 [not released] [[paper](#paper-sparrow)]
 
 **DocAsker**  
 Jan 2023 [[live](https://www.docasker.com/)]
 
 **YOU.com**  
-*Search, chat and create with AI*  
 Dec 2023 [[live](https://you.com/)]
 
 **Claude**  
-*RLAIF*  
 Dec 2022 [private beta] [[paper](#paper-constiutional-ai)]
 
 **ChatGPT**  
-*RLHF*  
 Nov 2022 [[live](https://openai.com/blog/chatgpt/)]
 
 **PHIND**  
-*The AI search engine for developers.*  
 date? [[live](https://phind.com/)]]
 
 **Perplexity**  
-*Perplexity AI is an answer engine that delivers accurate answers to complex questions using large language models.*  
 date? [[live](https://www.perplexity.ai/)]
 
 **Galactica**  
@@ -53,7 +47,7 @@ date? [[demo](https://galactica.org/explore/)] [[API](https://github.com/papersw
 date? [[live](https://elicit.org/)]
 
 **ZetaAlpha**
-date? [[live](https://search.zeta-alpha.com/)]
+date? [[live](https://search.zeta-alpha.com/)]  
 uses OpenAI API
 
 ## Blog Posts
