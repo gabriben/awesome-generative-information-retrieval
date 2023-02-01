@@ -118,8 +118,8 @@ arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.04426)]
 *Stephen Roller, Emily Dinan, Naman Goyal, Da Ju, Mary Williamson, Yinhan Liu, Jing Xu, Myle Ott, Eric Michael Smith, Y-Lan Boureau, Jason Weston*  
 EACL 2021 – Apr 2021 [[paper](https://aclanthology.org/2021.eacl-main.24.pdf)]
 
-**BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA**
-*Nora Kassner, Hinrich Schütze*
+**BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA**  
+*Nora Kassner, Hinrich Schütze*  
 EMNLP 2020 – Nov 2020 [[paper](https://aclanthology.org/2020.findings-emnlp.307.pdf)]
 
 **Generalization through Memorization: Nearest Neighbor Language Models**\
