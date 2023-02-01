@@ -49,9 +49,18 @@ date? [[live](https://www.perplexity.ai/)]
 **Galactica**  
 date? [[demo](https://galactica.org/explore/)] [[API](https://github.com/paperswithcode/galai)] [[paper](#paper-galactica)]
 
+**Elicit**
+date? [[live](https://elicit.org/)]
 
+**ZetaAlpha**
+date? [[live](https://search.zeta-alpha.com/)]
+uses OpenAI API
 
 ## Blog Posts
+
+**What Makes a Dialog Agent Useful?**  
+*Nazneen Rajani, Nathan Lambert, Victor Sanh, Thomas Wolf*  
+Hugging Face Blog – Jan 2023 [[link](https://huggingface.co/blog/dialog-agents)]
 
 ## Epistemology Papers
 
@@ -91,6 +100,10 @@ Galactica.org – 2022 [[paper](https://galactica.org/static/paper.pdf)]
 **Recitation-Augmented Language Models**  
 *Anonymous*  
 ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=-cqvvvb-NkI)]
+
+**Generate rather than Retrieve: Large Language Models are Strong Context Generators**  
+*Wenhao Yu1, Dan Iter2, Shuohang Wang2, Yichong Xu2, Mingxuan Ju1, Soumya Sanyal3, Chenguang Zhu2, Michael Zeng2, Meng Jiang1*  
+ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=fB0hRu9GZUS)]
 
 <a name="paper-sparrow"></a>
 **Improving alignment of dialogue agents via targeted human judgements**  
