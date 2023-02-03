@@ -114,8 +114,8 @@ ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=fB0hRu9GZUS)]
 arXiv – Sep 2022 [[paper](https://arxiv.org/pdf/2209.14375.pdf)]
 
 <a name="paper-blenderbot"></a>
-**BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage**
-*Kurt Shuster, Jing Xu, Mojtaba Komeili, Da Ju, Eric Michael Smith, Stephen Roller, Megan Ung, Moya Chen, Kushal Arora, Joshua Lane, Morteza Behrooz, William Ngan, Spencer Poff, Naman Goyal, Arthur Szlam, Y-Lan Boureau, Melanie Kambadur, Jason Weston*
+**BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage**  
+*Kurt Shuster, Jing Xu, Mojtaba Komeili, Da Ju, Eric Michael Smith, Stephen Roller, Megan Ung, Moya Chen, Kushal Arora, Joshua Lane, Morteza Behrooz, William Ngan, Spencer Poff, Naman Goyal, Arthur Szlam, Y-Lan Boureau, Melanie Kambadur, Jason Weston*  
 arXiv – Aug 2022 [[paper](https://arxiv.org/abs/2208.03188)]
 
 **LaMDA: Language Models for Dialog Applications**  
