@@ -24,7 +24,7 @@ Pull-requests welcome!
 
 Although some of these are not accompanied by a paper, they might be useful to other Generative IR researchers for empirical studies or interface design considerations.
 
-**Open-Assistant**
+**Open-Assistant**  
 [under open source dev.] [[code](https://github.com/LAION-AI/Open-Assistant)]
 
 **Sparrow**  
