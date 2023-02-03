@@ -24,8 +24,11 @@ Pull-requests welcome!
 
 Although some of these are not accompanied by a paper, they might be useful to other Generative IR researchers for empirical studies or interface design considerations.
 
+**Open-Assistant**
+[under open source dev.] [[code](https://github.com/LAION-AI/Open-Assistant)]
+
 **Sparrow**  
-[not released] [[paper](#paper-sparrow)]
+[under dev.] [[paper](#paper-sparrow)]
 
 **DocAsker**  
 Jan 2023 [[live](https://www.docasker.com/)]
@@ -114,6 +117,10 @@ arXiv – Sep 2022 [[paper](https://arxiv.org/pdf/2209.14375.pdf)]
 **BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage**
 *Kurt Shuster, Jing Xu, Mojtaba Komeili, Da Ju, Eric Michael Smith, Stephen Roller, Megan Ung, Moya Chen, Kushal Arora, Joshua Lane, Morteza Behrooz, William Ngan, Spencer Poff, Naman Goyal, Arthur Szlam, Y-Lan Boureau, Melanie Kambadur, Jason Weston*
 arXiv – Aug 2022 [[paper](https://arxiv.org/abs/2208.03188)]
+
+**LaMDA: Language Models for Dialog Applications**  
+*Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, Apoorv Kulshreshtha, Heng-Tze Cheng, Alicia Jin, Taylor Bos, Leslie Baker, Yu Du, YaGuang Li, Hongrae Lee, Huaixiu Steven Zheng, Amin Ghafouri, Marcelo Menegali, Yanping Huang, Maxim Krikun, Dmitry Lepikhin, James Qin, Dehao Chen, Yuanzhong Xu, Zhifeng Chen, Adam Roberts, Maarten Bosma, Vincent Zhao, Yanqi Zhou, Chung-Ching Chang, Igor Krivokon, Will Rusch, Marc Pickett, Pranesh Srinivasan, Laichee Man, Kathleen Meier-Hellstern, Meredith Ringel Morris, Tulsee Doshi, Renelito Delos Santos, Toju Duke, Johnny Soraker, Ben Zevenbergen, Vinodkumar Prabhakaran, Mark Diaz, Ben Hutchinson, Kristen Olson, Alejandra Molina, Erin Hoffman-John, Josh Lee, Lora Aroyo, Ravi Rajakumar, Alena Butryna, Matthew Lamm, Viktoriya Kuzmina, Joe Fenton, Aaron Cohen, Rachel Bernstein, Ray Kurzweil, Blaise Aguera-Arcas, Claire Cui, Marian Croak, Ed Chi, Quoc Le*  
+arXiv – Jan 2022 [[paper](https://arxiv.org/abs/2201.08239)]
 
 **WebGPT: Browser-assisted question-answering with human feedback**  
 *Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman*  
