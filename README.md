@@ -159,12 +159,12 @@ For this section, we reuse the content of [awesome-generative-retrieval-models](
 
 ### Indexing Strategy
 
-**DSI++: Updating Transformer Memory with New Documents**
-*Sanket Vaibhav Mehta, Jai Gupta, Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Jinfeng Rao, Marc Najork, Emma Strubell, Donald Metzler*
+**DSI++: Updating Transformer Memory with New Documents**  
+*Sanket Vaibhav Mehta, Jai Gupta, Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Jinfeng Rao, Marc Najork, Emma Strubell, Donald Metzler*  
 arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.09744)]
 
-**CodeDSI: Differentiable Code Search**
-*Usama Nadeem, Noah Ziems, Shaoen Wu*
+**CodeDSI: Differentiable Code Search**  
+*Usama Nadeem, Noah Ziems, Shaoen Wu*  
 arXiv – Oct 2022 [[paper](https://arxiv.org/abs/2210.00328)]
 
 **Transformer Memory as a Differentiable Search Index**  
