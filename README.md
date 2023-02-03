@@ -33,6 +33,9 @@ Jan 2023 [[live](https://www.docasker.com/)]
 **YOU.com**  
 Dec 2023 [[live](https://you.com/)]
 
+**BlenderBot**
+Aug 2022 [[live (USA)](https://geo-not-available.blenderbot.ai/)] [[model weights](https://parl.ai/docs/zoo.html)] [[code](https://github.com/facebookresearch/ParlAI/blob/main/projects/bb3/agents/README.md)] [[paper1](#paper-blenderbot)] [[paper2](#paper-blenderbot-hf)]
+
 **PHIND**  
 date? [[live](https://phind.com/)]
 
@@ -107,6 +110,11 @@ ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=fB0hRu9GZUS)]
 *Amelia Glaese, Nat McAleese, Maja Trębacz, John Aslanides, Vlad Firoiu, Timo Ewalds, Maribeth Rauh, Laura Weidinger, Martin Chadwick, Phoebe Thacker, Lucy Campbell-Gillingham, Jonathan Uesato, Po-Sen Huang, Ramona Comanescu, Fan Yang, Abigail See, Sumanth Dathathri, Rory Greig, Charlie Chen, Doug Fritz, Jaume Sanchez Elias, Richard Green, Soňa Mokrá, Nicholas Fernando, Boxi Wu, Rachel Foley, Susannah Young, Iason Gabriel, William Isaac, John Mellor, Demis Hassabis, Koray Kavukcuoglu, Lisa Anne Hendricks, Geoffrey Irving*  
 arXiv – Sep 2022 [[paper](https://arxiv.org/pdf/2209.14375.pdf)]
 
+<a name="paper-blenderbot"></a>
+**BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage**
+*Kurt Shuster, Jing Xu, Mojtaba Komeili, Da Ju, Eric Michael Smith, Stephen Roller, Megan Ung, Moya Chen, Kushal Arora, Joshua Lane, Morteza Behrooz, William Ngan, Spencer Poff, Naman Goyal, Arthur Szlam, Y-Lan Boureau, Melanie Kambadur, Jason Weston*
+arXiv – Aug 2022 [[paper](https://arxiv.org/abs/2208.03188)]
+
 **WebGPT: Browser-assisted question-answering with human feedback**  
 *Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman*  
 arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.09332)]
@@ -146,6 +154,11 @@ Sheer El Showk, Stanislav Fort, Tamera Lanham, Timothy Telleen-Lawton, Tom Coner
 Tom Henighan, Tristan Hume, Samuel R. Bowman, Zac Hatfield-Dodds, Ben Mann,
 Dario Amodei, Nicholas Joseph, Sam McCandlish, Tom Brown, Jared Kaplan*
 Anthropic.com – Dec 2022 [[paper](https://www.anthropic.com/constitutional.pdf)]
+
+<a name="paper-blenderbot-hf"></a>
+**Learning New Skills after Deployment: Improving open-domain internet-driven dialogue with human feedback**  
+*Jing Xu, Megan Ung, Mojtaba Komeili, Kushal Arora, Y-Lan Boureau, Jason Weston*  
+arXiv – Aug 2022 [[paper](https://arxiv.org/abs/2208.03270)]
 
 ### Multimodal
 
