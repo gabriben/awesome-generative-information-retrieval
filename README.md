@@ -37,7 +37,10 @@ Feb 2023 [[live](https://docsgpt.arc53.com/)] [[code](https://github.com/arc53/d
 Jan 2023 [[live](https://www.docasker.com/)]
 
 **YOU.com**  
-Dec 2023 [[live](https://you.com/)]
+Dec 2022 [[live](https://you.com/)]
+
+**GPT Index**
+Nov 2022 [[API](https://github.com/jerryjliu/gpt_index)]
 
 **BlenderBot**  
 Aug 2022 [[live (USA)](https://geo-not-available.blenderbot.ai/)] [[model weights](https://parl.ai/docs/zoo.html)] [[code](https://github.com/facebookresearch/ParlAI/blob/main/projects/bb3/agents/README.md)] [[paper1](#paper-blenderbot)] [[paper2](#paper-blenderbot-hf)]
