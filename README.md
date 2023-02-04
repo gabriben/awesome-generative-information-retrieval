@@ -30,7 +30,7 @@ Although some of these are not accompanied by a paper, they might be useful to o
 **Sparrow**  
 [under dev.] [[paper](#paper-sparrow)]
 
-**DocsGPT**
+**DocsGPT**  
 Feb 2023 [[live](https://docsgpt.arc53.com/)] [[code](https://github.com/arc53/docsgpt)]
 
 **DocAsker**  
