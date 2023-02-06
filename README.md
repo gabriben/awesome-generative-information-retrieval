@@ -179,6 +179,12 @@ arXiv – Aug 2022 [[paper](https://arxiv.org/abs/2208.03270)]
 *Michihiro Yasunaga, Armen Aghajanyan, Weijia Shi, Rich James, Jure Leskovec, Percy Liang, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih*  
 arXiv – Nov 2022 [[paper](https://arxiv.org/pdf/2211.12561.pdf)]
 
+### Prompting
+
+**ReAct: Synergizing Reasoning and Acting in Language Models**  
+*Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*  
+arXiv – Oct 2022 [[paper](https://arxiv.org/abs/2210.03629)]
+
 ## Generative Document Retrieval
 
 For this section, we reuse the content of [awesome-generative-retrieval-models](https://github.com/Chriskuei/awesome-generative-retrieval-models) and give full credit to [Chriskuei](https://github.com/Chriskuei)!
