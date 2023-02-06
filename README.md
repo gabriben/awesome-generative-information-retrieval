@@ -39,7 +39,7 @@ Jan 2023 [[live](https://www.docasker.com/)]
 **YOU.com**  
 Dec 2022 [[live](https://you.com/)]
 
-**GPT Index**
+**GPT Index**  
 Nov 2022 [[API](https://github.com/jerryjliu/gpt_index)]
 
 **BlenderBot**  
