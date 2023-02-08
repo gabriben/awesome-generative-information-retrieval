@@ -180,6 +180,10 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.09744)]
 *Usama Nadeem, Noah Ziems, Shaoen Wu*  
 arXiv – Oct 2022 [[paper](https://arxiv.org/abs/2210.00328)]
 
+**Contextualized Generative Retrieval**  
+*Hyunji Lee, Jaeyoung Kim, Hoyeon Chang, Hanseok Oh, Sohee Yang, Vlad Karpukhin, Yi Lu, Minjoon Seo*  
+arXiv – Oct 2022 [[paper](https://arxiv.org/pdf/2210.02068.pdf)]
+
 **Transformer Memory as a Differentiable Search Index**  
 *Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler*  
 Neurips 2022 – Oct 2022 [[paper](https://openreview.net/forum?id=Vu-B0clPfq)] [[Video](https://www.youtube.com/watch?v=qlB0TPBQ7YY)] 
