@@ -197,7 +197,7 @@ CIKM 2022 [[paper](https://arxiv.org/abs/2208.07652)] [[Code](https://github.com
 Arxiv 2022 [[paper](https://arxiv.org/abs/2206.02743)]
 
 **Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation**  
-*Zhuang et al.*  
+*Shengyao Zhuang, Houxing Ren, Linjun Shou, Jian Pei, Ming Gong, Guido Zuccon, and Daxin Jiang*  
 Arxiv 2022 [[paper](https://arxiv.org/abs/2206.10128)] [[Code](https://github.com/ArvinZhuang/DSI-transformers)]
 
 ### Identifier Design
