@@ -44,6 +44,8 @@ Although some of these are not accompanied by a paper, they might be useful to o
 
 Honorable mentions of **Claude** [private beta] [[paper](#paper-constiutional-ai)] and **ChatGPT** [[live](https://openai.com/blog/chatgpt/)] that are borderline retrieval models (hallucinate a lot and don't cite their sources for now)
 
+See [PowerdByGPT](https://www.poweredbygpt.co/) for more.
+
 ## Blog Posts
 
 **What Makes a Dialog Agent Useful?**  
