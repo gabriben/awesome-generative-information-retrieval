@@ -27,6 +27,7 @@ Pull-requests welcome!
 Although some of these are not accompanied by a paper, they might be useful to other Generative IR researchers for empirical studies or interface design considerations.
 
 **Open-Assistant** [under open source dev.] [[code](https://github.com/LAION-AI/Open-Assistant)] |
+**Transformer Reinforcement Learning** [under open source dev.] [[code](https://github.com/lvwerra/trl)] |
 **Sparrow** [under dev.] [[paper](#paper-sparrow)] |
 **Bing – Prometheus** Feb 2023 [[waitlist](https://www.bing.com/)] |
 **Google – Bard** Feb 2023 [under dev.] |
@@ -52,6 +53,7 @@ See [PowerdByGPT](https://www.poweredbygpt.co/) for more.
 **What Makes a Dialog Agent Useful?**  
 *Nazneen Rajani, Nathan Lambert, Victor Sanh, Thomas Wolf*  
 Hugging Face Blog – Jan 2023 [[link](https://huggingface.co/blog/dialog-agents)]
+
 
 ## Epistemology Papers
 
