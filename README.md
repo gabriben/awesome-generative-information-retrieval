@@ -34,6 +34,7 @@ Although some of these are not accompanied by a paper, they might be useful to o
 **DocsGPT** Feb 2023 [[live](https://docsgpt.arc53.com/)] [[code](https://github.com/arc53/docsgpt)] |
 **DocAsker** Jan 2023 [[live](https://www.docasker.com/)] |
 **YOU.com** Dec 2022 [[live](https://you.com/)] |
+**arXivGPT** Dec 2022 [[Chrome extension](https://github.com/hunkimForks/chatgpt-arxiv-extension)]
 **GPT Index** Nov 2022 [[API](https://github.com/jerryjliu/gpt_index)] |
 **BlenderBot** Aug 2022 [[live (USA)](https://geo-not-available.blenderbot.ai/)] [[model weights](https://parl.ai/docs/zoo.html)] [[code](https://github.com/facebookresearch/ParlAI/blob/main/projects/bb3/agents/README.md)] [[paper1](#paper-blenderbot)] [[paper2](#paper-blenderbot-hf)] |
 **PHIND** date? [[live](https://phind.com/)] |
