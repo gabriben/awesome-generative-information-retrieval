@@ -191,7 +191,7 @@ arXiv – Oct 2022 [[paper](https://arxiv.org/pdf/2210.02068.pdf)]
 
 **Transformer Memory as a Differentiable Search Index**  
 *Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler*  
-Neurips 2022 – Oct 2022 [[paper](https://openreview.net/forum?id=Vu-B0clPfq)] [[Video](https://www.youtube.com/watch?v=qlB0TPBQ7YY)] 
+Neurips 2022 – Oct 2022 [[paper](https://openreview.net/forum?id=Vu-B0clPfq)] [[Video](https://www.youtube.com/watch?v=qlB0TPBQ7YY)] [[third-party code](https://github.com/ArvinZhuang/DSI-transformers)]
 
 **CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**  
 *Chen et al.*  
