@@ -69,6 +69,10 @@ arXiv – Jan 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0
 
 Could be subdivided into something like retrieval-enhanced-LLMs and attribution-for-conversations.
 
+**Toolformer: Language Models Can Teach Themselves to Use Tools**  
+*Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom*  
+arXiv – Feb 2023 [[paper](https://arxiv.org/abs/2302.04761)]
+
 **REPLUG: Retrieval-Augmented Black-Box Language Models**  
 *Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12652)]
