@@ -10,6 +10,7 @@ Pull-requests welcome!
 
 - [Live Generative Retrieval](#live-generative-retrieval)
 - [Blog Posts](#blog-posts)
+- [Datasets](#datasets)
 - [Epistemology Papers](#epistemoplogy-papers)
 - [Grounded Answer Generation](#grounded-answer-generation)
   - [Reinforcement Learning](#reinforcement-learning)
@@ -54,6 +55,12 @@ See [PowerdByGPT](https://www.poweredbygpt.co/) for more.
 *Nazneen Rajani, Nathan Lambert, Victor Sanh, Thomas Wolf*  
 Hugging Face Blog – Jan 2023 [[link](https://huggingface.co/blog/dialog-agents)]
 
+## Datasets
+
+
+**ChatGPT-RetrievalQA**  
+*Arian Askari, Mohammad Aliannejadi, Evangelos Kanoulas, Suzan Verberne*  
+https://github.com/arian-askari/ChatGPT-RetrievalQA
 
 ## Epistemology Papers
 
