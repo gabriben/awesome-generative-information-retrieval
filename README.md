@@ -186,7 +186,7 @@ arXiv – Oct 2022 [[paper](https://arxiv.org/abs/2210.03629)]
 
 For this section, we reuse the content of [awesome-generative-retrieval-models](https://github.com/Chriskuei/awesome-generative-retrieval-models) and give full credit to [Chriskuei](https://github.com/Chriskuei)!
 
-### Indexing Strategy
+### Generate a Document ID as an identifier
 
 **DSI++: Updating Transformer Memory with New Documents**  
 *Sanket Vaibhav Mehta, Jai Gupta, Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Jinfeng Rao, Marc Najork, Emma Strubell, Donald Metzler*  
@@ -204,10 +204,6 @@ arXiv – Oct 2022 [[paper](https://arxiv.org/pdf/2210.02068.pdf)]
 *Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler*  
 Neurips 2022 – Oct 2022 [[paper](https://openreview.net/forum?id=Vu-B0clPfq)] [[Video](https://www.youtube.com/watch?v=qlB0TPBQ7YY)] [[third-party code](https://github.com/ArvinZhuang/DSI-transformers)]
 
-**CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**  
-*Chen et al.*  
-CIKM 2022 [[paper](https://arxiv.org/abs/2208.07652)] [[Code](https://github.com/ict-bigdatalab/CorpusBrain)] 
-
 **A Neural Corpus Indexer for Document Retrieval**  
 *Wang et al.*  
 Arxiv 2022 [[paper](https://arxiv.org/abs/2206.02743)]
@@ -216,7 +212,19 @@ Arxiv 2022 [[paper](https://arxiv.org/abs/2206.02743)]
 *Shengyao Zhuang, Houxing Ren, Linjun Shou, Jian Pei, Ming Gong, Guido Zuccon, and Daxin Jiang*  
 Arxiv 2022 [[paper](https://arxiv.org/abs/2206.10128)] [[Code](https://github.com/ArvinZhuang/DSI-transformers)]
 
-### Identifier Design
+**DynamicRetriever: A Pre-training Model-based IR System with Neither Sparse nor Dense Index**  
+*Zhou et al*  
+Arxiv 2022 [[paper](https://arxiv.org/pdf/2203.00537.pdf)]
+
+**Ultron: An Ultimate Retriever on Corpus with a Model-based Indexer**  
+*Zhou et al*  
+Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
+
+### Generate a string as an identifier
+
+**CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**  
+*Chen et al.*  
+CIKM 2022 [[paper](https://arxiv.org/abs/2208.07652)] [[Code](https://github.com/ict-bigdatalab/CorpusBrain)] 
 
 **Autoregressive Entity Retrieval**  
 *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni*  
@@ -225,14 +233,6 @@ ICLR 2021 [[paper](https://arxiv.org/pdf/2010.00904.pdf)] [[Code](https://github
 **Autoregressive Search Engines: Generating Substrings as Document Identifiers**  
 *Bevilacqua et al.*  
 Arxiv 2022 [[paper](https://arxiv.org/pdf/2204.10628.pdf)] [[Code](https://github.com/facebookresearch/SEAL)]
-
-**DynamicRetriever: A Pre-training Model-based IR System with Neither Sparse nor Dense Index**  
-*Zhou et al*  
-Arxiv 2022 [[paper](https://arxiv.org/pdf/2203.00537.pdf)]
-
-**Ultron: An Ultimate Retriever on Corpus with a Model-based Indexer**  
-*Zhou et al*  
-Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Applications
 
