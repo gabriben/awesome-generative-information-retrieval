@@ -223,16 +223,16 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 ### Generate a string as an identifier
 
 **CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**  
-*Chen et al.*  
-CIKM 2022 [[paper](https://arxiv.org/abs/2208.07652)] [[Code](https://github.com/ict-bigdatalab/CorpusBrain)] 
+*Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Yiqun Liu, Yixing Fan, Xueqi Cheng*  
+CIKM 2022 – Aug 2022 [[paper](https://arxiv.org/abs/2208.07652)] [[Code](https://github.com/ict-bigdatalab/CorpusBrain)] 
+
+**Autoregressive Search Engines: Generating Substrings as Document Identifiers**  
+*Michele Bevilacqua, Giuseppe Ottaviano, Patrick Lewis, Wen-tau Yih, Sebastian Riedel, Fabio Petroni*  
+arXiv – Apr 2022 [[paper](https://arxiv.org/pdf/2204.10628.pdf)] [[Code](https://github.com/facebookresearch/SEAL)]
 
 **Autoregressive Entity Retrieval**  
 *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni*  
-ICLR 2021 [[paper](https://arxiv.org/pdf/2010.00904.pdf)] [[Code](https://github.com/facebookresearch/GENRE)]
-
-**Autoregressive Search Engines: Generating Substrings as Document Identifiers**  
-*Bevilacqua et al.*  
-Arxiv 2022 [[paper](https://arxiv.org/pdf/2204.10628.pdf)] [[Code](https://github.com/facebookresearch/SEAL)]
+ICLR 2021 – Oct 2020 [[paper](https://arxiv.org/pdf/2010.00904.pdf)] [[Code](https://github.com/facebookresearch/GENRE)]
 
 ### Applications
 
