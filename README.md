@@ -64,6 +64,10 @@ https://github.com/arian-askari/ChatGPT-RetrievalQA
 
 ## Epistemology Papers
 
+**Augmented Language Models: a Survey**  
+*Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom*  
+arXiv – Feb 2023 [[paper](https://arxiv.org/pdf/2302.07842.pdf)]
+
 **Rethinking Search: Making Domain Experts out of Dilettantes**  
 *Donald Metzler, Yi Tay, Dara Bahri, Marc Najork*  
 SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]  
