@@ -70,13 +70,17 @@ https://github.com/arian-askari/ChatGPT-RetrievalQA
 *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom*  
 arXiv – Feb 2023 [[paper](https://arxiv.org/pdf/2302.07842.pdf)]
 
+**Conversational Information Seeking. An Introduction to Conversational Search, Recommendation, and Question Answering**  
+*Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
+arXiv – Jan 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0956713521008355)]
+
 **Rethinking Search: Making Domain Experts out of Dilettantes**  
 *Donald Metzler, Yi Tay, Dara Bahri, Marc Najork*  
 SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]  
 
-**Conversational Information Seeking. An Introduction to Conversational Search, Recommendation, and Question Answering**  
-*Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
-arXiv – Jan 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0956713521008355)]
+**Facts**  
+*Kevin Mulligan and Fabrice Correia*  
+The Stanford Encyclopedia of Philosophy – Winter 2021 [[url](https://plato.stanford.edu/archives/win2021/entries/facts/)]
 
 ## Grounded Answer Generation
 
