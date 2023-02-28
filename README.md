@@ -86,6 +86,10 @@ The Stanford Encyclopedia of Philosophy – Winter 2021 [[url](https://plato.sta
 
 Could be subdivided into something like retrieval-enhanced-LLMs and attribution-for-conversations.
 
+**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**  
+*Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao*  
+arXiv – Feb 2023 [[paper](https://arxiv.org/abs/2302.12813)] [[code](https://github.com/pengbaolin/LLM-Augmenter)]
+
 **Toolformer: Language Models Can Teach Themselves to Use Tools**  
 *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom*  
 arXiv – Feb 2023 [[paper](https://arxiv.org/abs/2302.04761)]
