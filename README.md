@@ -30,6 +30,7 @@ Although some of these are not accompanied by a paper, they might be useful to o
 **Open-Assistant** [under open source dev.] [[code](https://github.com/LAION-AI/Open-Assistant)] |
 **Transformer Reinforcement Learning** [under open source dev.] [[code](https://github.com/lvwerra/trl)] |
 **Sparrow** [under dev.] [[paper](#paper-sparrow)] |
+**book-gpt** Feb 2023 [[live](https://github.com/fraserxu/book-gpt)] |
 **Neeva** Feb 2023 [[live](https://neeva.com/)] |
 **Golden Retriever** Feb 2023 [[live](https://golden.com/ai)] |
 **Bing – Prometheus** Feb 2023 [[waitlist](https://www.bing.com/)] |
