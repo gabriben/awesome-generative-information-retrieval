@@ -17,6 +17,7 @@ Pull-requests welcome!
   - [Reinforcement Learning](#reinforcement-learning)
   - [Multimodal](#multimodal)
   - [Prompting](#prompting)
+  - [Generate Code](#generate-code)
 - [Generative Document Retrieval](#generative-document-retrieval)
   - [Generate a Document ID as an identifier](#generate-a-document-id-as-an-identifier)
   - [Generate a string as an identifier](#generate-a-string-as-an-identifier)
