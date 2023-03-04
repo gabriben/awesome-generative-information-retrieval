@@ -203,6 +203,14 @@ arXiv – Nov 2022 [[paper](https://arxiv.org/pdf/2211.12561.pdf)]
 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*  
 arXiv – Oct 2022 [[paper](https://arxiv.org/abs/2210.03629)]
 
+### Generate Code
+
+**DocPrompting: Generating Code by Retrieving the Docs**  
+*Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig*  
+ICLR 23 – Jul 2022 [[paper](https://arxiv.org/abs/2207.05987)] [[code](https://github.com/shuyanzhou/docprompting)] [[data](https://github.com/shuyanzhou/docprompting#data)]
+
+
+
 ## Generative Document Retrieval
 
 For this section, we reuse the content of [awesome-generative-retrieval-models](https://github.com/Chriskuei/awesome-generative-retrieval-models) and give full credit to [Chriskuei](https://github.com/Chriskuei)!
