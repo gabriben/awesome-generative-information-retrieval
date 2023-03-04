@@ -11,6 +11,7 @@ Pull-requests welcome!
 - [Live Generative Retrieval](#live-generative-retrieval)
 - [Blog Posts](#blog-posts)
 - [Datasets](#datasets)
+- [Tools](#tools)
 - [Epistemology Papers](#epistemoplogy-papers)
 - [Grounded Answer Generation](#grounded-answer-generation)
   - [Reinforcement Learning](#reinforcement-learning)
@@ -64,6 +65,11 @@ Hugging Face Blog – Jan 2023 [[link](https://huggingface.co/blog/dialog-agents
 **ChatGPT-RetrievalQA**  
 *Arian Askari, Mohammad Aliannejadi, Evangelos Kanoulas, Suzan Verberne*  
 https://github.com/arian-askari/ChatGPT-RetrievalQA
+
+## Tools
+**PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development**  
+*Avirup Sil, Jaydeep Sen, Bhavani Iyer, Martin Franz, Kshitij Fadnis, Mihaela Bornea, Sara Rosenthal, Scott McCarley, Rong Zhang, Vishwajeet Kumar, Yulong Li, Md Arafat Sultan, Riyaz Bhat, Radu Florian, Salim Roukos*  
+[[paper](https://arxiv.org/abs/2301.09715)] [[code](https://github.com/primeqa/primeqa)]
 
 ## Epistemology Papers
 
