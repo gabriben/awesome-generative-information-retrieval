@@ -29,6 +29,8 @@ Pull-requests welcome!
 
 Although some of these are not accompanied by a paper, they might be useful to other Generative IR researchers for empirical studies or interface design considerations.
 
+🌳
+**doc-gpt** Mar 2023 [[live](https://pineappleexpress808-doc-gpt-doc-gpt-q0823l.streamlit.app/)] 🌳
 **book-gpt** Feb 2023 [[live](https://github.com/fraserxu/book-gpt)] 🌳
 **Neeva** Feb 2023 [[live](https://neeva.com/)] 🌳
 **Golden Retriever** Feb 2023 [[live](https://golden.com/ai)] 🌳
@@ -48,8 +50,9 @@ Although some of these are not accompanied by a paper, they might be useful to o
 **ZetaAlpha** date? [[live](https://search.zeta-alpha.com/)] uses OpenAI API 
 
 Under development: 
-**Open-Assistant** [open source] [[code](https://github.com/LAION-AI/Open-Assistant)] |
-**Transformer Reinforcement Learning** [open source] [[code](https://github.com/lvwerra/trl)] |
+🌳
+**Open-Assistant** [open source] [[code](https://github.com/LAION-AI/Open-Assistant)] 🌳
+**Transformer Reinforcement Learning** [open source] [[code](https://github.com/lvwerra/trl)] 🌳
 **Sparrow** [[paper](#paper-sparrow)]
 
 Honorable mentions of **Claude** [private beta] [[paper](#paper-constiutional-ai)] and **ChatGPT** [[live](https://openai.com/blog/chatgpt/)] that are borderline retrieval models (hallucinate a lot and don't cite their sources for now)
