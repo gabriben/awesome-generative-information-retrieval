@@ -70,7 +70,7 @@ https://github.com/arian-askari/ChatGPT-RetrievalQA
 ## Tools
 **PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development**  
 *Avirup Sil, Jaydeep Sen, Bhavani Iyer, Martin Franz, Kshitij Fadnis, Mihaela Bornea, Sara Rosenthal, Scott McCarley, Rong Zhang, Vishwajeet Kumar, Yulong Li, Md Arafat Sultan, Riyaz Bhat, Radu Florian, Salim Roukos*  
-[[paper](https://arxiv.org/abs/2301.09715)] [[code](https://github.com/primeqa/primeqa)]
+arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://github.com/primeqa/primeqa)]
 
 ## Epistemology Papers
 
@@ -126,7 +126,7 @@ Andrew Poulton, Viktor Kerkez, Robert Stojnic*
 Galactica.org – 2022 [[paper](https://galactica.org/static/paper.pdf)]
 
 **Recitation-Augmented Language Models**  
-*Anonymous*  
+*Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou*  
 ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=-cqvvvb-NkI)]
 
 **Generate rather than Retrieve: Large Language Models are Strong Context Generators**  
