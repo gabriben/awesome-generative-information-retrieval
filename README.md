@@ -29,31 +29,31 @@ Pull-requests welcome!
 
 Although some of these are not accompanied by a paper, they might be useful to other Generative IR researchers for empirical studies or interface design considerations.
 
-🌳
-**TaxGenius** Mar 2023 [[live](https://www.taxgenius.app/)] 🌳
-**doc-gpt** Mar 2023 [[live](https://pineappleexpress808-doc-gpt-doc-gpt-q0823l.streamlit.app/)] 🌳
-**book-gpt** Feb 2023 [[live](https://github.com/fraserxu/book-gpt)] 🌳
-**Neeva** Feb 2023 [[live](https://neeva.com/)] 🌳
-**Golden Retriever** Feb 2023 [[live](https://golden.com/ai)] 🌳
-**Bing – Prometheus** Feb 2023 [[waitlist](https://www.bing.com/)] 🌳
-**Google – Bard** Feb 2023 [under dev.] 🌳
-**Paper QA** Feb 2023 [[code](https://github.com/whitead/paper-qa)] [[demo](https://huggingface.co/spaces/whitead/paper-qa)] 🌳
-**DocsGPT** Feb 2023 [[live](https://docsgpt.arc53.com/)] [[code](https://github.com/arc53/docsgpt)] 🌳
-**DocAsker** Jan 2023 [[live](https://www.docasker.com/)] 🌳
-**YOU.com** Dec 2022 [[live](https://you.com/)] 🌳
-**arXivGPT** Dec 2022 [[Chrome extension](https://github.com/hunkimForks/chatgpt-arxiv-extension)] 🌳
-**GPT Index** Nov 2022 [[API](https://github.com/jerryjliu/gpt_index)] 🌳
-**BlenderBot** Aug 2022 [[live (USA)](https://geo-not-available.blenderbot.ai/)] [[model weights](https://parl.ai/docs/zoo.html)] [[code](https://github.com/facebookresearch/ParlAI/blob/main/projects/bb3/agents/README.md)] [[paper1](#paper-blenderbot)] [[paper2](#paper-blenderbot-hf)] 🌳
-**PHIND** date? [[live](https://phind.com/)] 🌳
-**Perplexity** date? [[live](https://www.perplexity.ai/)] 🌳
-**Galactica** date? [[demo](https://galactica.org/explore/)] [[API](https://github.com/paperswithcode/galai)] [[paper](#paper-galactica)] 🌳
-**Elicit** date? [[live](https://elicit.org/)] 🌳
+⚡️
+**TaxGenius** Mar 2023 [[live](https://www.taxgenius.app/)] ⚡️
+**doc-gpt** Mar 2023 [[live](https://pineappleexpress808-doc-gpt-doc-gpt-q0823l.streamlit.app/)] ⚡️
+**book-gpt** Feb 2023 [[live](https://github.com/fraserxu/book-gpt)] ⚡️
+**Neeva** Feb 2023 [[live](https://neeva.com/)] ⚡️
+**Golden Retriever** Feb 2023 [[live](https://golden.com/ai)] ⚡️
+**Bing – Prometheus** Feb 2023 [[waitlist](https://www.bing.com/)] ⚡️
+**Google – Bard** Feb 2023 [under dev.] ⚡️
+**Paper QA** Feb 2023 [[code](https://github.com/whitead/paper-qa)] [[demo](https://huggingface.co/spaces/whitead/paper-qa)] ⚡️
+**DocsGPT** Feb 2023 [[live](https://docsgpt.arc53.com/)] [[code](https://github.com/arc53/docsgpt)] ⚡️
+**DocAsker** Jan 2023 [[live](https://www.docasker.com/)] ⚡️
+**YOU.com** Dec 2022 [[live](https://you.com/)] ⚡️
+**arXivGPT** Dec 2022 [[Chrome extension](https://github.com/hunkimForks/chatgpt-arxiv-extension)] ⚡️
+**GPT Index** Nov 2022 [[API](https://github.com/jerryjliu/gpt_index)] ⚡️
+**BlenderBot** Aug 2022 [[live (USA)](https://geo-not-available.blenderbot.ai/)] [[model weights](https://parl.ai/docs/zoo.html)] [[code](https://github.com/facebookresearch/ParlAI/blob/main/projects/bb3/agents/README.md)] [[paper1](#paper-blenderbot)] [[paper2](#paper-blenderbot-hf)] ⚡️
+**PHIND** date? [[live](https://phind.com/)] ⚡️
+**Perplexity** date? [[live](https://www.perplexity.ai/)] ⚡️
+**Galactica** date? [[demo](https://galactica.org/explore/)] [[API](https://github.com/paperswithcode/galai)] [[paper](#paper-galactica)] ⚡️
+**Elicit** date? [[live](https://elicit.org/)] ⚡️
 **ZetaAlpha** date? [[live](https://search.zeta-alpha.com/)] uses OpenAI API 
 
 Under development: 
-🌳
-**Open-Assistant** [open source] [[code](https://github.com/LAION-AI/Open-Assistant)] 🌳
-**Transformer Reinforcement Learning** [open source] [[code](https://github.com/lvwerra/trl)] 🌳
+⚡️
+**Open-Assistant** [open source] [[code](https://github.com/LAION-AI/Open-Assistant)] ⚡️
+**Transformer Reinforcement Learning** [open source] [[code](https://github.com/lvwerra/trl)] ⚡️
 **Sparrow** [[paper](#paper-sparrow)]
 
 Honorable mentions of **Claude** [private beta] [[paper](#paper-constiutional-ai)] and **ChatGPT** [[live](https://openai.com/blog/chatgpt/)] that are borderline retrieval models (hallucinate a lot and don't cite their sources for now)
