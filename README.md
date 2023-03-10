@@ -101,10 +101,6 @@ The Stanford Encyclopedia of Philosophy – Winter 2021 [[url](https://plato.sta
 
 Could be subdivided into something like retrieval-enhanced-LLMs and attribution-for-conversations.
 
-**RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**  
-*Zheng Yuan, Qiao Jin, Chuanqi Tan, Zhengyun Zhao, Hongyi Yuan, Fei Huang, Songfang Huang*  
-arXiv – Mar 2023 [[paper](https://arxiv.org/abs/2303.00534)]
-
 **Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**  
 *Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao*  
 arXiv – Feb 2023 [[paper](https://arxiv.org/abs/2302.12813)] [[code](https://github.com/pengbaolin/LLM-Augmenter)]
@@ -208,6 +204,10 @@ arXiv – Aug 2022 [[paper](https://arxiv.org/abs/2208.03270)]
 **Retrieval-Augmented Multimodal Language Modeling**  
 *Michihiro Yasunaga, Armen Aghajanyan, Weijia Shi, Rich James, Jure Leskovec, Percy Liang, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih*  
 arXiv – Nov 2022 [[paper](https://arxiv.org/pdf/2211.12561.pdf)]
+
+**RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**  
+*Zheng Yuan, Qiao Jin, Chuanqi Tan, Zhengyun Zhao, Hongyi Yuan, Fei Huang, Songfang Huang*  
+arXiv – Mar 2023 [[paper](https://arxiv.org/abs/2303.00534)]
 
 ### Prompting
 
