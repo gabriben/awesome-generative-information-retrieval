@@ -30,6 +30,7 @@ Pull-requests welcome!
 Although some of these are not accompanied by a paper, they might be useful to other Generative IR researchers for empirical studies or interface design considerations.
 
 ⚡️
+**devmarizer** Mar 2023 [[live](https://devmarizer.firebaseapp.com/)] ⚡️
 **TaxGenius** Mar 2023 [[live](https://www.taxgenius.app/)] ⚡️
 **doc-gpt** Mar 2023 [[live](https://pineappleexpress808-doc-gpt-doc-gpt-q0823l.streamlit.app/)] ⚡️
 **book-gpt** Feb 2023 [[live](https://github.com/fraserxu/book-gpt)] ⚡️
