@@ -67,10 +67,13 @@ Hugging Face Blog – Jan 2023 [[link](https://huggingface.co/blog/dialog-agents
 
 ## Datasets
 
-
 **ChatGPT-RetrievalQA**  
 *Arian Askari, Mohammad Aliannejadi, Evangelos Kanoulas, Suzan Verberne*  
-https://github.com/arian-askari/ChatGPT-RetrievalQA
+Github – Feb 2023 [[code](https://github.com/arian-askari/ChatGPT-RetrievalQA)]
+
+**TruthfulQA: Measuring How Models Mimic Human Falsehoods**  
+*Stephanie Lin, Jacob Hilton, Owain Evans*  
+arXiv – Sep 2021 [[paper](https://arxiv.org/pdf/2109.07958.pdf)] [[code](https://github.com/sylinrl/TruthfulQA)]
 
 ## Tools
 **PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development**  
