@@ -39,6 +39,7 @@ Although some of these are not accompanied by a paper, they might be useful to o
 **Paper QA** Feb 2023 [[code](https://github.com/whitead/paper-qa)] [[demo](https://huggingface.co/spaces/whitead/paper-qa)] ⚡️
 **DocsGPT** Feb 2023 [[live](https://docsgpt.arc53.com/)] [[code](https://github.com/arc53/docsgpt)] ⚡️
 **DocAsker** Jan 2023 [[live](https://www.docasker.com/)] ⚡️
+**Lexii.ai** Jan 2023 [[live](https://lexii.ai/)] ⚡️
 **YOU.com** Dec 2022 [[live](https://you.com/)] ⚡️
 **arXivGPT** Dec 2022 [[Chrome extension](https://github.com/hunkimForks/chatgpt-arxiv-extension)] ⚡️
 **GPT Index** Nov 2022 [[API](https://github.com/jerryjliu/gpt_index)] ⚡️
