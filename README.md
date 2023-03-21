@@ -22,6 +22,7 @@ Pull-requests welcome!
   - [Applications](#applications)
 - [Generative Recommendation](#generative-recommendation)
 - [Summarization](#summarization)
+- [Knowledge Graph Generation](#knowledge-graph-generation)
 
 ## Live Generative Retrieval
 
@@ -131,7 +132,7 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 **Galactica: A Large Language Model for Science**  
 *Ross Taylor, Marcin Kardas, Guillem Cucurull,
 Thomas Scialom, Anthony Hartshorn, Elvis Saravia,
-Andrew Poulton, Viktor Kerkez, Robert Stojnic*
+Andrew Poulton, Viktor Kerkez, Robert Stojnic*  
 Galactica.org – 2022 [[paper](https://galactica.org/static/paper.pdf)]
 
 **Recitation-Augmented Language Models**  
@@ -299,3 +300,9 @@ WSDM 2023 – [[paper](https://arxiv.org/abs/2301.08632)]
 **Learning to summarize with human feedback**  
 *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*  
 NeurIPS 2020 – Sep 2020 [[paper](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)]
+
+## Knowledge Graph Generation
+
+**Crawling the Internal Knowledge-Base of Language Models**  
+*Roi Cohen, Mor Geva, Jonathan Berant, Amir Globerson*  
+arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12810)]
