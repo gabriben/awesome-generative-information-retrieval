@@ -228,7 +228,7 @@ ICLR 23 – Jul 2022 [[paper](https://arxiv.org/abs/2207.05987)] [[code](https:/
 
 ## Generative Document Retrieval
 
-For this section, we reuse the content of [awesome-generative-retrieval-models](https://github.com/Chriskuei/awesome-generative-retrieval-models) and give full credit to [Chriskuei](https://github.com/Chriskuei)!
+We jump-started this section by reusing the content of [awesome-generative-retrieval-models](https://github.com/Chriskuei/awesome-generative-retrieval-models) and give full credit to [Chriskuei](https://github.com/Chriskuei) for that! We now have added some content on top.
 
 ### Generate a Document ID as an identifier
 
