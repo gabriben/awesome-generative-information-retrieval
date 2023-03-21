@@ -232,6 +232,10 @@ For this section, we reuse the content of [awesome-generative-retrieval-models](
 
 ### Generate a Document ID as an identifier
 
+**DynamicRetriever: A Pre-trained Model-based IR System Without an Explicit Index**  
+*Yu-Jia Zhou, Jing Yao, Zhi-Cheng Dou, Ledell Wu, Ji-Rong Wen*  
+Machine Intelligence Research – Jan 2023 [[paper](https://link.springer.com/article/10.1007/s11633-022-1373-9)]
+
 **DSI++: Updating Transformer Memory with New Documents**  
 *Sanket Vaibhav Mehta, Jai Gupta, Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Jinfeng Rao, Marc Najork, Emma Strubell, Donald Metzler*  
 arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.09744)]
