@@ -102,13 +102,17 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.04246.pdf)]
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
 arXiv – Jan 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0956713521008355)]
 
-**Rethinking Search: Making Domain Experts out of Dilettantes**  
-*Donald Metzler, Yi Tay, Dara Bahri, Marc Najork*  
-SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]  
-
 **Facts**  
 *Kevin Mulligan and Fabrice Correia*  
 The Stanford Encyclopedia of Philosophy – Winter 2021 [[url](https://plato.stanford.edu/archives/win2021/entries/facts/)]
+
+**Truthful AI: Developing and governing AI that does not lie**  
+*Owain Evans, Owen Cotton-Barratt, Lukas Finnveden, Adam Bales, Avital Balwit, Peter Wills, Luca Righetti, William Saunders*  
+arXiv – Oct 2021 [[paper](https://arxiv.org/pdf/2110.06674.pdf)]
+
+**Rethinking Search: Making Domain Experts out of Dilettantes**  
+*Donald Metzler, Yi Tay, Dara Bahri, Marc Najork*  
+SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]  
 
 ## Grounded Answer Generation
 
