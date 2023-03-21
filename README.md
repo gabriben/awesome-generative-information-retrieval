@@ -284,6 +284,10 @@ ICLR 2021 – Oct 2020 [[paper](https://arxiv.org/pdf/2010.00904.pdf)] [[Code](h
 
 ### Applications
 
+**Data-Efficient Autoregressive Document Retrieval for Fact Verification**  
+*James Thorne*  
+SustaiNLP@EMNLP 2022 – Nov 2022 [[paper](https://arxiv.org/abs/2211.09388)]
+
 **GERE: Generative Evidence Retrieval for Fact Verification**  
 *Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Yixing Fan, Xueqi Cheng*  
 SIGIR 2022 [[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531827)] [[Code](https://github.com/Chriskuei/GERE)]
