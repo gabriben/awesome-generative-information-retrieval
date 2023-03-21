@@ -67,6 +67,12 @@ See [PowerdByGPT](https://www.poweredbygpt.co/) for more.
 *Nazneen Rajani, Nathan Lambert, Victor Sanh, Thomas Wolf*  
 Hugging Face Blog – Jan 2023 [[link](https://huggingface.co/blog/dialog-agents)]
 
+**Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk**  
+*Josh A. Goldstein, Girish Sastry, Micah Musser, Renée DiResta, Matthew Gentzel, Katerina Sedova*  
+OpenAI Blog – Jan 2023 [[link](https://openai.com/research/forecasting-misuse)]
+
+https://openai.com/research/forecasting-misuse
+
 ## Datasets
 
 **ChatGPT-RetrievalQA**  
@@ -87,6 +93,10 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://g
 **Augmented Language Models: a Survey**  
 *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom*  
 arXiv – Feb 2023 [[paper](https://arxiv.org/pdf/2302.07842.pdf)]
+
+**Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations**  
+*Josh A. Goldstein, Girish Sastry, Micah Musser, Renee DiResta, Matthew Gentzel, Katerina Sedova*  
+arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.04246.pdf)]
 
 **Conversational Information Seeking. An Introduction to Conversational Search, Recommendation, and Question Answering**  
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
