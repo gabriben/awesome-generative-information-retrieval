@@ -309,6 +309,10 @@ WSDM 2023 – [[paper](https://arxiv.org/abs/2301.08632)]
 *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*  
 NeurIPS 2020 – Sep 2020 [[paper](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)]
 
+**On Faithfulness and Factuality in Abstractive Summarization**  
+*Joshua Maynez, Shashi Narayan, Bernd Bohnet, Ryan McDonald*  
+ACL 2020 – May 2020 [[paper[(https://aclanthology.org/2020.acl-main.173.pdf)]
+
 ## Knowledge Graph Generation
 
 **Crawling the Internal Knowledge-Base of Language Models**  
