@@ -313,9 +313,13 @@ Arxiv – Apr 2022 [[paper](https://arxiv.org/pdf/2204.13596.pdf)]
 
 ## Generative Recommendation
 
+**Recommender Systems with Generative Retrieval**  
+*Shashank Rajput, Nikhil Mehta, Anima Singh, Raghunandan Keshavan, Trung Vu, Lukasz Heldt, Lichan Hong, Yi Tay, Vinh Q. Tran, Jonah Samost, Maciej Kula, Ed H. Chi, Maheswaran Sathiamoorthy*  
+non-archival – Mar 2023 [[paper](https://shashankrajput.github.io/Generative.pdf)]
+
 **Generative Slate Recommendation with Reinforcement Learning**  
 *Romain Deffayet, Thibaut Thonet, Jean-Michel Renders, and Maarten de Rijke*  
-WSDM 2023 – [[paper](https://arxiv.org/abs/2301.08632)]
+WSDM 2023 [[paper](https://arxiv.org/abs/2301.08632)]
 
 ## Summarization
 
