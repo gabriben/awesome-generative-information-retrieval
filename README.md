@@ -20,8 +20,8 @@ Pull-requests welcome!
   - [Generate a Document ID as an identifier](#generate-a-document-id-as-an-identifier)
   - [Generate a string as an identifier](#generate-a-string-as-an-identifier)
   - [Applications](#applications)
-- [Generative Recommendation](#generative-recommendation)
 - [Summarization](#summarization)
+- [Generative Recommendation](#generative-recommendation)
 - [Knowledge Graph Generation](#knowledge-graph-generation)
 
 ## Live Generative Retrieval
@@ -314,6 +314,16 @@ SIGIR 2022 [[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531827)] [[Code]
 *Hyunji Lee, Sohee Yang, Hanseok Oh, Minjoon Seo*  
 Arxiv – Apr 2022 [[paper](https://arxiv.org/pdf/2204.13596.pdf)]
 
+## Summarization
+
+**Learning to summarize with human feedback**  
+*Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*  
+NeurIPS 2020 – Sep 2020 [[paper](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)]
+
+**On Faithfulness and Factuality in Abstractive Summarization**  
+*Joshua Maynez, Shashi Narayan, Bernd Bohnet, Ryan McDonald*  
+ACL 2020 – May 2020 [[paper](https://aclanthology.org/2020.acl-main.173.pdf)]
+
 
 ## Generative Recommendation
 
@@ -324,16 +334,6 @@ non-archival – Mar 2023 [[paper](https://shashankrajput.github.io/Generative.p
 **Generative Slate Recommendation with Reinforcement Learning**  
 *Romain Deffayet, Thibaut Thonet, Jean-Michel Renders, and Maarten de Rijke*  
 WSDM 2023 [[paper](https://arxiv.org/abs/2301.08632)]
-
-## Summarization
-
-**Learning to summarize with human feedback**  
-*Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*  
-NeurIPS 2020 – Sep 2020 [[paper](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)]
-
-**On Faithfulness and Factuality in Abstractive Summarization**  
-*Joshua Maynez, Shashi Narayan, Bernd Bohnet, Ryan McDonald*  
-ACL 2020 – May 2020 [[paper[(https://aclanthology.org/2020.acl-main.173.pdf)]
 
 ## Knowledge Graph Generation
 
