@@ -327,6 +327,10 @@ ACL 2020 – May 2020 [[paper](https://aclanthology.org/2020.acl-main.173.pdf)]
 
 ## Generative Recommendation
 
+**Blurring-Sharpening Process Models for Collaborative Filtering**  
+*Jeongwhan Choi, Seoyoung Hong, Noseong Park, Sung-Bae Cho*  
+SIGIR 2023 – Apr 2023 [[paper](https://arxiv.org/abs/2211.09324)] [[code](https://github.com/jeongwhanchoi/BSPM)]
+
 **Recommender Systems with Generative Retrieval**  
 *Shashank Rajput, Nikhil Mehta, Anima Singh, Raghunandan Keshavan, Trung Vu, Lukasz Heldt, Lichan Hong, Yi Tay, Vinh Q. Tran, Jonah Samost, Maciej Kula, Ed H. Chi, Maheswaran Sathiamoorthy*  
 non-archival – Mar 2023 [[paper](https://shashankrajput.github.io/Generative.pdf)]
