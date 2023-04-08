@@ -154,7 +154,7 @@ Galactica.org – 2022 [[paper](https://galactica.org/static/paper.pdf)]
 ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=-cqvvvb-NkI)]
 
 **Generate rather than Retrieve: Large Language Models are Strong Context Generators**  
-*Wenhao Yu1, Dan Iter2, Shuohang Wang2, Yichong Xu2, Mingxuan Ju1, Soumya Sanyal3, Chenguang Zhu2, Michael Zeng2, Meng Jiang1*  
+*Wenhao Yu, Dan Iter, Shuohang Wang, Yichong Xu, Mingxuan Ju, Soumya Sanyal, Chenguang Zhu, Michael Zeng, Meng Jiang*  
 ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=fB0hRu9GZUS)]
 
 <a name="paper-sparrow"></a>
