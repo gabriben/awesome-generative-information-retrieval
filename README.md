@@ -337,7 +337,11 @@ non-archival – Mar 2023 [[paper](https://shashankrajput.github.io/Generative.p
 
 **Generative Slate Recommendation with Reinforcement Learning**  
 *Romain Deffayet, Thibaut Thonet, Jean-Michel Renders, and Maarten de Rijke*  
-WSDM 2023 [[paper](https://arxiv.org/abs/2301.08632)]
+WSDM 2023 – Feb 2023 [[paper](https://arxiv.org/abs/2301.08632)]
+
+**Recommendation via Collaborative Diffusion Generative Model**  
+*Joojo Walker, Ting Zhong, Fengli Zhang, Qiang Gao, Fan Zhou*  
+KSEM 2022 – Aug 2022 [[paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-10989-8_47)]
 
 ## Knowledge Graph Generation
 
