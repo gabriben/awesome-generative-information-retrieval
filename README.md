@@ -92,7 +92,7 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://g
 
 **Generative Recommendation: Towards Next-generation Recommender Paradigm**  
 *Fengji Zhang, Bei Chen, Yue Zhang, Jin Liu, Daoguang Zan, Yi Mao, Jian-Guang Lou, Weizhu Chen*  
-arXiv – April 2023 [[paper](Wenjie Wang, Xinyu Lin, Fuli Feng, Xiangnan He, Tat-Seng Chua)]
+arXiv – April 2023 [[paper](https://arxiv.org/pdf/2304.03516.pdf)]
 
 **Augmented Language Models: a Survey**  
 *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom*  
