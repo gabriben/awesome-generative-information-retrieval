@@ -354,3 +354,7 @@ KSEM 2022 – Aug 2022 [[paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-109
 **Crawling the Internal Knowledge-Base of Language Models**  
 *Roi Cohen, Mor Geva, Jonathan Berant, Amir Globerson*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12810)]
+
+**From Retrieval to Generation: Efficient and Effective Entity Set Expansion**  
+*Shulin Huang, Shirong Ma, Yangning Li, Yinghui Li, Hai-Tao Zheng, Yong Jiang*  
+arXiv – Apr 2023 [[paper](Shulin Huang, Shirong Ma, Yangning Li, Yinghui Li, Hai-Tao Zheng, Yong Jiang)]
