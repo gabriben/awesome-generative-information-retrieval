@@ -142,6 +142,10 @@ AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b4665
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.08110.pdf)]  
 
+**Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**
+*Omar Khattab, Keshav Santhanam, Xiang Lisa Li, David Hall, Percy Liang, Christopher Potts, Matei Zaharia*  
+arXiv – Dec 2022 [[paper](https://arxiv.org/pdf/2212.14024.pdf)]
+
 **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models**  
 *Bernd Bohnet, Vinh Q. Tran, Pat Verga, Roee Aharoni, Daniel Andor, Livio Baldini Soares, Jacob Eisenstein, Kuzman Ganchev, Jonathan Herzig, Kai Hui, Tom Kwiatkowski, Ji Ma, Jianmo Ni, Tal Schuster, William W. Cohen, Michael Collins, Dipanjan Das, Donald Metzler, Slav Petrov, Kellie Webster*  
 arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
