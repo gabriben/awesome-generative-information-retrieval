@@ -337,6 +337,14 @@ ACL 2020 – May 2020 [[paper](https://aclanthology.org/2020.acl-main.173.pdf)]
 
 ## Generative Recommendation
 
+**DiffuRec: A Diffusion Model for Sequential Recommendation**  
+*Zihao Li, Aixin Sun, Chenliang Li*  
+arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.00686)]
+
+**Diffusion Recommender Model**  
+*Wenjie Wang, Yiyan Xu, Fuli Feng, Xinyu Lin, Xiangnan He, Tat-Seng Chua*  
+SIGIR 2023 – Apr 2023 [[paper](https://arxiv.org/abs/2304.04971)]
+
 **Blurring-Sharpening Process Models for Collaborative Filtering**  
 *Jeongwhan Choi, Seoyoung Hong, Noseong Park, Sung-Bae Cho*  
 SIGIR 2023 – Apr 2023 [[paper](https://arxiv.org/abs/2211.09324)] [[code](https://github.com/jeongwhanchoi/BSPM)]
