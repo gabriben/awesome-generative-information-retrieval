@@ -71,8 +71,6 @@ Hugging Face Blog – Jan 2023 [[link](https://huggingface.co/blog/dialog-agents
 *Josh A. Goldstein, Girish Sastry, Micah Musser, Renée DiResta, Matthew Gentzel, Katerina Sedova*  
 OpenAI Blog – Jan 2023 [[link](https://openai.com/research/forecasting-misuse)]
 
-https://openai.com/research/forecasting-misuse
-
 ## Datasets
 
 **ChatGPT-RetrievalQA**  
