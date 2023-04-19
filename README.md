@@ -264,6 +264,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Learning to Tokenize for Generative Retrieval**  
+*Weiwei Sun, Lingyong Yan, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen, Dawei Yin, Maarten de Rijke, Zhaochun Ren*  
+arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.04171)]
+
 **DynamicRetriever: A Pre-trained Model-based IR System Without an Explicit Index**  
 *Yu-Jia Zhou, Jing Yao, Zhi-Cheng Dou, Ledell Wu, Ji-Rong Wen*  
 Machine Intelligence Research – Jan 2023 [[paper](https://link.springer.com/article/10.1007/s11633-022-1373-9)]
