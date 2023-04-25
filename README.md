@@ -376,3 +376,8 @@ arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.03531v1)]
 **Crawling the Internal Knowledge-Base of Language Models**  
 *Roi Cohen, Mor Geva, Jonathan Berant, Amir Globerson*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12810)]
+
+
+---
+
+To get just the paper titles do `grep '\*\*' README.md | sed 's/\*\*//g'`
