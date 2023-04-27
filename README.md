@@ -16,6 +16,7 @@ Pull-requests welcome!
   - [Multimodal](#multimodal)
   - [Prompting](#prompting)
   - [Generate Code](#generate-code)
+  - [Latent LLM Knowledge](#latent-llm-knowledge)
 - [Generative Document Retrieval](#generative-document-retrieval)
   - [Generate a Document ID as an identifier](#generate-a-document-id-as-an-identifier)
   - [Generate a string as an identifier](#generate-a-string-as-an-identifier)
@@ -246,12 +247,6 @@ arXiv – Mar 2023 [[paper](https://arxiv.org/abs/2303.00534)]
 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*  
 arXiv – Oct 2022 [[paper](https://arxiv.org/abs/2210.03629)]
 
-### Latent LLM Knowledge
-
-**Discovering Latent Knowledge in Language Models Without Supervision**  
-*Collin Burns, Haotian Ye, Dan Klein, Jacob Steinhardt*  
-ICLR 23 – Feb 2023 [[paper](https://openreview.net/pdf?id=ETKGuby0hcs]] [[code](https://github.com/collin-burns/discovering_latent_knowledge)]
-
 ### Generate Code
 
 **RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation**  
@@ -261,6 +256,13 @@ arXiv – Mar 2023 [[paper](https://arxiv.org/pdf/2303.12570.pdf
 **DocPrompting: Generating Code by Retrieving the Docs**  
 *Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig*  
 ICLR 23 – Jul 2022 [[paper](https://arxiv.org/abs/2207.05987)] [[code](https://github.com/shuyanzhou/docprompting)] [[data](https://github.com/shuyanzhou/docprompting#data)]
+
+### Latent LLM Knowledge
+
+**Discovering Latent Knowledge in Language Models Without Supervision**  
+*Collin Burns, Haotian Ye, Dan Klein, Jacob Steinhardt*  
+ICLR 23 – Feb 2023 [[paper](https://openreview.net/pdf?id=ETKGuby0hcs)] [[code](https://github.com/collin-burns/discovering_latent_knowledge)]
+
 
 ## Generative Document Retrieval
 
