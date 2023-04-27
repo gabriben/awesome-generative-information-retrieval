@@ -246,6 +246,12 @@ arXiv – Mar 2023 [[paper](https://arxiv.org/abs/2303.00534)]
 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*  
 arXiv – Oct 2022 [[paper](https://arxiv.org/abs/2210.03629)]
 
+### Latent LLM Knowledge
+
+**Discovering Latent Knowledge in Language Models Without Supervision**  
+*Collin Burns, Haotian Ye, Dan Klein, Jacob Steinhardt*  
+ICLR 23 – Feb 2023 [[paper](https://openreview.net/pdf?id=ETKGuby0hcs]] [[code](https://github.com/collin-burns/discovering_latent_knowledge)]
+
 ### Generate Code
 
 **RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation**  
