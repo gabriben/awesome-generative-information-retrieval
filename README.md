@@ -82,6 +82,10 @@ Github – Feb 2023 [[code](https://github.com/arian-askari/ChatGPT-RetrievalQA)
 *Stephanie Lin, Jacob Hilton, Owain Evans*  
 arXiv – Sep 2021 [[paper](https://arxiv.org/pdf/2109.07958.pdf)] [[code](https://github.com/sylinrl/TruthfulQA)]
 
+**Complex Answer Retrieval**  
+*Laura Dietz, Manisha Verma, Filip Radlinski, Nick Craswell, Ben Gamari, Jeff Dalton, John  Foley*  
+TREC – 2017-2019 [[link](http://trec-car.cs.unh.edu/)]
+
 ## Tools
 **PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development**  
 *Avirup Sil, Jaydeep Sen, Bhavani Iyer, Martin Franz, Kshitij Fadnis, Mihaela Bornea, Sara Rosenthal, Scott McCarley, Rong Zhang, Vishwajeet Kumar, Yulong Li, Md Arafat Sultan, Riyaz Bhat, Radu Florian, Salim Roukos*  
