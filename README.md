@@ -135,7 +135,7 @@ Could be subdivided into something like retrieval-enhanced-LLMs and attribution-
 
 **Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study**  
 *Boxin Wang, Wei Ping, Peng Xu, Lawrence McAfee, Zihan Liu, Mohammad Shoeybi, Yi Dong, Oleksii Kuchaiev, Bo Li, Chaowei Xiao, Anima Anandkumar, Bryan Catanzaro*  
-arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.06762)] [[code](https://github.com/NVIDIA/Megatron-LM#retro)]]
+arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.06762)] [[code](https://github.com/NVIDIA/Megatron-LM#retro)]
 
 **Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**  
 *Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao*  
