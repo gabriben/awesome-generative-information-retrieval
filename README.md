@@ -10,6 +10,7 @@ Pull-requests welcome!
 - [Blog Posts](#blog-posts)
 - [Datasets](#datasets)
 - [Tools](#tools)
+- [Workshops](#workshops)
 - [Epistemology Papers](#epistemoplogy-papers)
 - [Grounded Answer Generation](#grounded-answer-generation)
   - [Reinforcement Learning](#reinforcement-learning)
@@ -87,9 +88,16 @@ arXiv – Sep 2021 [[paper](https://arxiv.org/pdf/2109.07958.pdf)] [[code](https
 TREC – 2017-2019 [[link](http://trec-car.cs.unh.edu/)]
 
 ## Tools
+
 **PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development**  
 *Avirup Sil, Jaydeep Sen, Bhavani Iyer, Martin Franz, Kshitij Fadnis, Mihaela Bornea, Sara Rosenthal, Scott McCarley, Rong Zhang, Vishwajeet Kumar, Yulong Li, Md Arafat Sultan, Riyaz Bhat, Radu Florian, Salim Roukos*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://github.com/primeqa/primeqa)]
+
+## Workshops
+
+**First Workshop on Generative Information Retrieval**  
+*Gabriel Bénédict, Ruqing Zhang, Donald Metzler*  
+SIGIR 23 – Jul 2023 [[link](https://coda.io/@sigir/gen-ir)]
 
 ## Epistemology Papers
 
