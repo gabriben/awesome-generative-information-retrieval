@@ -324,6 +324,10 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Generate a string as an identifier
 
+**A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning**  
+*Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan, Xueqi Cheng*  
+SIGIR 2023 – Apr 2023 [[paper](https://arxiv.org/abs/2304.14856)] [[Code](https://github.com/ict-bigdatalab/UGR)] 
+
 **CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks**  
 *Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Yiqun Liu, Yixing Fan, Xueqi Cheng*  
 CIKM 2022 – Aug 2022 [[paper](https://arxiv.org/abs/2208.07652)] [[Code](https://github.com/ict-bigdatalab/CorpusBrain)] 
