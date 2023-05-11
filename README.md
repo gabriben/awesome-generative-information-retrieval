@@ -282,6 +282,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Understanding Differential Search Index for Text Retrieval**<br> 
+*Xiaoyang Chen, Yanjiang Liu, Ben He, Le Sun, Yingfei Sun* <br>
+ACL Findings - 2023 [[paper](https://arxiv.org/abs/2305.02073)] 
+
 **Learning to Tokenize for Generative Retrieval**  
 *Weiwei Sun, Lingyong Yan, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen, Dawei Yin, Maarten de Rijke, Zhaochun Ren*  
 arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.04171)]
