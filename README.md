@@ -133,6 +133,10 @@ SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]
 
 Could be subdivided into something like retrieval-enhanced-LLMs and attribution-for-conversations.
 
+**Evaluating Verifiability in Generative Search Engines**  
+*Nelson F. Liu, Tianyi Zhang, Percy Liang*  
+arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.09848)] [[code](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)]
+
 **Active Retrieval Augmented Generation**  
 *Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.06983)] [[code](https://github.com/jzbjyb/FLARE)]
