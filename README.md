@@ -290,6 +290,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**TOME: A Two-stage Approach for Model-based Retrieval**<br> 
+*Ruiyang Ren, Wayne Xin Zhao, Jing Liu, Hua Wu, Ji-Rong Wen, Haifeng Wang* <br>
+ACL - 2023 [[paper](https://arxiv.org/abs/2305.11161)] 
+
 **Understanding Differential Search Index for Text Retrieval**<br> 
 *Xiaoyang Chen, Yanjiang Liu, Ben He, Le Sun, Yingfei Sun* <br>
 ACL Findings - 2023 [[paper](https://arxiv.org/abs/2305.02073)] 
