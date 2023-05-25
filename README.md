@@ -340,6 +340,10 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Generate a string as an identifier
 
+**Term-Sets Can Be Strong Document Identifiers For Auto-Regressive Search Engines**  
+*Peitian Zhang, Zheng Liu, Yujia Zhou, Zhicheng Dou, Zhao Cao*  
+arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.13859)] [[Code](https://github.com/namespace-Pt/Adon/tree/AutoTSG)] 
+
 **A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning**  
 *Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan, Xueqi Cheng*  
 SIGIR 2023 – Apr 2023 [[paper](https://arxiv.org/abs/2304.14856)] [[Code](https://github.com/ict-bigdatalab/UGR)] 
