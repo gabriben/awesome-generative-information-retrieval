@@ -108,6 +108,10 @@ SIGIR 23 – Jul 2023 [[link](https://coda.io/@sigir/gen-ir)]
 
 ## Epistemology Papers
 
+**The False Promise of Imitating Proprietary LLMs**  
+*Arnav Gudibande, Eric Wallace, Charlie Snell, Xinyang Geng, Hao Liu, Pieter Abbeel, Sergey Levine, Dawn Song*  
+arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.15717)]
+
 **Generative Recommendation: Towards Next-generation Recommender Paradigm**  
 *Fengji Zhang, Bei Chen, Yue Zhang, Jin Liu, Daoguang Zan, Yi Mao, Jian-Guang Lou, Weizhu Chen*  
 arXiv – April 2023 [[paper](https://arxiv.org/pdf/2304.03516.pdf)]
