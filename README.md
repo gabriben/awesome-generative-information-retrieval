@@ -100,6 +100,10 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://g
 *Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi1*  
 Pypi – May 2023 [[paper](https://martiansideofthemoon.github.io/assets/factscore.pdf)] [[code](https://pypi.org/project/factscore/#description)]
 
+**FACTKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge**  
+*Shangbin Feng, Vidhisha Balachandran, Yuyang Bai, Yulia Tsvetkov*  
+arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.08281)] [[code](https://github.com/BunsenFeng/FactKB)]
+
 ## Workshops
 
 **First Workshop on Generative Information Retrieval**  
