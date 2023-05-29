@@ -140,6 +140,10 @@ SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]
 
 Could be subdivided into something like retrieval-enhanced-LLMs and attribution-for-conversations.
 
+**Inspecting and Editing Knowledge Representations in Language Models**  
+*Evan Hernandez, Belinda Z. Li, Jacob Andreas*  
+arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
+
 **Evaluating Verifiability in Generative Search Engines**  
 *Nelson F. Liu, Tianyi Zhang, Percy Liang*  
 arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.09848)] [[code](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)]
