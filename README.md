@@ -290,6 +290,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**How Does Generative Retrieval Scale to Millions of Passages?**  
+*Ronak Pradeep, Kai Hui, Jai Gupta, Adam D. Lelkes, Honglei Zhuang, Jimmy Lin, Donald Metzler, Vinh Q. Tran*  
+arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.11841)]
+
 **TOME: A Two-stage Approach for Model-based Retrieval**<br> 
 *Ruiyang Ren, Wayne Xin Zhao, Jing Liu, Hua Wu, Ji-Rong Wen, Haifeng Wang* <br>
 ACL - 2023 [[paper](https://arxiv.org/abs/2305.11161)] 
