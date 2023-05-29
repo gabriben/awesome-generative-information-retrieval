@@ -10,6 +10,7 @@ Pull-requests welcome!
 - [Blog Posts](#blog-posts)
 - [Datasets](#datasets)
 - [Tools](#tools)
+- [Evaluation](#evaluation)
 - [Workshops](#workshops)
 - [Epistemology Papers](#epistemoplogy-papers)
 - [Grounded Answer Generation](#grounded-answer-generation)
@@ -92,6 +93,12 @@ TREC – 2017-2019 [[link](http://trec-car.cs.unh.edu/)]
 **PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development**  
 *Avirup Sil, Jaydeep Sen, Bhavani Iyer, Martin Franz, Kshitij Fadnis, Mihaela Bornea, Sara Rosenthal, Scott McCarley, Rong Zhang, Vishwajeet Kumar, Yulong Li, Md Arafat Sultan, Riyaz Bhat, Radu Florian, Salim Roukos*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://github.com/primeqa/primeqa)]
+
+## Evaluation
+
+**FACTSCORE: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation**  
+*Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi1*  
+Pypi – May 2023 [[paper](https://martiansideofthemoon.github.io/assets/factscore.pdf)] [[code](https://pypi.org/project/factscore/#description)]
 
 ## Workshops
 
