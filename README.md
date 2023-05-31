@@ -309,6 +309,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Multiview Identifiers Enhanced Generative Retrieval**  
+*Yongqi Li, Nan Yang, Liang Wang, Furu Wei, Wenjie Li*  
+ACL – May 2023 [[paper](https://arxiv.org/abs/2305.16675)]
+
 **How Does Generative Retrieval Scale to Millions of Passages?**  
 *Ronak Pradeep, Kai Hui, Jai Gupta, Adam D. Lelkes, Honglei Zhuang, Jimmy Lin, Donald Metzler, Vinh Q. Tran*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.11841)]
