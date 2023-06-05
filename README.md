@@ -148,6 +148,10 @@ SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]
 
 Could be subdivided into something like retrieval-enhanced-LLMs and attribution-for-conversations.
 
+**Gorilla: Large Language Model Connected with Massive APIs**  
+*Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez*  
+arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.15334)] [[code](https://github.com/ShishirPatil/gorilla)]
+
 **Inspecting and Editing Knowledge Representations in Language Models**  
 *Evan Hernandez, Belinda Z. Li, Jacob Andreas*  
 arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
