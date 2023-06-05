@@ -313,9 +313,13 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Large Language Models are Built-in Autoregressive Search Engines**  
+*Noah Ziems, Wenhao Yu, Zhihan Zhang, Meng Jiang*  
+ACL Findings 2023 – May 2023 [[paper](https://arxiv.org/abs/2305.09612)]
+
 **Multiview Identifiers Enhanced Generative Retrieval**  
 *Yongqi Li, Nan Yang, Liang Wang, Furu Wei, Wenjie Li*  
-ACL – May 2023 [[paper](https://arxiv.org/abs/2305.16675)]
+ACL 2023 – May 2023 [[paper](https://arxiv.org/abs/2305.16675)]
 
 **How Does Generative Retrieval Scale to Millions of Passages?**  
 *Ronak Pradeep, Kai Hui, Jai Gupta, Adam D. Lelkes, Honglei Zhuang, Jimmy Lin, Donald Metzler, Vinh Q. Tran*  
@@ -323,11 +327,11 @@ arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.11841)]
 
 **TOME: A Two-stage Approach for Model-based Retrieval**<br> 
 *Ruiyang Ren, Wayne Xin Zhao, Jing Liu, Hua Wu, Ji-Rong Wen, Haifeng Wang* <br>
-ACL - 2023 [[paper](https://arxiv.org/abs/2305.11161)] 
+ACL 2023 - May 2023 [[paper](https://arxiv.org/abs/2305.11161)] 
 
 **Understanding Differential Search Index for Text Retrieval**<br> 
 *Xiaoyang Chen, Yanjiang Liu, Ben He, Le Sun, Yingfei Sun* <br>
-ACL Findings - 2023 [[paper](https://arxiv.org/abs/2305.02073)] 
+ACL Findings 2023 - May 2023 [[paper](https://arxiv.org/abs/2305.02073)] 
 
 **Learning to Tokenize for Generative Retrieval**  
 *Weiwei Sun, Lingyong Yan, Zheng Chen, Shuaiqiang Wang, Haichao Zhu, Pengjie Ren, Zhumin Chen, Dawei Yin, Maarten de Rijke, Zhaochun Ren*  
