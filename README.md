@@ -185,7 +185,7 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12652)]
 AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/63c6c20dec4479564db21819_NEW_In_Context_Retrieval_Augmented_Language_Models.pdf)] [[code](https://github.com/AI21Labs/in-context-ralm)]
 
 **RET-LLM: Towards a General Read-Write Memory for Large Language Models**  
-*Ali Modarressi, Ayyoob Imani, MOhsen Fayyaz, Hinrich Schutze*
+*Ali Modarressi, Ayyoob Imani, MOhsen Fayyaz, Hinrich Schutze*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.14322)]
 
 **AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation**  
