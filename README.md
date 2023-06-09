@@ -148,6 +148,10 @@ SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]
 
 Could be subdivided into something like retrieval-enhanced-LLMs and attribution-for-conversations.
 
+**RET-LLM: Towards a General Read-Write Memory for Large Language Models**  
+*Ali Modarressi, Ayyoob Imani, MOhsen Fayyaz, Hinrich Schutze*  
+arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.14322)]
+
 **Gorilla: Large Language Model Connected with Massive APIs**  
 *Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.15334)] [[code](https://github.com/ShishirPatil/gorilla)]
@@ -183,10 +187,6 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12652)]
 **In-Context Retrieval-Augmented Language Models**  
 *Ori Ram, Yoav Levine, Itay Dalmedigos, Dor Muhlgay, Amnon Shashua, Kevin Leyton-Brown, Yoav Shoham*  
 AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/63c6c20dec4479564db21819_NEW_In_Context_Retrieval_Augmented_Language_Models.pdf)] [[code](https://github.com/AI21Labs/in-context-ralm)]
-
-**RET-LLM: Towards a General Read-Write Memory for Large Language Models**  
-*Ali Modarressi, Ayyoob Imani, MOhsen Fayyaz, Hinrich Schutze*  
-arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.14322)]
 
 **AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation**  
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
