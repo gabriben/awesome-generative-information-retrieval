@@ -159,7 +159,7 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 
 
 ### Retrieval-Enhanced LLM 
-(external grounding)
+(external grounding/retrieval at inference time)
 
 **RET-LLM: Towards a General Read-Write Memory for Large Language Models**  
 *Ali Modarressi, Ayyoob Imani, MOhsen Fayyaz, Hinrich Schutze*  
