@@ -106,6 +106,10 @@ Pypi – May 2023 [[paper](https://martiansideofthemoon.github.io/assets/factsco
 *Shangbin Feng, Vidhisha Balachandran, Yuyang Bai, Yulia Tsvetkov*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.08281)] [[code](https://github.com/BunsenFeng/FactKB)]
 
+**Evaluating Verifiability in Generative Search Engines**  
+*Nelson F. Liu, Tianyi Zhang, Percy Liang*  
+arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.09848)] [[code](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)]
+
 ## Workshops
 
 **First Workshop on Generative Information Retrieval**  
@@ -145,10 +149,6 @@ arXiv – Oct 2021 [[paper](https://arxiv.org/pdf/2110.06674.pdf)]
 **Rethinking Search: Making Domain Experts out of Dilettantes**  
 *Donald Metzler, Yi Tay, Dara Bahri, Marc Najork*  
 SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]  
-
-**Evaluating Verifiability in Generative Search Engines**  
-*Nelson F. Liu, Tianyi Zhang, Percy Liang*  
-arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.09848)] [[code](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)]
 
 ## Grounded Answer Generation
 
