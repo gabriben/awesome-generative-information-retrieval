@@ -14,6 +14,8 @@ Pull-requests welcome!
 - [Workshops](#workshops)
 - [Epistemology Papers](#epistemoplogy-papers)
 - [Grounded Answer Generation](#grounded-answer-generation)
+  - [Retrieval-Enhanced LLM](#retrieval-enhanced-llm)  
+  - [LLM Memory Manipulation](#llm-memory-manipulation)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Multimodal](#multimodal)
   - [Prompting](#prompting)
@@ -144,9 +146,20 @@ arXiv – Oct 2021 [[paper](https://arxiv.org/pdf/2110.06674.pdf)]
 *Donald Metzler, Yi Tay, Dara Bahri, Marc Najork*  
 SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]  
 
+**Evaluating Verifiability in Generative Search Engines**  
+*Nelson F. Liu, Tianyi Zhang, Percy Liang*  
+arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.09848)] [[code](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)]
+
 ## Grounded Answer Generation
 
-Could be subdivided into something like retrieval-enhanced-LLMs and attribution-for-conversations.
+
+**Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models**  
+*Bernd Bohnet, Vinh Q. Tran, Pat Verga, Roee Aharoni, Daniel Andor, Livio Baldini Soares, Jacob Eisenstein, Kuzman Ganchev, Jonathan Herzig, Kai Hui, Tom Kwiatkowski, Ji Ma, Jianmo Ni, Tal Schuster, William W. Cohen, Michael Collins, Dipanjan Das, Donald Metzler, Slav Petrov, Kellie Webster*  
+arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
+
+
+### Retrieval-Enhanced LLM 
+(external grounding)
 
 **RET-LLM: Towards a General Read-Write Memory for Large Language Models**  
 *Ali Modarressi, Ayyoob Imani, MOhsen Fayyaz, Hinrich Schutze*  
@@ -156,21 +169,9 @@ arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.14322)]
 *Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.15334)] [[code](https://github.com/ShishirPatil/gorilla)]
 
-**Inspecting and Editing Knowledge Representations in Language Models**  
-*Evan Hernandez, Belinda Z. Li, Jacob Andreas*  
-arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
-
-**Evaluating Verifiability in Generative Search Engines**  
-*Nelson F. Liu, Tianyi Zhang, Percy Liang*  
-arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.09848)] [[code](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)]
-
 **Active Retrieval Augmented Generation**  
 *Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.06983)] [[code](https://github.com/jzbjyb/FLARE)]
-
-**Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study**  
-*Boxin Wang, Wei Ping, Peng Xu, Lawrence McAfee, Zihan Liu, Mohammad Shoeybi, Yi Dong, Oleksii Kuchaiev, Bo Li, Chaowei Xiao, Anima Anandkumar, Bryan Catanzaro*  
-arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.06762)] [[code](https://github.com/NVIDIA/Megatron-LM#retro)]
 
 **Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**  
 *Baolin Peng, Michel Galley, Pengcheng He, Hao Cheng, Yujia Xie, Yu Hu, Qiuyuan Huang, Lars Liden, Zhou Yu, Weizhu Chen, Jianfeng Gao*  
@@ -184,9 +185,18 @@ arXiv – Feb 2023 [[paper](https://arxiv.org/abs/2302.04761)]
 *Weijia Shi, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12652)]
 
+**Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study**  
+*Boxin Wang, Wei Ping, Peng Xu, Lawrence McAfee, Zihan Liu, Mohammad Shoeybi, Yi Dong, Oleksii Kuchaiev, Bo Li, Chaowei Xiao, Anima Anandkumar, Bryan Catanzaro*  
+arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.06762)] [[code](https://github.com/NVIDIA/Megatron-LM#retro)]
+
+
 **In-Context Retrieval-Augmented Language Models**  
 *Ori Ram, Yoav Levine, Itay Dalmedigos, Dor Muhlgay, Amnon Shashua, Kevin Leyton-Brown, Yoav Shoham*  
 AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/63c6c20dec4479564db21819_NEW_In_Context_Retrieval_Augmented_Language_Models.pdf)] [[code](https://github.com/AI21Labs/in-context-ralm)]
+
+**Recipes for Building an Open-Domain Chatbot**  
+*Stephen Roller, Emily Dinan, Naman Goyal, Da Ju, Mary Williamson, Yinhan Liu, Jing Xu, Myle Ott, Eric Michael Smith, Y-Lan Boureau, Jason Weston*  
+EACL 2021 – Apr 2021 [[paper](https://aclanthology.org/2021.eacl-main.24.pdf)]
 
 **AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation**  
 *Hamed Zamani, Johanne R. Trippas, Jeff Dalton and Filip Radlinski*  
@@ -196,9 +206,32 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.08110.pdf)]
 *Omar Khattab, Keshav Santhanam, Xiang Lisa Li, David Hall, Percy Liang, Christopher Potts, Matei Zaharia*  
 arXiv – Dec 2022 [[paper](https://arxiv.org/pdf/2212.14024.pdf)]
 
-**Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models**  
-*Bernd Bohnet, Vinh Q. Tran, Pat Verga, Roee Aharoni, Daniel Andor, Livio Baldini Soares, Jacob Eisenstein, Kuzman Ganchev, Jonathan Herzig, Kai Hui, Tom Kwiatkowski, Ji Ma, Jianmo Ni, Tal Schuster, William W. Cohen, Michael Collins, Dipanjan Das, Donald Metzler, Slav Petrov, Kellie Webster*  
-arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
+**Improving language models by retrieving from trillions of tokens**  
+*Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre*  
+arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.04426)]
+
+**WebGPT: Browser-assisted question-answering with human feedback**  
+*Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman*  
+arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.09332)]
+
+**A Hybrid Retrieval-Generation Neural Conversation Model**  
+*Liu Yang, Junjie Hu, Minghui Qiu, Chen Qu, Jianfeng Gao, W. Bruce Croft, Xiaodong Liu, Yelong Shen, Jingjing Liu*  
+arXiv – Apr 2019 [[paper](https://arxiv.org/abs/1904.09068)]
+
+**BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA**  
+*Nora Kassner, Hinrich Schütze*  
+EMNLP 2020 – Nov 2020 [[paper](https://aclanthology.org/2020.findings-emnlp.307.pdf)]
+
+### LLM Memory Manipulation 
+(internal grounding at inference time)
+
+**Inspecting and Editing Knowledge Representations in Language Models**  
+*Evan Hernandez, Belinda Z. Li, Jacob Andreas*  
+arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
+
+**Discovering Latent Knowledge in Language Models Without Supervision**  
+*Collin Burns, Haotian Ye, Dan Klein, Jacob Steinhardt*  
+ICLR 23 – Feb 2023 [[paper](https://openreview.net/pdf?id=ETKGuby0hcs)] [[code](https://github.com/collin-burns/discovering_latent_knowledge)]
 
 <a name="paper-galactica"></a>
 **Galactica: A Large Language Model for Science**  
@@ -207,13 +240,25 @@ Thomas Scialom, Anthony Hartshorn, Elvis Saravia,
 Andrew Poulton, Viktor Kerkez, Robert Stojnic*  
 Galactica.org – 2022 [[paper](https://galactica.org/static/paper.pdf)]
 
-**Recitation-Augmented Language Models**  
-*Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou*  
-ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=-cqvvvb-NkI)]
 
 **Generate rather than Retrieve: Large Language Models are Strong Context Generators**  
 *Wenhao Yu, Dan Iter, Shuohang Wang, Yichong Xu, Mingxuan Ju, Soumya Sanyal, Chenguang Zhu, Michael Zeng, Meng Jiang*  
 ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=fB0hRu9GZUS)]
+
+
+**Recitation-Augmented Language Models**  
+*Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou*  
+ICLR 2023 – Sep 2022 [[paper](https://openreview.net/forum?id=-cqvvvb-NkI)]
+
+
+
+**Generalization through Memorization: Nearest Neighbor Language Models**\
+*Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis*  
+ICLR 2020 – Sep 2019 [[paper](https://openreview.net/forum?id=HklBjCEKvH)] [[code](https://github.com/urvashik/knnlm)]
+
+**LaMDA: Language Models for Dialog Applications**  
+*Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, Apoorv Kulshreshtha, Heng-Tze Cheng, Alicia Jin, Taylor Bos, Leslie Baker, Yu Du, YaGuang Li, Hongrae Lee, Huaixiu Steven Zheng, Amin Ghafouri, Marcelo Menegali, Yanping Huang, Maxim Krikun, Dmitry Lepikhin, James Qin, Dehao Chen, Yuanzhong Xu, Zhifeng Chen, Adam Roberts, Maarten Bosma, Vincent Zhao, Yanqi Zhou, Chung-Ching Chang, Igor Krivokon, Will Rusch, Marc Pickett, Pranesh Srinivasan, Laichee Man, Kathleen Meier-Hellstern, Meredith Ringel Morris, Tulsee Doshi, Renelito Delos Santos, Toju Duke, Johnny Soraker, Ben Zevenbergen, Vinodkumar Prabhakaran, Mark Diaz, Ben Hutchinson, Kristen Olson, Alejandra Molina, Erin Hoffman-John, Josh Lee, Lora Aroyo, Ravi Rajakumar, Alena Butryna, Matthew Lamm, Viktoriya Kuzmina, Joe Fenton, Aaron Cohen, Rachel Bernstein, Ray Kurzweil, Blaise Aguera-Arcas, Claire Cui, Marian Croak, Ed Chi, Quoc Le*  
+arXiv – Jan 2022 [[paper](https://arxiv.org/abs/2201.08239)]
 
 <a name="paper-sparrow"></a>
 **Improving alignment of dialogue agents via targeted human judgements**  
@@ -225,37 +270,10 @@ arXiv – Sep 2022 [[paper](https://arxiv.org/pdf/2209.14375.pdf)]
 *Kurt Shuster, Jing Xu, Mojtaba Komeili, Da Ju, Eric Michael Smith, Stephen Roller, Megan Ung, Moya Chen, Kushal Arora, Joshua Lane, Morteza Behrooz, William Ngan, Spencer Poff, Naman Goyal, Arthur Szlam, Y-Lan Boureau, Melanie Kambadur, Jason Weston*  
 arXiv – Aug 2022 [[paper](https://arxiv.org/abs/2208.03188)]
 
-**LaMDA: Language Models for Dialog Applications**  
-*Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, Apoorv Kulshreshtha, Heng-Tze Cheng, Alicia Jin, Taylor Bos, Leslie Baker, Yu Du, YaGuang Li, Hongrae Lee, Huaixiu Steven Zheng, Amin Ghafouri, Marcelo Menegali, Yanping Huang, Maxim Krikun, Dmitry Lepikhin, James Qin, Dehao Chen, Yuanzhong Xu, Zhifeng Chen, Adam Roberts, Maarten Bosma, Vincent Zhao, Yanqi Zhou, Chung-Ching Chang, Igor Krivokon, Will Rusch, Marc Pickett, Pranesh Srinivasan, Laichee Man, Kathleen Meier-Hellstern, Meredith Ringel Morris, Tulsee Doshi, Renelito Delos Santos, Toju Duke, Johnny Soraker, Ben Zevenbergen, Vinodkumar Prabhakaran, Mark Diaz, Ben Hutchinson, Kristen Olson, Alejandra Molina, Erin Hoffman-John, Josh Lee, Lora Aroyo, Ravi Rajakumar, Alena Butryna, Matthew Lamm, Viktoriya Kuzmina, Joe Fenton, Aaron Cohen, Rachel Bernstein, Ray Kurzweil, Blaise Aguera-Arcas, Claire Cui, Marian Croak, Ed Chi, Quoc Le*  
-arXiv – Jan 2022 [[paper](https://arxiv.org/abs/2201.08239)]
-
-**WebGPT: Browser-assisted question-answering with human feedback**  
-*Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman*  
-arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.09332)]
-
-**Improving language models by retrieving from trillions of tokens**  
-*Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre*  
-arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.04426)]
-
 **Language Models As or For Knowledge Bases**  
 *Simon Razniewski, Andrew Yates, Nora Kassner, Gerhard Weikum*  
 DL4KG 2021 – Oct 2021 [[paper](https://arxiv.org/pdf/2110.04888.pdf)]
 
-**Recipes for Building an Open-Domain Chatbot**  
-*Stephen Roller, Emily Dinan, Naman Goyal, Da Ju, Mary Williamson, Yinhan Liu, Jing Xu, Myle Ott, Eric Michael Smith, Y-Lan Boureau, Jason Weston*  
-EACL 2021 – Apr 2021 [[paper](https://aclanthology.org/2021.eacl-main.24.pdf)]
-
-**BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA**  
-*Nora Kassner, Hinrich Schütze*  
-EMNLP 2020 – Nov 2020 [[paper](https://aclanthology.org/2020.findings-emnlp.307.pdf)]
-
-**Generalization through Memorization: Nearest Neighbor Language Models**\
-*Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis*  
-ICLR 2020 – Sep 2019 [[paper](https://openreview.net/forum?id=HklBjCEKvH)] [[code](https://github.com/urvashik/knnlm)]
-
-**A Hybrid Retrieval-Generation Neural Conversation Model**  
-*Liu Yang, Junjie Hu, Minghui Qiu, Chen Qu, Jianfeng Gao, W. Bruce Croft, Xiaodong Liu, Yelong Shen, Jingjing Liu*  
-arXiv – Apr 2019 [[paper](https://arxiv.org/abs/1904.09068)]
 
 ### Reinforcement Learning
 
@@ -303,13 +321,6 @@ arXiv – Mar 2023 [[paper](https://arxiv.org/pdf/2303.12570.pdf)]
 **DocPrompting: Generating Code by Retrieving the Docs**  
 *Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig*  
 ICLR 23 – Jul 2022 [[paper](https://arxiv.org/abs/2207.05987)] [[code](https://github.com/shuyanzhou/docprompting)] [[data](https://github.com/shuyanzhou/docprompting#data)]
-
-### Latent LLM Knowledge
-
-**Discovering Latent Knowledge in Language Models Without Supervision**  
-*Collin Burns, Haotian Ye, Dan Klein, Jacob Steinhardt*  
-ICLR 23 – Feb 2023 [[paper](https://openreview.net/pdf?id=ETKGuby0hcs)] [[code](https://github.com/collin-burns/discovering_latent_knowledge)]
-
 
 ## Generative Document Retrieval
 
