@@ -34,6 +34,7 @@ Pull-requests welcome!
 Although some of these are not accompanied by a paper, they might be useful to other Generative IR researchers for empirical studies or interface design considerations.
 
 ⚡️
+**factiverse** Jun 2023 [[live](https://editor.factiverse.ai/)] ⚡️
 **devmarizer** Mar 2023 [[live](https://devmarizer.firebaseapp.com/)] ⚡️
 **TaxGenius** Mar 2023 [[live](https://www.taxgenius.app/)] ⚡️
 **doc-gpt** Mar 2023 [[live](https://pineappleexpress808-doc-gpt-doc-gpt-q0823l.streamlit.app/)] ⚡️
@@ -41,7 +42,7 @@ Although some of these are not accompanied by a paper, they might be useful to o
 **Neeva** Feb 2023 [[live](https://neeva.com/)] ⚡️
 **Golden Retriever** Feb 2023 [[live](https://golden.com/ai)] ⚡️
 **Bing – Prometheus** Feb 2023 [[waitlist](https://www.bing.com/)] ⚡️
-**Google – Bard** Feb 2023 [under dev.] ⚡️
+**Google – Bard** Feb 2023 [only in certain countries] ⚡️
 **Paper QA** Feb 2023 [[code](https://github.com/whitead/paper-qa)] [[demo](https://huggingface.co/spaces/whitead/paper-qa)] ⚡️
 **DocsGPT** Feb 2023 [[live](https://docsgpt.arc53.com/)] [[code](https://github.com/arc53/docsgpt)] ⚡️
 **DocAsker** Jan 2023 [[live](https://www.docasker.com/)] ⚡️
