@@ -435,6 +435,14 @@ ACL 2020 – May 2020 [[paper](https://aclanthology.org/2020.acl-main.173.pdf)]
 
 ## Generative Recommendation
 
+**RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation**  
+*Gabriel Bénédict, Olivier Jeunen, Samuele Papa, Samarth Bhargav, Daan Odijk, Maarten de Rijke*  
+arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2306.08947)]
+
+**A First Look at LLM-Powered Generative News Recommendation**  
+*Qijiong Liu, Nuo Chen, Tetsuya Sakai, Xiao-Ming Wu*  
+arXiv – Jun 2023 [[paper](https://arxiv.org/pdf/2305.06566.pdf)]
+
 **DiffuRec: A Diffusion Model for Sequential Recommendation**  
 *Zihao Li, Aixin Sun, Chenliang Li*  
 arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.00686)]
