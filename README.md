@@ -162,6 +162,11 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 ### Retrieval-Enhanced LLM 
 (external grounding/retrieval at inference time)
 
+**WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences**  
+*Xiao Liu, Hanyu Lai, Hao Yu, Yifan Xu, Aohan Zeng, Zhengxiao Du, Peng Zhang, Yuxiao Dong, Jie Tang*  
+arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2306.07906)]
+
+
 **RET-LLM: Towards a General Read-Write Memory for Large Language Models**  
 *Ali Modarressi, Ayyoob Imani, MOhsen Fayyaz, Hinrich Schutze*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.14322)]
