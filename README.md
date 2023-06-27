@@ -489,7 +489,7 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12810)]
 
 **Prompt Tuning or Fine-Tuning - Investigating Relational Knowledge in Pre-Trained Language Models**  
 *Leandra Fichtel, Jan-Christoph Kalo, Wolf-Tilo Balke*  
-AKBC 23 – [[paper](https://openreview.net/pdf?id=o7sMlpr9yBW)]
+AKBC 21 – [[paper](https://openreview.net/pdf?id=o7sMlpr9yBW)]
 
 ---
 
