@@ -489,7 +489,11 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.12810)]
 
 **Prompt Tuning or Fine-Tuning - Investigating Relational Knowledge in Pre-Trained Language Models**  
 *Leandra Fichtel, Jan-Christoph Kalo, Wolf-Tilo Balke*  
-AKBC 21 – [[paper](https://openreview.net/pdf?id=o7sMlpr9yBW)]
+AKBC 2021 – [[paper](https://openreview.net/pdf?id=o7sMlpr9yBW)]
+
+**Language Models as Knowledge Bases?**  
+*Fabio Petroni, Tim Rocktäschel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel*  
+EMNLP 2019 – Sep 2019 [[paper](https://arxiv.org/pdf/1909.01066.pdf)]
 
 ---
 
