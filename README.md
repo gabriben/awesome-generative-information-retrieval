@@ -83,6 +83,10 @@ OpenAI Blog – Jan 2023 [[link](https://openai.com/research/forecasting-misuse)
 *Arian Askari, Mohammad Aliannejadi, Evangelos Kanoulas, Suzan Verberne*  
 Github – Feb 2023 [[code](https://github.com/arian-askari/ChatGPT-RetrievalQA)]
 
+**KAMEL : Knowledge Analysis with Multitoken Entities in Language Models**  
+*Jan-Christoph Kalo, Leandra Fichtel*  
+AKBC 22 – [[paper](https://www.akbc.ws/2022/assets/pdfs/15_kamel_knowledge_analysis_with_.pdf)]
+
 **TruthfulQA: Measuring How Models Mimic Human Falsehoods**  
 *Stephanie Lin, Jacob Hilton, Owain Evans*  
 arXiv – Sep 2021 [[paper](https://arxiv.org/pdf/2109.07958.pdf)] [[code](https://github.com/sylinrl/TruthfulQA)]
