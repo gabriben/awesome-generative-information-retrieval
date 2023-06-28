@@ -332,6 +332,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Nonparametric Decoding for Generative Retrieval**  
+*Hyunji Lee, Jaeyoung Kim, Hoyeon Chang, Hanseok Oh, Sohee Yang, Vladimir Karpukhin, Yi Lu, Minjoon Seo*  
+ACL Findings 2023 – May 2023 [[paper](https://arxiv.org/abs/2210.02068)]
+
 **Large Language Models are Built-in Autoregressive Search Engines**  
 *Noah Ziems, Wenhao Yu, Zhihan Zhang, Meng Jiang*  
 ACL Findings 2023 – May 2023 [[paper](https://arxiv.org/abs/2305.09612)]
