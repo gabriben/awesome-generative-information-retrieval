@@ -223,13 +223,17 @@ arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.04426)]
 *Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman*  
 arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.09332)]
 
-**A Hybrid Retrieval-Generation Neural Conversation Model**  
-*Liu Yang, Junjie Hu, Minghui Qiu, Chen Qu, Jianfeng Gao, W. Bruce Croft, Xiaodong Liu, Yelong Shen, Jingjing Liu*  
-arXiv – Apr 2019 [[paper](https://arxiv.org/abs/1904.09068)]
-
 **BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA**  
 *Nora Kassner, Hinrich Schütze*  
 EMNLP 2020 – Nov 2020 [[paper](https://aclanthology.org/2020.findings-emnlp.307.pdf)]
+
+**REALM: Retrieval-Augmented Language Model Pre-Training**  
+*Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang*  
+ICML 2020 – Jul 2020 [[paper](https://arxiv.org/abs/2002.08909)]
+
+**A Hybrid Retrieval-Generation Neural Conversation Model**  
+*Liu Yang, Junjie Hu, Minghui Qiu, Chen Qu, Jianfeng Gao, W. Bruce Croft, Xiaodong Liu, Yelong Shen, Jingjing Liu*  
+arXiv – Apr 2019 [[paper](https://arxiv.org/abs/1904.09068)]
 
 ### LLM Memory Manipulation 
 (internal grounding at inference time)
