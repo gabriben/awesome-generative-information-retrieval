@@ -216,6 +216,12 @@ arXiv – Jan 2023 [[paper](https://arxiv.org/pdf/2301.08110.pdf)]
 arXiv – Dec 2022 [[paper](https://arxiv.org/pdf/2212.14024.pdf)]
 
 **Improving language models by retrieving from trillions of tokens**  
+*Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero,
+Karen Simonyan, Jack W. Rae, Erich Elsen and Laurent Sifre* 
+  
+arXiv – Feb 2022 [[paper](https://arxiv.org/pdf/2112.04426.pdf)]
+
+**Improving language models by retrieving from trillions of tokens**  
 *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre*  
 arXiv – Dec 2021 [[paper](https://arxiv.org/abs/2112.04426)]
 
