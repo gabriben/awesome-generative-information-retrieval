@@ -20,7 +20,6 @@ Pull-requests welcome!
   - [Multimodal](#multimodal)
   - [Prompting](#prompting)
   - [Generate Code](#generate-code)
-  - [Latent LLM Knowledge](#latent-llm-knowledge)
 - [Generative Document Retrieval](#generative-document-retrieval)
   - [Generate a Document ID as an identifier](#generate-a-document-id-as-an-identifier)
   - [Generate a string as an identifier](#generate-a-string-as-an-identifier)
