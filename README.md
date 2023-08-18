@@ -165,6 +165,10 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 ### Retrieval-Enhanced LLM 
 (external grounding/retrieval at inference time)
 
+**Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**  
+*Zhiyuan Peng, Xuyang Wu, Yi Fang*  
+arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2307.08303)]  
+
 **RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit**  
 *Jiongnan Liu, Jiajie Jin, Zihan Wang, Jiehan Cheng, Zhicheng Dou, Ji-Rong Wen*  
 arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2306.05212)]  
