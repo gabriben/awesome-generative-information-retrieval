@@ -11,7 +11,7 @@ Pull-requests welcome!
 - [Datasets](#datasets)
 - [Tools](#tools)
 - [Evaluation](#evaluation)
-- [Workshops](#workshops)
+- [Workshops and Tutorials](#workshops-and-tutorials)
 - [Epistemology Papers](#epistemoplogy-papers)
 - [Grounded Answer Generation](#grounded-answer-generation)
   - [Retrieval-Enhanced LLM](#retrieval-enhanced-llm)  
@@ -118,7 +118,7 @@ arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.08281)] [[code](https://g
 *Nelson F. Liu, Tianyi Zhang, Percy Liang*  
 arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.09848)] [[code](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)]
 
-## Workshops
+## Workshops and Tutorials
 
 **First Workshop on Recommendation with Generative Models**  
 *Wenjie Wang, Yong Liu, Yang Zhang, Weiwen Liu, Fuli Feng, Xiangnan He, Aixin Sun*  
@@ -127,6 +127,10 @@ CIKM 23 – Oct 2023 [[link](https://rgm-cikm23.github.io/)]
 **First Workshop on Generative Information Retrieval**  
 *Gabriel Bénédict, Ruqing Zhang, Donald Metzler*  
 SIGIR 23 – Jul 2023 [[link](https://coda.io/@sigir/gen-ir)]
+
+**Retrieval-based Language Models and Applications**  
+*Akari Asai,	Sewon Min,	Zexuan Zhong,	Danqi Chen*  
+ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
