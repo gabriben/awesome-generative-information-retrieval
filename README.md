@@ -24,7 +24,7 @@ Pull-requests welcome!
   - [Generate a Document ID as an identifier](#generate-a-document-id-as-an-identifier)
   - [Generate a string as an identifier](#generate-a-string-as-an-identifier)
   - [Applications](#applications)
-- [Summarization](#summarization)
+- [Summarization and Document Rewriting](#summarization-and-document-rewriting)
 - [Generative Recommendation](#generative-recommendation)
 - [Knowledge Graph Generation](#knowledge-graph-generation)
 
@@ -468,7 +468,11 @@ SIGIR 2022 [[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531827)] [[Code]
 *Hyunji Lee, Sohee Yang, Hanseok Oh, Minjoon Seo*  
 Arxiv – Apr 2022 [[paper](https://arxiv.org/pdf/2204.13596.pdf)]
 
-## Summarization
+## Summarization and Document Rewriting
+
+**Genetic Generative Information Retrieval**  
+*Hrishikesh Kulkarni, Zachary Young, Nazli Goharian, Ophir Frieder, Sean MacAvaney*  
+DocEng 23 – Aug 23 [[paper](https://dl.acm.org/doi/pdf/10.1145/3573128.3609340)]
 
 **Learning to summarize with human feedback**  
 *Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*  
