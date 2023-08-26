@@ -78,6 +78,10 @@ OpenAI Blog – Jan 2023 [[link](https://openai.com/research/forecasting-misuse)
 
 ## Datasets
 
+**LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models**  
+*Neel Guha, Julian Nyarko, Daniel E. Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin Peters, Brandon Waldon, Daniel N. Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan, Galit Sarfaty, Gregory M. Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, Joel Niklaus, John Nay, Jonathan H. Choi, Kevin Tobia, Margaret Hagan, Megan Ma, Michael Livermore, Nikon Rasumov-Rahe, Nils Holzenberger, Noam Kolt, Peter Henderson, Sean Rehaag, Sharad Goel, Shang Gao, Spencer Williams, Sunny Gandhi, Tom Zur, Varun Iyer, Zehua Li*  
+arXiv – Aug 2023 [[paper](https://arxiv.org/abs/2308.11462)] [[dataset](https://github.com/primeqa/primeqa](https://huggingface.co/datasets/nguha/legalbench)]
+
 **ChatGPT-RetrievalQA**  
 *Arian Askari, Mohammad Aliannejadi, Evangelos Kanoulas, Suzan Verberne*  
 Github – Feb 2023 [[code](https://github.com/arian-askari/ChatGPT-RetrievalQA)]
