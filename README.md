@@ -177,6 +177,10 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 ### Retrieval-Enhanced LLM 
 (external grounding/retrieval at inference time)
 
+**Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**  
+*Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister*  
+arXiv – Aug 2023 [[paper](https://arxiv.org/abs/2308.00675)]
+
 **Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**  
 *Zhiyuan Peng, Xuyang Wu, Yi Fang*  
 arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2307.08303)]  
