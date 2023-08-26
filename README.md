@@ -80,7 +80,7 @@ OpenAI Blog – Jan 2023 [[link](https://openai.com/research/forecasting-misuse)
 
 **LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models**  
 *Neel Guha, Julian Nyarko, Daniel E. Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin Peters, Brandon Waldon, Daniel N. Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan, Galit Sarfaty, Gregory M. Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, Joel Niklaus, John Nay, Jonathan H. Choi, Kevin Tobia, Margaret Hagan, Megan Ma, Michael Livermore, Nikon Rasumov-Rahe, Nils Holzenberger, Noam Kolt, Peter Henderson, Sean Rehaag, Sharad Goel, Shang Gao, Spencer Williams, Sunny Gandhi, Tom Zur, Varun Iyer, Zehua Li*  
-arXiv – Aug 2023 [[paper](https://arxiv.org/abs/2308.11462)] [[dataset](https://github.com/primeqa/primeqa](https://huggingface.co/datasets/nguha/legalbench)]
+arXiv – Aug 2023 [[paper](https://arxiv.org/abs/2308.11462)] [[dataset](https://huggingface.co/datasets/nguha/legalbench)]
 
 **ChatGPT-RetrievalQA**  
 *Arian Askari, Mohammad Aliannejadi, Evangelos Kanoulas, Suzan Verberne*  
@@ -119,6 +119,10 @@ arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.08281)] [[code](https://g
 arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.09848)] [[code](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)]
 
 ## Workshops
+
+**First Workshop on Recommendation with Generative Models**  
+*Wenjie Wang, Yong Liu, Yang Zhang, Weiwen Liu, Fuli Feng, Xiangnan He, Aixin Sun*  
+CIKM 23 – Oct 2023 [[link](https://rgm-cikm23.github.io/)]
 
 **First Workshop on Generative Information Retrieval**  
 *Gabriel Bénédict, Ruqing Zhang, Donald Metzler*  
