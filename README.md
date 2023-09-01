@@ -497,6 +497,10 @@ arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2306.08947)]
 *Qijiong Liu, Nuo Chen, Tetsuya Sakai, Xiao-Ming Wu*  
 arXiv – Jun 2023 [[paper](https://arxiv.org/pdf/2305.06566.pdf)]
 
+**Large Language Models as Zero-Shot Conversational Recommenders**  
+*Yupeng Hou, Junjie Zhang, Zihan Lin, Hongyu Lu, Ruobing Xie, Julian McAuley, Wayne Xin Zhao*  
+arXiv – May 2023 [[paper](https://arxiv.org/pdf/2308.10053.pdf)]
+
 **DiffuRec: A Diffusion Model for Sequential Recommendation**  
 *Zihao Li, Aixin Sun, Chenliang Li*  
 arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.00686)]
