@@ -12,7 +12,7 @@ Pull-requests welcome!
 - [Tools](#tools)
 - [Evaluation](#evaluation)
 - [Workshops and Tutorials](#workshops-and-tutorials)
-- [Epistemology Papers](#epistemoplogy-papers)
+- [Epistemology Papers](#epistemology-papers)
 - [Grounded Answer Generation](#grounded-answer-generation)
   - [Retrieval-Enhanced LLM](#retrieval-enhanced-llm)  
   - [LLM Memory Manipulation](#llm-memory-manipulation)
