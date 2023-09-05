@@ -364,6 +364,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Continual Learning for Generative Retrieval over Dynamic Corpora**  
+*Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan, Xueqi Cheng*  
+CIKM 2023 - Aug 2023 [[paper](https://arxiv.org/abs/2308.14968)]
+
 **Learning to Rank in Generative Retrieval**  
 *Yongqi Li, Nan Yang, Liang Wang, Furu Wei, Wenjie Li*  
 arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2306.15222)]
