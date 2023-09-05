@@ -489,6 +489,10 @@ ACL 2020 – May 2020 [[paper](https://aclanthology.org/2020.acl-main.173.pdf)]
 
 ## Generative Recommendation
 
+**RecMind: Large Language Model Powered Agent For Recommendation**  
+*Yancheng Wang, Ziyan Jiang, Zheng Chen, Fan Yang, Yingxue Zhou, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Yingzhen Yang*  
+arXiv – Aug 2023 [[paper](https://arxiv.org/abs/2308.14296)]
+
 **RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation**  
 *Gabriel Bénédict, Olivier Jeunen, Samuele Papa, Samarth Bhargav, Daan Odijk, Maarten de Rijke*  
 arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2306.08947)]
