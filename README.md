@@ -266,6 +266,10 @@ arXiv – Apr 2019 [[paper](https://arxiv.org/abs/1904.09068)]
 ### LLM Memory Manipulation 
 (internal grounding at inference time)
 
+**EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models**  
+*Peng Wang, Ningyu Zhang, Xin Xie, Yunzhi Yao, Bozhong Tian, Mengru Wang, Zekun Xi, Siyuan Cheng, Kangwei Liu, Guozhou Zheng, Huajun Chen*  
+arXiv – Aug 2023 [[paper](https://arxiv.org/pdf/2308.07269.pdf)]
+
 **Inspecting and Editing Knowledge Representations in Language Models**  
 *Evan Hernandez, Belinda Z. Li, Jacob Andreas*  
 arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
