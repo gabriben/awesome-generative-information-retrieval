@@ -181,6 +181,10 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 *Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister*  
 arXiv – Aug 2023 [[paper](https://arxiv.org/abs/2308.00675)]
 
+**ReAugKD: Retrieval-Augmented Knowledge Distillation For Pre-trained Language Models**  
+*Jianyi Zhang, Aashiq Muhamed, Aditya Anantharaman, Guoyin Wang, Changyou Chen, Kai Zhong, Qingjun Cui, Yi Xu, Belinda Zeng, Trishul Chilimbi, Yiran Chen*  
+ACL 23 – Jul 2023 [[paper](https://aclanthology.org/2023.acl-short.97.pdf)]
+
 **Surface-Based Retrieval Reduces Perplexity of Retrieval-Augmented Language Models**  
 *Ehsan Doostmohammadi, Tobias Norlund, Marco Kuhlmann, Richard Johansson*  
 ACL 23 – Jul 2023 [[paper](https://aclanthology.org/2023.acl-short.45/)]
