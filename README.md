@@ -181,6 +181,10 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 *Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister*  
 arXiv – Aug 2023 [[paper](https://arxiv.org/abs/2308.00675)]
 
+**Surface-Based Retrieval Reduces Perplexity of Retrieval-Augmented Language Models**  
+*Ehsan Doostmohammadi, Tobias Norlund, Marco Kuhlmann, Richard Johansson*  
+ACL 23 – Jul 2023 [[paper](https://aclanthology.org/2023.acl-short.45/)]
+
 **Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**  
 *Zhiyuan Peng, Xuyang Wu, Yi Fang*  
 arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2307.08303)]  
