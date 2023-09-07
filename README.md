@@ -350,6 +350,10 @@ arXiv – Mar 2023 [[paper](https://arxiv.org/abs/2303.00534)]
 
 ### Prompting
 
+**Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**
+*Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot and Ashish Sabharwal*
+ACL 23 – Jul 2023 [[paper](https://aclanthology.org/2023.acl-long.557.pdf)]
+
 **ReAct: Synergizing Reasoning and Acting in Language Models**  
 *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao*  
 arXiv – Oct 2022 [[paper](https://arxiv.org/abs/2210.03629)]
