@@ -382,6 +382,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Model-enhanced Vector Index**  
+*Hailin Zhang, Yujing Wang, Qi Chen, Ruiheng Chang, Ting Zhang, Ziming Miao, Yingyan Hou, Yang Ding, Xupeng Miao, Haonan Wang, Bochen Pang, Yuefeng Zhan, Hao Sun, Weiwei Deng, Qi Zhang, Fan Yang, Xing Xie, Mao Yang, Bin Cui*  
+NeurIPS 2023 – May 2023 [[paper](https://arxiv.org/abs/2309.13335)] [[code](https://github.com/HugoZHL/MEVI)]
+
 **Continual Learning for Generative Retrieval over Dynamic Corpora**  
 *Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan, Xueqi Cheng*  
 CIKM 2023 - Aug 2023 [[paper](https://arxiv.org/abs/2308.14968)]
