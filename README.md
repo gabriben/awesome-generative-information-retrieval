@@ -78,8 +78,8 @@ OpenAI Blog – Jan 2023 [[link](https://openai.com/research/forecasting-misuse)
 
 ## Datasets
 
-**FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation**
-*Tu Vu, Mohit Iyyer, Xuezhi Wang, Noah Constant, Jerry Wei, Jason Wei, Chris Tar, Yun-Hsuan Sung, Denny Zhou, Quoc Le, Thang Luong*
+**FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation**  
+*Tu Vu, Mohit Iyyer, Xuezhi Wang, Noah Constant, Jerry Wei, Jason Wei, Chris Tar, Yun-Hsuan Sung, Denny Zhou, Quoc Le, Thang Luong*  
 arXiv – October 2023 [[paper](https://arxiv.org/abs/2310.03214)] [[code](https://github.com/freshllms/freshqa)]
 
 **LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models**  
@@ -181,12 +181,12 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 ### Retrieval-Enhanced LLM 
 (external grounding/retrieval at inference time)
 
-**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**
-*Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts*
+**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**  
+*Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts*  
 arXiv – October 2023 [[paper](https://arxiv.org/abs/2310.03714)] [[code](https://github.com/stanfordnlp/dspy)]
 
-**RA-DIT: Retrieval-Augmented Dual Instruction Tuning** 
-*Xi Victoria Lin, Xilun Chen, Mingda Chen, Weijia Shi, Maria Lomeli, Rich James, Pedro Rodriguez, Jacob Kahn, Gergely Szilvasy, Mike Lewis, Luke Zettlemoyer, Scott Yih*
+**RA-DIT: Retrieval-Augmented Dual Instruction Tuning**  
+*Xi Victoria Lin, Xilun Chen, Mingda Chen, Weijia Shi, Maria Lomeli, Rich James, Pedro Rodriguez, Jacob Kahn, Gergely Szilvasy, Mike Lewis, Luke Zettlemoyer, Scott Yih*  
 arXiv – Aug 2023 [[paper](https://arxiv.org/abs/2310.01352)]
 
 **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**  
