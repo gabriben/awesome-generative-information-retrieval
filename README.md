@@ -124,6 +124,10 @@ arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.09848)] [[code](https:/
 
 ## Workshops and Tutorials
 
+**Personalized Generative AI**  
+*Zheng Chen, Ziyan Jiang, Fan Yang, Zhankui He, Yupeng Hou, Eunah Cho, Julian McAuley, Aram Galstyan, Xiaohua Hu, Jie Yang*  
+CIKM 23 – Oct 2023 [[link](https://sites.google.com/view/pgai2023/home)]
+
 **First Workshop on Recommendation with Generative Models**  
 *Wenjie Wang, Yong Liu, Yang Zhang, Weiwen Liu, Fuli Feng, Xiangnan He, Aixin Sun*  
 CIKM 23 – Oct 2023 [[link](https://rgm-cikm23.github.io/)]
