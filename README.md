@@ -181,6 +181,64 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 ### Retrieval-Enhanced LLM 
 (external grounding/retrieval at inference time)
 
+Certainly, here are the paper details with square brackets around the paper links:
+
+**Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=hSyW5go0v8)]
+
+**RA-DIT: Retrieval-Augmented Dual Instruction Tuning**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=22OTbutug9)]
+
+**In-Context Learning with Retrieval Augmented Encoder-Decoder Language Models**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=QXRScRrwNr)]
+
+**Making Retrieval-Augmented Language Models Robust to Irrelevant Context**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=ZS4m74kZpH)]
+
+**Retrieval meets Long Context Large Language Models**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=xw5nxFWMlo)]
+
+**Reformulating Domain Adaptation of Large Language Models as Adapt-Retrieve-Revise**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=3GunDQNKFJ)]
+
+**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=4stB7DFLp6)]
+
+**SuRe: Improving Open-domain Question Answering of LLMs via Summarized Retrieval**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=w4DW6qkRmt)]
+
+**RECOMP: Improving Retrieval-Augmented LMs with Context Compression and Selective Augmentation**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=ZdjKRbtrth)]
+
+**Generative Retrieval with Large Language Models**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=oXYZJXDdo7)]
+
+**Retrieval is Accurate Generation**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=clU5xWyItb)]
+
+**PaperQA: Retrieval-Augmented Generative Agent for Scientific Research**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=clU5xWyItb)]
+
+**Understanding Retrieval Augmentation for Long-Form Question Answering**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=mCnWT9OVvK)]
+
+**Personalized Language Generation via Bayesian Metric Augmented Retrieval**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/pdf?id=n1LiKueC4F)]
+
 **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**  
 *Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts*  
 arXiv – October 2023 [[paper](https://arxiv.org/abs/2310.03714)] [[code](https://github.com/stanfordnlp/dspy)]
