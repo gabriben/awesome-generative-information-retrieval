@@ -356,7 +356,11 @@ arXiv – Aug 2023 [[paper](https://arxiv.org/pdf/2308.07269.pdf)]
 
 **Inspecting and Editing Knowledge Representations in Language Models**  
 *Evan Hernandez, Belinda Z. Li, Jacob Andreas*  
-arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
+arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
+
+**Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering**  
+*Gautier Izacard, Edouard Grave*  
+arXiv – Feb 2023 [[paper](https://arxiv.org/pdf/2007.01282.pdf)]
 
 **Discovering Latent Knowledge in Language Models Without Supervision**  
 *Collin Burns, Haotian Ye, Dan Klein, Jacob Steinhardt*  
