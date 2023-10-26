@@ -68,6 +68,10 @@ See [PowerdByGPT](https://www.poweredbygpt.co/) for more.
 
 ## Blog Posts
 
+**Query Transformations**  
+*LangChain*
+LangChain Blog – Oct 2023 [[link](https://blog.langchain.dev/query-transformations/)]
+
 **What Makes a Dialog Agent Useful?**  
 *Nazneen Rajani, Nathan Lambert, Victor Sanh, Thomas Wolf*  
 Hugging Face Blog – Jan 2023 [[link](https://huggingface.co/blog/dialog-agents)]
