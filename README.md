@@ -227,10 +227,6 @@ ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=w4DW6qkRmt)]
 *Anonymous*  
 ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=ZdjKRbtrth)]
 
-**Generative Retrieval with Large Language Models**  
-*Anonymous*  
-ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=oXYZJXDdo7)]
-
 **Retrieval is Accurate Generation**  
 *Anonymous*  
 ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=clU5xWyItb)]
@@ -533,6 +529,10 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2203.00537.pdf)]
 Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Generate a string as an identifier
+
+**Generative Retrieval with Large Language Models**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=oXYZJXDdo7)]
 
 **Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies**  
 *Yubao Tang, Ruqing Zhang, Jiafeng Guo, Jiangui Chen, Zuowei Zhu, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng*  
