@@ -146,6 +146,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**Calibrated Language Models Must Hallucinate**  
+*Adam Tauman Kalai, Santosh S. Vempala*
+arXiv – Nov 2023 [[paper](https://arxiv.org/pdf/2311.14648.pdf)]
+
 **The False Promise of Imitating Proprietary LLMs**  
 *Arnav Gudibande, Eric Wallace, Charlie Snell, Xinyang Geng, Hao Liu, Pieter Abbeel, Sergey Levine, Dawn Song*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.15717)]
