@@ -586,6 +586,10 @@ Arxiv – Apr 2022 [[paper](https://arxiv.org/pdf/2204.13596.pdf)]
 
 ## Summarization and Document Rewriting
 
+**Generating Factually Consistent Sport Highlights Narrations**  
+*Noah Sarfati, Ido Yerushalmy, Michael Chertok, Yosi Keller*  
+MMSports 2023 – Oct 23 [[paper](https://dl.acm.org/doi/10.1145/3606038.3616157)]
+
 **Genetic Generative Information Retrieval**  
 *Hrishikesh Kulkarni, Zachary Young, Nazli Goharian, Ophir Frieder, Sean MacAvaney*  
 DocEng 23 – Aug 23 [[paper](https://dl.acm.org/doi/pdf/10.1145/3573128.3609340)]
