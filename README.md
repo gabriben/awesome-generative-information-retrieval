@@ -538,6 +538,10 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Generate a string as an identifier
 
+**Enhancing Generative Retrieval with Reinforcement Learning from Relevance Feedback**  
+*Yujia Zhou, Zhicheng Dou, Ji-Rong Wen*  
+EMNLP 2023 - December 23 [[paper](https://aclanthology.org/2023.emnlp-main.768.pdf)]
+
 **Generative Retrieval with Large Language Models**  
 *Anonymous*  
 ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=oXYZJXDdo7)]
