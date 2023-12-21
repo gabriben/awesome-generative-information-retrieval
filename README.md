@@ -538,6 +538,10 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Generate a string as an identifier
 
+**GLEN: Generative Retrieval via Lexical Index Learning**  
+*Sunkyung Lee, Minjin Choi, Jongwuk Lee*  
+EMNLP 2023 - December 23 [[paper](https://aclanthology.org/2023.emnlp-main.477/)] [[Code](https://github.com/skleee/GLEN)]
+
 **Enhancing Generative Retrieval with Reinforcement Learning from Relevance Feedback**  
 *Yujia Zhou, Zhicheng Dou, Ji-Rong Wen*  
 EMNLP 2023 - December 23 [[paper](https://aclanthology.org/2023.emnlp-main.768.pdf)]
