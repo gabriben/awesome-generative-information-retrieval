@@ -146,6 +146,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**Retrieval-Augmented Generation for Large Language Models: A Survey**  
+*Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Haofen Wang*  
+arXiv – Dec 2023 [[paper](https://arxiv.org/pdf/2312.10997.pdf)]
+
 **Calibrated Language Models Must Hallucinate**  
 *Adam Tauman Kalai, Santosh S. Vempala*
 arXiv – Nov 2023 [[paper](https://arxiv.org/pdf/2311.14648.pdf)]
