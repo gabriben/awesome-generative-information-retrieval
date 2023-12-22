@@ -146,6 +146,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**Dense Text Retrieval based on Pretrained Language Models: A Survey**  
+*Wayne Xin Zhao, Jing Liu, Ruiyang Ren, Ji-Rong Wen*  
+TOIS – Dec 2023 [[paper](https://dl.acm.org/doi/10.1145/3637870)]
+
 **Retrieval-Augmented Generation for Large Language Models: A Survey**  
 *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Haofen Wang*  
 arXiv – Dec 2023 [[paper](https://arxiv.org/pdf/2312.10997.pdf)]
