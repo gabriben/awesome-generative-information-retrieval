@@ -472,6 +472,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Auto Search Indexer for End-to-End Document Retrieval**  
+*Tianchi Yang, Minghui Song, Zihan Zhang, Haizhen Huang, Weiwei Deng, Feng Sun, Qi Zhang*  
+EMNLP 2023 - December 23 [[paper](https://aclanthology.org/2023.findings-emnlp.464.pdf)]
+
 **Model-enhanced Vector Index**  
 *Hailin Zhang, Yujing Wang, Qi Chen, Ruiheng Chang, Ting Zhang, Ziming Miao, Yingyan Hou, Yang Ding, Xupeng Miao, Haonan Wang, Bochen Pang, Yuefeng Zhan, Hao Sun, Weiwei Deng, Qi Zhang, Fan Yang, Xing Xie, Mao Yang, Bin Cui*  
 NeurIPS 2023 – May 2023 [[paper](https://arxiv.org/abs/2309.13335)] [[code](https://github.com/HugoZHL/MEVI)]
