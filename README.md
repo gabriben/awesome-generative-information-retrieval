@@ -153,7 +153,7 @@ TOIS – Dec 2023 [[paper](https://dl.acm.org/doi/10.1145/3637870)]
 
 **Retrieval-Augmented Generation for Large Language Models: A Survey**  
 *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Haofen Wang*  
-arXiv – Dec 2023 [[paper](https://arxiv.org/pdf/2312.10997.pdf)]
+arXiv – Dec 2023 [[paper](https://arxiv.org/pdf/2312.10997v2.pdf)]
 
 **Calibrated Language Models Must Hallucinate**  
 *Adam Tauman Kalai, Santosh S. Vempala*
