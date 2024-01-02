@@ -24,6 +24,7 @@ Pull-requests welcome!
   - [Generate a Document ID as an identifier](#generate-a-document-id-as-an-identifier)
   - [Generate a string as an identifier](#generate-a-string-as-an-identifier)
   - [Applications](#applications)
+- [Query Generation](#query-generation)
 - [Summarization and Document Rewriting](#summarization-and-document-rewriting)
 - [Generative Recommendation](#generative-recommendation)
 - [Knowledge Graph Generation](#knowledge-graph-generation)
@@ -592,17 +593,24 @@ ICLR 2021 – Oct 2020 [[paper](https://arxiv.org/pdf/2010.00904.pdf)] [[Code](h
 *James Thorne*  
 SustaiNLP@EMNLP 2022 – Nov 2022 [[paper](https://arxiv.org/abs/2211.09388)]
 
-**Unified Generative & Dense Retrieval for Query Rewriting in Sponsored Search**  
-*Akash Kumar Mohankumar, Bhargav Dodla, Gururaj K, Amit Singh*  
-arXiv – Sep 2022 [[paper](https://arxiv.org/abs/2209.05861)]
-
 **GERE: Generative Evidence Retrieval for Fact Verification**  
 *Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Yixing Fan, Xueqi Cheng*  
 SIGIR 2022 [[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531827)] [[Code](https://github.com/Chriskuei/GERE)]
 
 **Generative Multi-hop Retrieval**  
 *Hyunji Lee, Sohee Yang, Hanseok Oh, Minjoon Seo*  
-Arxiv – Apr 2022 [[paper](https://arxiv.org/pdf/2204.13596.pdf)]
+arXiv – Apr 2022 [[paper](https://arxiv.org/pdf/2312.15450.pdf)]
+
+## Query Generation
+
+**Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**  
+*Xiaopeng Li, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin*  
+arXiv – Dec 2023 [[paper](https://arxiv.org/abs/2209.05861)]
+
+**Unified Generative & Dense Retrieval for Query Rewriting in Sponsored Search**  
+*Akash Kumar Mohankumar, Bhargav Dodla, Gururaj K, Amit Singh*  
+arXiv – Sep 2022 [[paper](https://arxiv.org/abs/2209.05861)]
+
 
 ## Summarization and Document Rewriting
 
