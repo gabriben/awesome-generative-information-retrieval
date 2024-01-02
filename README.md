@@ -69,6 +69,26 @@ See [PowerdByGPT](https://www.poweredbygpt.co/) for more.
 
 ## Blog Posts
 
+**Running Mixtral 8x7 locally with LlamaIndex**  
+*LlamaIndex*  
+LlamaIndex Blog – Dec 2023 [[link](https://blog.llamaindex.ai/running-mixtral-8x7-locally-with-llamaindex-e6cebeabe0ab)]
+
+**Advanced RAG Techniques: an Illustrated Overview**  
+*Ivan Ilin*  
+Towards AI – Dec 2023 [[link](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)]
+
+**Multimodal RAG pipeline with LlamaIndex and Neo4j**  
+*Tomaz Bratanic*  
+LlamaIndex Blog – Dec 2023 [[link](https://blog.llamaindex.ai/multimodal-rag-pipeline-with-llamaindex-and-neo4j-a2c542eb0206)]
+
+**Benchmarking RAG on tables**  
+*LangChain*  
+LangChain Blog – Dec 2023 [[link](https://blog.langchain.dev/benchmarking-rag-on-tables/)]
+
+**Advanced RAG 01: Small-to-Big Retrieval**  
+*Sophia Yang*  
+Towards Data Science – Nov 2023 [[link](https://towardsdatascience.com/advanced-rag-01-small-to-big-retrieval-172181b396d4)]
+
 **Query Transformations**  
 *LangChain*
 LangChain Blog – Oct 2023 [[link](https://blog.langchain.dev/query-transformations/)]
@@ -112,6 +132,10 @@ TREC – 2017-2019 [[link](http://trec-car.cs.unh.edu/)]
 **PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development**  
 *Avirup Sil, Jaydeep Sen, Bhavani Iyer, Martin Franz, Kshitij Fadnis, Mihaela Bornea, Sara Rosenthal, Scott McCarley, Rong Zhang, Vishwajeet Kumar, Yulong Li, Md Arafat Sultan, Riyaz Bhat, Radu Florian, Salim Roukos*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://github.com/primeqa/primeqa)]
+
+**DHS LLM Workshop - Module 6**  
+*Sourab Mangrulkar*  
+GitHub – Dec 2023 [[code](https://github.com/pacman100/DHS-LLM-Workshop/tree/main/6_Module)]
 
 ## Evaluation
 
