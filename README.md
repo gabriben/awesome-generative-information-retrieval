@@ -198,7 +198,7 @@ SIGIR Forum 2021 – May 2021 [[paper](https://arxiv.org/pdf/2105.02274.pdf)]
 arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 
 
-### Retrieval-Enhanced LLM 
+### Retrieval Augmented Generation (RAG)
 (external grounding/retrieval at inference time)
 
 **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**  
