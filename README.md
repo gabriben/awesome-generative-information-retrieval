@@ -14,7 +14,7 @@ Pull-requests welcome!
 - [Workshops and Tutorials](#workshops-and-tutorials)
 - [Epistemology Papers](#epistemology-papers)
 - [Grounded Answer Generation](#grounded-answer-generation)
-  - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation-(rag))  
+  - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation-rag)  
   - [LLM Memory Manipulation](#llm-memory-manipulation)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Multimodal](#multimodal)
