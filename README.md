@@ -14,8 +14,8 @@ Pull-requests welcome!
 - [Workshops and Tutorials](#workshops-and-tutorials)
 - [Epistemology Papers](#epistemology-papers)
 - [Grounded Answer Generation](#grounded-answer-generation)
-  - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation-rag)  
-  - [LLM Memory Manipulation](#llm-memory-manipulation)
+  - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation-rag)  (external grounding/retrieval at inference time)
+  - [LLM Memory Manipulation](#llm-memory-manipulation) (grounded in internal model weights at inference time)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Multimodal](#multimodal)
   - [Prompting](#prompting)
@@ -199,7 +199,8 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 
 
 ### Retrieval Augmented Generation (RAG)
-(external grounding/retrieval at inference time)
+
+> external grounding/retrieval at inference time
 
 **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**  
 *Anonymous*  
@@ -358,7 +359,8 @@ ICML 2020 – Jul 2020 [[paper](https://arxiv.org/abs/2002.08909)]
 arXiv – Apr 2019 [[paper](https://arxiv.org/abs/1904.09068)]
 
 ### LLM Memory Manipulation 
-(internal grounding at inference time)
+
+> grounded in internal model weights at inference time
 
 **EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models**  
 *Peng Wang, Ningyu Zhang, Xin Xie, Yunzhi Yao, Bozhong Tian, Mengru Wang, Zekun Xi, Siyuan Cheng, Kangwei Liu, Guozhou Zheng, Huajun Chen*  
