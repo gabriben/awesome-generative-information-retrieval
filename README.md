@@ -201,8 +201,6 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 ### Retrieval-Enhanced LLM 
 (external grounding/retrieval at inference time)
 
-Certainly, here are the paper details with square brackets around the paper links:
-
 **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**  
 *Anonymous*  
 ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=hSyW5go0v8)]
