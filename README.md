@@ -713,7 +713,11 @@ WSDM 2023 – Feb 2023 [[paper](https://arxiv.org/abs/2301.08632)]
 *Joojo Walker, Ting Zhong, Fengli Zhang, Qiang Gao, Fan Zhou*  
 KSEM 2022 – Aug 2022 [[paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-10989-8_47)]
 
-## Knowledge Graph Generation
+## Generative Knowledge Graphs
+
+**DocGraphLM: Documental Graph Language Model for Information Extraction**  
+*Dongsheng Wang, Zhiqiang Ma, Armineh Nourbakhsh, Kang Gu, Sameena Shah*  
+arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.02823.pdf)]
 
 **From Retrieval to Generation: Efficient and Effective Entity Set Expansion**  
 *Shulin Huang, Shirong Ma, Yangning Li, Yinghui Li, Hai-Tao Zheng, Yong Jiang*  
