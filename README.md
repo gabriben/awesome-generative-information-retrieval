@@ -171,6 +171,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**Large Language Models for Generative Information Extraction: A Survey**  
+*Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen*  
+arXiv – Dec 2023 [[paper](https://arxiv.org/pdf/2312.17617v1.pdf)]
+
 **Dense Text Retrieval based on Pretrained Language Models: A Survey**  
 *Wayne Xin Zhao, Jing Liu, Ruiyang Ren, Ji-Rong Wen*  
 TOIS – Dec 2023 [[paper](https://dl.acm.org/doi/10.1145/3637870)]
