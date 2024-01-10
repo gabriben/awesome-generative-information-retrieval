@@ -670,11 +670,11 @@ ACL 2020 – May 2020 [[paper](https://aclanthology.org/2020.acl-main.173.pdf)]
 
 **Plug-in Diffusion Model for Sequential Recommendation**  
 *Haokai Ma, Ruobing Xie, Lei Meng, Xin Chen, Xu Zhang, Leyu Lin, Zhanhui Kang*  
-arXiv – Jan 2024 [[paper]](https://arxiv.org/pdf/2401.02913.pdf)]
+arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.02913.pdf)]
 
 **Towards Graph-Aware Diffusion Modeling For Collaborative Filtering**
 *Yunqin Zhu1, Chao Wang, Hui Xiong*  
-arXiv – Nov 2023 [[paper]](https://arxiv.org/pdf/2311.08744.pdf)]
+arXiv – Nov 2023 [[paper](https://arxiv.org/pdf/2311.08744.pdf)]
 
 **RecMind: Large Language Model Powered Agent For Recommendation**  
 *Yancheng Wang, Ziyan Jiang, Zheng Chen, Fan Yang, Yingxue Zhou, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Yingzhen Yang*  
