@@ -16,6 +16,7 @@ Pull-requests welcome!
 - [Grounded Answer Generation](#grounded-answer-generation)
   - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation-rag)  (external grounding/retrieval at inference time)
   - [LLM Memory Manipulation](#llm-memory-manipulation) (grounded in internal model weights at inference time)
+  - [Constrained Generation](#constrained-generation)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Multimodal](#multimodal)
   - [Prompting](#prompting)
@@ -443,6 +444,12 @@ DL4KG 2021 – Oct 2021 [[paper](https://arxiv.org/pdf/2110.04888.pdf)]
 **Generalization through Memorization: Nearest Neighbor Language Models**\
 *Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis*  
 ICLR 2020 – Sep 2019 [[paper](https://openreview.net/forum?id=HklBjCEKvH)] [[code](https://github.com/urvashik/knnlm)]
+
+### Constrained Generation
+
+**Unlocking Anticipatory Text Generation: A Constrained Approach for Faithful Decoding with Large Language Models**  
+*Anonymous*  
+ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=774elYc5tw)]
 
 ### Reinforcement Learning
 
