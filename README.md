@@ -130,13 +130,13 @@ TREC – 2017-2019 [[link](http://trec-car.cs.unh.edu/)]
 
 ## Tools
 
-**PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development**  
-*Avirup Sil, Jaydeep Sen, Bhavani Iyer, Martin Franz, Kshitij Fadnis, Mihaela Bornea, Sara Rosenthal, Scott McCarley, Rong Zhang, Vishwajeet Kumar, Yulong Li, Md Arafat Sultan, Riyaz Bhat, Radu Florian, Salim Roukos*  
-arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://github.com/primeqa/primeqa)]
-
 **DHS LLM Workshop - Module 6**  
 *Sourab Mangrulkar*  
 GitHub – Dec 2023 [[code](https://github.com/pacman100/DHS-LLM-Workshop/tree/main/6_Module)]
+
+**PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development**  
+*Avirup Sil, Jaydeep Sen, Bhavani Iyer, Martin Franz, Kshitij Fadnis, Mihaela Bornea, Sara Rosenthal, Scott McCarley, Rong Zhang, Vishwajeet Kumar, Yulong Li, Md Arafat Sultan, Riyaz Bhat, Radu Florian, Salim Roukos*  
+arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://github.com/primeqa/primeqa)]
 
 ## Evaluation
 
