@@ -172,6 +172,22 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**Report on the 1st Workshop on Generative Information Retrieval (Gen-IR 2023) at SIGIR 2023**  
+*Gabriel Bénédict, Ruqing Zhang, Donald Metzler, Andrew Yates, Romain Deffayet, Philipp Hager, Sami Jullien*  
+SIGIR Forum – Dec 2023 [[paper](https://sigir.org/wp-content/uploads/2023/12/p13.pdf)]
+
+**Report on the 1st Workshop on Task Focused IR in the Era of Generative AI**  
+*Chirag Shah, Ryen W. White*  
+SIGIR Forum – Dec 2023 [[paper](https://sigir.org/wp-content/uploads/2023/12/p20.pdf)]
+
+**Towards Generative Search and Recommendation: A keynote at RecSys 2023**  
+*Tat-Seng Chua*  
+SIGIR Forum – Dec 2023 [[paper](https://sigir.org/wp-content/uploads/2023/12/p05.pdf)]
+
+**Large Search Model: Redefining Search Stack in the Era of LLMs**  
+*Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei*  
+SIGIR Forum – Dec 2023 [[paper](https://sigir.org/wp-content/uploads/2023/12/p23.pdf)]
+
 **Large Language Models for Generative Information Extraction: A Survey**  
 *Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen*  
 arXiv – Dec 2023 [[paper](https://arxiv.org/pdf/2312.17617v1.pdf)]
