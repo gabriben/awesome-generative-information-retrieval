@@ -130,6 +130,10 @@ TREC – 2017-2019 [[link](http://trec-car.cs.unh.edu/)]
 
 ## Tools
 
+**Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers**  
+*Gal Yona, Roee Aharoni, Mor Geva*  
+arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.04695.pdf)]
+
 **DHS LLM Workshop - Module 6**  
 *Sourab Mangrulkar*  
 GitHub – Dec 2023 [[code](https://github.com/pacman100/DHS-LLM-Workshop/tree/main/6_Module)]
