@@ -746,6 +746,10 @@ KSEM 2022 – Aug 2022 [[paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-109
 *Dongsheng Wang, Zhiqiang Ma, Armineh Nourbakhsh, Kang Gu, Sameena Shah*  
 arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.02823.pdf)]
 
+**KBFormer: A Diffusion Model for Structured Entity Completion**  
+*Ouail Kitouni, Niklas Nolte, James Hensman, Bhaskar Mitra*  
+arXiv – Dec 2023 [[paper](https://arxiv.org/pdf/2312.05253.pdf)]
+
 **From Retrieval to Generation: Efficient and Effective Entity Set Expansion**  
 *Shulin Huang, Shirong Ma, Yangning Li, Yinghui Li, Hai-Tao Zheng, Yong Jiang*  
 arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.03531v1)]
