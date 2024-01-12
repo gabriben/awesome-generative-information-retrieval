@@ -28,7 +28,7 @@ Pull-requests welcome!
 - [Query Generation](#query-generation)
 - [Summarization and Document Rewriting](#summarization-and-document-rewriting)
 - [Generative Recommendation](#generative-recommendation)
-- [Knowledge Graph Generation](#knowledge-graph-generation)
+- [Generative Knowledge Graphs](#generative-knowledge-graphs)
 
 ## Live Generative Retrieval
 
