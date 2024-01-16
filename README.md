@@ -336,6 +336,10 @@ arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2306.05212)]
 *Xiao Liu, Hanyu Lai, Hao Yu, Yifan Xu, Aohan Zeng, Zhengxiao Du, Peng Zhang, Yuxiao Dong, Jie Tang*  
 arXiv – Jun 2023 [[paper](https://arxiv.org/abs/2306.07906)]
 
+**WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia**  
+*Sina J. Semnani, Violet Z. Yao, Heidi C. Zhang, Monica S. Lam*  
+EMNLP Findings 2023 – May 2023 [[paper]](https://arxiv.org/abs/2305.14292) [[code]](https://github.com/stanford-oval/WikiChat) [[demo]](https://wikichat.genie.stanford.edu)
+
 **RET-LLM: Towards a General Read-Write Memory for Large Language Models**  
 *Ali Modarressi, Ayyoob Imani, MOhsen Fayyaz, Hinrich Schutze*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.14322)]
