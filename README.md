@@ -70,6 +70,10 @@ See [PowerdByGPT](https://www.poweredbygpt.co/) for more.
 
 ## Blog Posts
 
+**Mastering RAG: How To Architect An Enterprise RAG System**  
+*Pratik Bhavsar*  
+Galileo Labs – Jan 2024 [[link](https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system#multi-tenancy)]
+
 **Running Mixtral 8x7 locally with LlamaIndex**  
 *LlamaIndex*  
 LlamaIndex Blog – Dec 2023 [[link](https://blog.llamaindex.ai/running-mixtral-8x7-locally-with-llamaindex-e6cebeabe0ab)]
