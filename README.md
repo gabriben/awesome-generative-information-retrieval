@@ -256,6 +256,10 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 
 > external grounding/retrieval at inference time
 
+**It's About Time: Incorporating Temporality in Retrieval Augmented Language Models**  
+*Anoushka Gade, Jorjeta Jetcheva*  
+arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.13222.pdf)]
+
 **RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**  
 *Angels Balaguer, Vinamra Benara, Renato Luiz de Freitas Cunha, Roberto de M. Estevão Filho, Todd Hendry, Daniel Holstein, Jennifer Marsman, Nick Mecklenburg, Sara Malvar, Leonardo O. Nunes, Rafael Padilha, Morris Sharp, Bruno Silva, Swati Sharma, Vijay Aski, Ranveer Chandra*  
 arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.08406.pdf)]
