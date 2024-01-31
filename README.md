@@ -256,6 +256,10 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 
 > external grounding/retrieval at inference time
 
+**Corrective Retrieval Augmented Generation**  
+*Shi-Qi Yan, Jia-Chen Gu, Yun Zhu, Zhen-Hua Ling*  
+arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.15884.pdf)]
+
 **It's About Time: Incorporating Temporality in Retrieval Augmented Language Models**  
 *Anoushka Gade, Jorjeta Jetcheva*  
 arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.13222.pdf)]
