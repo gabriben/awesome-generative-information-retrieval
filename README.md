@@ -21,12 +21,13 @@ Pull-requests welcome!
   - [Multimodal](#multimodal)
   - [Prompting](#prompting)
   - [Generate Code](#generate-code)
+  - [Query Generation](#query-generation)
+  - [Summarization and Document Rewriting](#summarization-and-document-rewriting)
+  - [Table QA](#table-qa)
 - [Generative Document Retrieval](#generative-document-retrieval)
   - [Generate a Document ID as an identifier](#generate-a-document-id-as-an-identifier)
   - [Generate a string as an identifier](#generate-a-string-as-an-identifier)
   - [Applications](#applications)
-- [Query Generation](#query-generation)
-- [Summarization and Document Rewriting](#summarization-and-document-rewriting)
 - [Generative Recommendation](#generative-recommendation)
 - [Generative Knowledge Graphs](#generative-knowledge-graphs)
 
@@ -542,6 +543,42 @@ arXiv – Mar 2023 [[paper](https://arxiv.org/pdf/2303.12570.pdf)]
 *Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig*  
 ICLR 23 – Jul 2022 [[paper](https://arxiv.org/abs/2207.05987)] [[code](https://github.com/shuyanzhou/docprompting)] [[data](https://github.com/shuyanzhou/docprompting#data)]
 
+
+### Query Generation
+
+**Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**  
+*Xiaopeng Li, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin*  
+arXiv – Dec 2023 [[paper](https://arxiv.org/abs/2209.05861)]
+
+**Unified Generative & Dense Retrieval for Query Rewriting in Sponsored Search**  
+*Akash Kumar Mohankumar, Bhargav Dodla, Gururaj K, Amit Singh*  
+arXiv – Sep 2022 [[paper](https://arxiv.org/abs/2209.05861)]
+
+
+### Summarization and Document Rewriting
+
+**Generating Factually Consistent Sport Highlights Narrations**  
+*Noah Sarfati, Ido Yerushalmy, Michael Chertok, Yosi Keller*  
+MMSports 2023 – Oct 23 [[paper](https://dl.acm.org/doi/10.1145/3606038.3616157)]
+
+**Genetic Generative Information Retrieval**  
+*Hrishikesh Kulkarni, Zachary Young, Nazli Goharian, Ophir Frieder, Sean MacAvaney*  
+DocEng 23 – Aug 23 [[paper](https://dl.acm.org/doi/pdf/10.1145/3573128.3609340)]
+
+**Learning to summarize with human feedback**  
+*Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*  
+NeurIPS 2020 – Sep 2020 [[paper](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)]
+
+**On Faithfulness and Factuality in Abstractive Summarization**  
+*Joshua Maynez, Shashi Narayan, Bernd Bohnet, Ryan McDonald*  
+ACL 2020 – May 2020 [[paper](https://aclanthology.org/2020.acl-main.173.pdf)]
+
+### Table QA
+
+**Augment before You Try: Knowledge-Enhanced Table Question Answering via Table Expansion**  
+*Yujian Liu, Jiabao Ji, Tong Yu, Ryan Rossi, Sungchul Kim, Handong Zhao, Ritwik Sinha, Yang Zhang, Shiyu Chang*  
+arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.15555.pdf)]
+
 ## Generative Document Retrieval
 
 We jump-started this section by reusing the content of [awesome-generative-retrieval-models](https://github.com/Chriskuei/awesome-generative-retrieval-models) and give full credit to [Chriskuei](https://github.com/Chriskuei) for that! We now have added some content on top.
@@ -676,34 +713,6 @@ SIGIR 2022 [[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531827)] [[Code]
 *Hyunji Lee, Sohee Yang, Hanseok Oh, Minjoon Seo*  
 arXiv – Apr 2022 [[paper](https://arxiv.org/pdf/2312.15450.pdf)]
 
-## Query Generation
-
-**Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**  
-*Xiaopeng Li, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin*  
-arXiv – Dec 2023 [[paper](https://arxiv.org/abs/2209.05861)]
-
-**Unified Generative & Dense Retrieval for Query Rewriting in Sponsored Search**  
-*Akash Kumar Mohankumar, Bhargav Dodla, Gururaj K, Amit Singh*  
-arXiv – Sep 2022 [[paper](https://arxiv.org/abs/2209.05861)]
-
-
-## Summarization and Document Rewriting
-
-**Generating Factually Consistent Sport Highlights Narrations**  
-*Noah Sarfati, Ido Yerushalmy, Michael Chertok, Yosi Keller*  
-MMSports 2023 – Oct 23 [[paper](https://dl.acm.org/doi/10.1145/3606038.3616157)]
-
-**Genetic Generative Information Retrieval**  
-*Hrishikesh Kulkarni, Zachary Young, Nazli Goharian, Ophir Frieder, Sean MacAvaney*  
-DocEng 23 – Aug 23 [[paper](https://dl.acm.org/doi/pdf/10.1145/3573128.3609340)]
-
-**Learning to summarize with human feedback**  
-*Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano*  
-NeurIPS 2020 – Sep 2020 [[paper](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)]
-
-**On Faithfulness and Factuality in Abstractive Summarization**  
-*Joshua Maynez, Shashi Narayan, Bernd Bohnet, Ryan McDonald*  
-ACL 2020 – May 2020 [[paper](https://aclanthology.org/2020.acl-main.173.pdf)]
 
 
 ## Generative Recommendation
