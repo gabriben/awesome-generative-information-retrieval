@@ -257,6 +257,10 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 
 > external grounding/retrieval at inference time
 
+**RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**  
+*Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, Christopher D. Manning*  
+ICLR 24 – Jan 2024 [[paper](https://arxiv.org/pdf/2401.18059.pdf)]
+
 **Corrective Retrieval Augmented Generation**  
 *Shi-Qi Yan, Jia-Chen Gu, Yun Zhu, Zhen-Hua Ling*  
 arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.15884.pdf)]
@@ -662,6 +666,10 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2203.00537.pdf)]
 Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Generate a string as an identifier
+
+**Re3val: Reinforced and Reranked Generative Retrieval**  
+*EuiYul Song, Sangryul Kim, Haeju Lee, Joonkee Kim, James Thorne*  
+EACL Findings 2023 – Jan 24 [[paper](https://arxiv.org/pdf/2401.16979.pdf)]
 
 **GLEN: Generative Retrieval via Lexical Index Learning**  
 *Sunkyung Lee, Minjin Choi, Jongwuk Lee*  
