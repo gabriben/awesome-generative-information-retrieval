@@ -16,6 +16,7 @@ Pull-requests welcome!
 - [Grounded Answer Generation](#grounded-answer-generation)
   - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation-rag)  (external grounding/retrieval at inference time)
   - [LLM Memory Manipulation](#llm-memory-manipulation) (grounded in internal model weights at inference time)
+  - [Fact Uncertainty Estimates](#fact-uncertainty-estimates)
   - [Constrained Generation](#constrained-generation)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Multimodal](#multimodal)
@@ -489,6 +490,13 @@ DL4KG 2021 – Oct 2021 [[paper](https://arxiv.org/pdf/2110.04888.pdf)]
 **Generalization through Memorization: Nearest Neighbor Language Models**\
 *Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis*  
 ICLR 2020 – Sep 2019 [[paper](https://openreview.net/forum?id=HklBjCEKvH)] [[code](https://github.com/urvashik/knnlm)]
+
+### Fact Uncertainty Estimates
+
+**Experts Don’t Cheat: Learning What You Don’t Know By Predicting Pairs**  
+*Daniel D. Johnson, Daniel Tarlow, David Duvenaud, Chris J. Maddison*  
+arXiv 2024 – Feb 2024 [[paper](https://arxiv.org/pdf/2402.08733.pdf)]
+
 
 ### Constrained Generation
 
