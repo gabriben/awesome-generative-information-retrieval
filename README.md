@@ -72,6 +72,10 @@ See [PowerdByGPT](https://www.poweredbygpt.co/) for more.
 
 ## Blog Posts
 
+**Retrieval Augmented Generation Research: 2017-2024**  
+*Moritz Mallawitsch*  
+Scaling Knowledge – Feb 2024 [[link](https://scalingknowledge.substack.com/p/rag)]
+
 **Mastering RAG: How To Architect An Enterprise RAG System**  
 *Pratik Bhavsar*  
 Galileo Labs – Jan 2024 [[link](https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system#multi-tenancy)]
