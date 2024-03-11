@@ -18,6 +18,7 @@ Pull-requests welcome!
   - [LLM Memory Manipulation](#llm-memory-manipulation) (grounded in internal model weights at inference time)
   - [Fact Uncertainty Estimates](#fact-uncertainty-estimates)
   - [Constrained Generation](#constrained-generation)
+  - [Data Centric](#data-centric)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Multimodal](#multimodal)
   - [Prompting](#prompting)
@@ -506,7 +507,13 @@ arXiv 2024 – Feb 2024 [[paper](https://arxiv.org/pdf/2402.08733.pdf)]
 
 **Unlocking Anticipatory Text Generation: A Constrained Approach for Faithful Decoding with Large Language Models**  
 *Anonymous*  
-ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=774elYc5tw)]
+ICLR 24 – October 2023 [[paper](https://openreview.net/forum?id=774elYc5tw)]
+
+### Data Centric
+
+**A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models**  
+*Stefan Hegselmann, Shannon Zejiang Shen, Florian Gierse, Monica Agrawal, David Sontag, Xiaoyi Jiang*  
+arXiv 24 – Feb 2024 [[paper](https://arxiv.org/pdf/2402.15422.pdf)]
 
 ### Reinforcement Learning
 
