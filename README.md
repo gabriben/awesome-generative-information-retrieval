@@ -447,6 +447,10 @@ arXiv – Apr 2019 [[paper](https://arxiv.org/abs/1904.09068)]
 
 > grounded in internal model weights at inference time
 
+**R-Tuning: Teaching Large Language Models to Refuse Unknown Questions**  
+*Hanning Zhang, Shizhe Diao, Yong Lin, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang*  
+arXiv – Nov 2023 [[paper](https://arxiv.org/abs/2311.09677)]
+
 **EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models**  
 *Peng Wang, Ningyu Zhang, Xin Xie, Yunzhi Yao, Bozhong Tian, Mengru Wang, Zekun Xi, Siyuan Cheng, Kangwei Liu, Guozhou Zheng, Huajun Chen*  
 arXiv – Aug 2023 [[paper](https://arxiv.org/pdf/2308.07269.pdf)]
