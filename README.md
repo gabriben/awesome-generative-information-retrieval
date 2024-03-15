@@ -187,6 +187,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**Knowledge Conflicts for LLMs: A Survey**  
+*Rongwu Xu, Zehan Qi, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu*  
+arXiv 24 – Mar 2024 [[paper](https://arxiv.org/abs/2403.08319)]
+
 **Report on the 1st Workshop on Generative Information Retrieval (Gen-IR 2023) at SIGIR 2023**  
 *Gabriel Bénédict, Ruqing Zhang, Donald Metzler, Andrew Yates, Romain Deffayet, Philipp Hager, Sami Jullien*  
 SIGIR Forum – Dec 2023 [[paper](https://sigir.org/wp-content/uploads/2023/12/p13.pdf)]
