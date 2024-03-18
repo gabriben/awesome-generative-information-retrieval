@@ -581,6 +581,10 @@ ICLR 23 – Jul 2022 [[paper](https://arxiv.org/abs/2207.05987)] [[code](https:/
 
 ### Query Generation
 
+**Generate, Filter, and Fuse: Query Expansion via Multi-Step Keyword Generation for Zero-Shot Neural Rankers**  
+*Minghan Li, Honglei Zhuang, Kai Hui, Zhen Qin, Jimmy Lin, Rolf Jagerman, Xuanhui Wang, Michael Bendersky*  
+arXiv – Nov 2023 [[paper](https://arxiv.org/pdf/2311.09175.pdf)]
+
 **Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**  
 *Xiaopeng Li, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin*  
 arXiv – Dec 2023 [[paper](https://arxiv.org/abs/2209.05861)]
