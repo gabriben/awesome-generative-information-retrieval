@@ -624,6 +624,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Scalable and Effective Generative Information Retrieval**  
+*Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani*  
+WWW 2024 - Nov 2023 [[paper](https://arxiv.org/abs/2311.09134)]
+
 **Auto Search Indexer for End-to-End Document Retrieval**  
 *Tianchi Yang, Minghui Song, Zihan Zhang, Haizhen Huang, Weiwei Deng, Feng Sun, Qi Zhang*  
 EMNLP 2023 - December 23 [[paper](https://aclanthology.org/2023.findings-emnlp.464.pdf)]
