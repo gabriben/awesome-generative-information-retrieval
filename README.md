@@ -626,11 +626,11 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 **Generative Dense Retrieval: Memory Can Be a Burden**  
 *Peiwen Yuan, Xinglin Wang, Shaoxiong Feng, Boyuan Pan, Yiwei Li, Heda Wang, Xupeng Miao, Kan Li*  
-EACL 2024 - Jan 2024 [[paper](https://arxiv.org/abs/2401.10487)]
+EACL 2024 - Jan 2024 [[paper](https://arxiv.org/abs/2401.10487)] [[code](https://github.com/ypw0102/GDR)]
 
 **Scalable and Effective Generative Information Retrieval**  
 *Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani*  
-WWW 2024 - Nov 2023 [[paper](https://arxiv.org/abs/2311.09134)]
+WWW 2024 - Nov 2023 [[paper](https://arxiv.org/abs/2311.09134)] [[code](https://github.com/HansiZeng/RIPOR)]
 
 **Auto Search Indexer for End-to-End Document Retrieval**  
 *Tianchi Yang, Minghui Song, Zihan Zhang, Haizhen Huang, Weiwei Deng, Feng Sun, Qi Zhang*  
