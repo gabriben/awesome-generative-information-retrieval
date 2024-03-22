@@ -624,6 +624,10 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Generative Dense Retrieval: Memory Can Be a Burden**  
+*Peiwen Yuan, Xinglin Wang, Shaoxiong Feng, Boyuan Pan, Yiwei Li, Heda Wang, Xupeng Miao, Kan Li*  
+EACL 2024 - Jan 2024 [[paper](https://arxiv.org/abs/2401.10487)]
+
 **Scalable and Effective Generative Information Retrieval**  
 *Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani*  
 WWW 2024 - Nov 2023 [[paper](https://arxiv.org/abs/2311.09134)]
