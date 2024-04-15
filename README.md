@@ -710,9 +710,14 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Generate a string as an identifier
 
+
 **NOVO: Learnable and Interpretable Document Identifiers for Model-Based IR**
 *Zihan Wang, Yujia Zhou, Yiteng Tu, Zhicheng Dou*
 CIKM 2023 - October 2023 [[paper](https://dl.acm.org/doi/10.1145/3583780.3614993)]
+
+**Generative Retrieval as Multi-Vector Dense Retrieval**  
+*Shiguang Wu, Wenda Wei, Mengqi Zhang, Zhumin Chen, Jun Ma, Zhaochun Ren, Maarten de Rijke, Pengjie Ren*  
+SIGIR 2024 - March 24 [[paper](https://arxiv.org/abs/2404.00684)] [[Code](https://github.com/Furyton/GR-as-MVDR)]
 
 **Re3val: Reinforced and Reranked Generative Retrieval**  
 *EuiYul Song, Sangryul Kim, Haeju Lee, Joonkee Kim, James Thorne*  
