@@ -624,6 +624,14 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**Generative Dense Retrieval: Memory Can Be a Burden**  
+*Peiwen Yuan, Xinglin Wang, Shaoxiong Feng, Boyuan Pan, Yiwei Li, Heda Wang, Xupeng Miao, Kan Li*  
+EACL 2024 - Jan 2024 [[paper](https://arxiv.org/abs/2401.10487)] [[code](https://github.com/ypw0102/GDR)]
+
+**Scalable and Effective Generative Information Retrieval**  
+*Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani*  
+WWW 2024 - Nov 2023 [[paper](https://arxiv.org/abs/2311.09134)] [[code](https://github.com/HansiZeng/RIPOR)]
+
 **Auto Search Indexer for End-to-End Document Retrieval**  
 *Tianchi Yang, Minghui Song, Zihan Zhang, Haizhen Huang, Weiwei Deng, Feng Sun, Qi Zhang*  
 EMNLP 2023 - December 23 [[paper](https://aclanthology.org/2023.findings-emnlp.464.pdf)]
@@ -701,6 +709,11 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2203.00537.pdf)]
 Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Generate a string as an identifier
+
+
+**NOVO: Learnable and Interpretable Document Identifiers for Model-Based IR**
+*Zihan Wang, Yujia Zhou, Yiteng Tu, Zhicheng Dou*
+CIKM 2023 - October 2023 [[paper](https://dl.acm.org/doi/10.1145/3583780.3614993)]
 
 **Generative Retrieval as Multi-Vector Dense Retrieval**  
 *Shiguang Wu, Wenda Wei, Mengqi Zhang, Zhumin Chen, Jun Ma, Zhaochun Ren, Maarten de Rijke, Pengjie Ren*  
