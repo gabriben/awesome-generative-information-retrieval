@@ -169,6 +169,14 @@ arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.09848)] [[code](https:/
 
 ## Workshops and Tutorials
 
+**Workshop on Generative AI for Recommender Systems and Personalization**  
+*Narges Tabari, Aniket Deshmukh, Wang-Cheng Kang, Rashmi Gangadharaiah, Hamed Zamani, Julian McAuley, George Karypis*  
+KDD 24 – Aug 2024 [[link](https://genai-personalization.github.io/GenAIRecP2024)]
+
+**Second Workshop on Generative Information Retrieval**  
+*Gabriel Bénédict, Ruqing Zhang, Donald Metzler, Andrew Yates, Ziyan Jiang*  
+SIGIR 24 – Jul 2024 [[link](https://coda.io/@sigir/gen-ir-24)]
+
 **Personalized Generative AI**  
 *Zheng Chen, Ziyan Jiang, Fan Yang, Zhankui He, Yupeng Hou, Eunah Cho, Julian McAuley, Aram Galstyan, Xiaohua Hu, Jie Yang*  
 CIKM 23 – Oct 2023 [[link](https://sites.google.com/view/pgai2023/home)]
