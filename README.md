@@ -767,10 +767,9 @@ arXiv – Apr 2022 [[paper](https://arxiv.org/pdf/2204.10628.pdf)] [[Code](https
 *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni*  
 ICLR 2021 – Oct 2020 [[paper](https://arxiv.org/pdf/2010.00904.pdf)] [[Code](https://github.com/facebookresearch/GENRE)]
 
-**Planning Ahead in Generative Retrieval: Guiding Autoregressive
-Generation through Simultaneous Decoding**
-*Hansi Zeng ,Chen Luo ,Hamed Zamani*
-22 Apr 2024 [[Preprint](https://arxiv.org/pdf/2404.14600.pdf)] [[Code](https://github.com/HansiZeng/PAG)]
+**Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous Decoding**  
+*Hansi Zeng ,Chen Luo ,Hamed Zamani*  
+arXiv – Apr 2024 [[paper](https://arxiv.org/pdf/2404.14600.pdf)] [[Code](https://github.com/HansiZeng/PAG)]
 
 ### Applications
 
