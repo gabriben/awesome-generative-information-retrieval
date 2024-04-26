@@ -195,6 +195,11 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**From Matching to Generation: A Survey on
+Generative Information Retrieval**
+*Xiaoxi Li, Jiajie Jin, Yujia Zhou, Yuyao Zhang, Peitian Zhang, Yutao Zhu, and Zhicheng Dou*
+arXiv 23 Apr 2024 [[paper](https://arxiv.org/abs/2404.14851)]
+
 **Knowledge Conflicts for LLMs: A Survey**  
 *Rongwu Xu, Zehan Qi, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu*  
 arXiv 24 – Mar 2024 [[paper](https://arxiv.org/abs/2403.08319)]
