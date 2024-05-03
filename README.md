@@ -195,6 +195,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**Hallucination of Multimodal Large Language Models: A Survey**  
+*Zechen Bai, Pichao Wang, Tianjun Xiao, Tong He, Zongbo Han, Zheng Zhang, Mike Zheng Shou*  
+arXiv 23 – Apr 2024 [[paper](https://arxiv.org/abs/2404.18930)]
+
 **From Matching to Generation: A Survey on Generative Information Retrieval**  
 *Xiaoxi Li, Jiajie Jin, Yujia Zhou, Yuyao Zhang, Peitian Zhang, Yutao Zhu, and Zhicheng Dou*  
 arXiv 23 – Apr 2024 [[paper](https://arxiv.org/abs/2404.14851)]
