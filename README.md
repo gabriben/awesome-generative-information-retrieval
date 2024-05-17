@@ -6,7 +6,6 @@ Pull-requests welcome!
 
 # Table of Contents
 
-- [Live Generative Retrieval](#live-generative-retrieval)
 - [Blog Posts](#blog-posts)
 - [Datasets](#datasets)
 - [Tools](#tools)
@@ -32,6 +31,7 @@ Pull-requests welcome!
   - [Applications](#applications)
 - [Generative Recommendation](#generative-recommendation)
 - [Generative Knowledge Graphs](#generative-knowledge-graphs)
+- [Live Generative Retrieval](#live-generative-retrieval)
 
 ## Blog Posts
 
