@@ -33,44 +33,6 @@ Pull-requests welcome!
 - [Generative Recommendation](#generative-recommendation)
 - [Generative Knowledge Graphs](#generative-knowledge-graphs)
 
-## Live Generative Retrieval
-
-Although some of these are not accompanied by a paper, they might be useful to other Generative IR researchers for empirical studies or interface design considerations.
-
-⚡️
-**factiverse** Jun 2023 [[live](https://editor.factiverse.ai/)] ⚡️
-**devmarizer** Mar 2023 [[live](https://devmarizer.firebaseapp.com/)] ⚡️
-**TaxGenius** Mar 2023 [[live](https://www.taxgenius.app/)] ⚡️
-**doc-gpt** Mar 2023 [[live](https://pineappleexpress808-doc-gpt-doc-gpt-q0823l.streamlit.app/)] ⚡️
-**book-gpt** Feb 2023 [[live](https://github.com/fraserxu/book-gpt)] ⚡️
-**Neeva** Feb 2023 [[live](https://neeva.com/)] ⚡️
-**Golden Retriever** Feb 2023 [[live](https://golden.com/ai)] ⚡️
-**Bing – Prometheus** Feb 2023 [[waitlist](https://www.bing.com/)] ⚡️
-**Google – Bard** Feb 2023 [only in certain countries] ⚡️
-**Paper QA** Feb 2023 [[code](https://github.com/whitead/paper-qa)] [[demo](https://huggingface.co/spaces/whitead/paper-qa)] ⚡️
-**DocsGPT** Feb 2023 [[live](https://docsgpt.arc53.com/)] [[code](https://github.com/arc53/docsgpt)] ⚡️
-**DocAsker** Jan 2023 [[live](https://www.docasker.com/)] ⚡️
-**Lexii.ai** Jan 2023 [[live](https://lexii.ai/)] ⚡️
-**YOU.com** Dec 2022 [[live](https://you.com/)] ⚡️
-**arXivGPT** Dec 2022 [[Chrome extension](https://github.com/hunkimForks/chatgpt-arxiv-extension)] ⚡️
-**GPT Index** Nov 2022 [[API](https://github.com/jerryjliu/gpt_index)] ⚡️
-**BlenderBot** Aug 2022 [[live (USA)](https://geo-not-available.blenderbot.ai/)] [[model weights](https://parl.ai/docs/zoo.html)] [[code](https://github.com/facebookresearch/ParlAI/blob/main/projects/bb3/agents/README.md)] [[paper1](#paper-blenderbot)] [[paper2](#paper-blenderbot-hf)] ⚡️
-**PHIND** date? [[live](https://phind.com/)] ⚡️
-**Perplexity** date? [[live](https://www.perplexity.ai/)] ⚡️
-**Galactica** date? [[demo](https://galactica.org/explore/)] [[API](https://github.com/paperswithcode/galai)] [[paper](#paper-galactica)] ⚡️
-**Elicit** date? [[live](https://elicit.org/)] ⚡️
-**ZetaAlpha** date? [[live](https://search.zeta-alpha.com/)] uses OpenAI API 
-
-Under development: 
-⚡️
-**Open-Assistant** [open source] [[code](https://github.com/LAION-AI/Open-Assistant)] ⚡️
-**Transformer Reinforcement Learning** [open source] [[code](https://github.com/lvwerra/trl)] ⚡️
-**Sparrow** [[paper](#paper-sparrow)]
-
-Honorable mentions of **Claude** [private beta] [[paper](#paper-constiutional-ai)] and **ChatGPT** [[live](https://openai.com/blog/chatgpt/)] that are borderline retrieval models (hallucinate a lot and don't cite their sources for now)
-
-See [PowerdByGPT](https://www.poweredbygpt.co/) for more.
-
 ## Blog Posts
 
 **Retrieval Augmented Generation Research: 2017-2024**  
@@ -123,6 +85,10 @@ arXiv – October 2023 [[paper](https://arxiv.org/abs/2310.03214)] [[code](https
 *Neel Guha, Julian Nyarko, Daniel E. Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin Peters, Brandon Waldon, Daniel N. Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan, Galit Sarfaty, Gregory M. Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, Joel Niklaus, John Nay, Jonathan H. Choi, Kevin Tobia, Margaret Hagan, Megan Ma, Michael Livermore, Nikon Rasumov-Rahe, Nils Holzenberger, Noam Kolt, Peter Henderson, Sean Rehaag, Sharad Goel, Shang Gao, Spencer Williams, Sunny Gandhi, Tom Zur, Varun Iyer, Zehua Li*  
 arXiv – Aug 2023 [[paper](https://arxiv.org/abs/2308.11462)] [[dataset](https://huggingface.co/datasets/nguha/legalbench)]
 
+**OpenAssistant Conversations - Democratizing Large Language Model Alignment**
+*Andreas Köpf, Yannic Kilcher, Dimitri von Rütte, Sotiris Anagnostidis, Zhi-Rui Tam, Keith Stevens, Abdullah Barhoum, Nguyen Minh Duc, Oliver Stanley, Richárd Nagyfi, Shahul ES, Sameer Suri, David Glushkov, Arnav Dantuluri, Andrew Maguire, Christoph Schuhmann, Huu Nguyen, Alexander Mattick*
+arXiv – April 2023 [[paper](https://arxiv.org/abs/2304.07327)]
+
 **ChatGPT-RetrievalQA**  
 *Arian Askari, Mohammad Aliannejadi, Evangelos Kanoulas, Suzan Verberne*  
 Github – Feb 2023 [[code](https://github.com/arian-askari/ChatGPT-RetrievalQA)]
@@ -152,6 +118,10 @@ GitHub – Dec 2023 [[code](https://github.com/pacman100/DHS-LLM-Workshop/tree/m
 **PrimeQA: The Prime Repository for State-of-the-Art Multilingual Question Answering Research and Development**  
 *Avirup Sil, Jaydeep Sen, Bhavani Iyer, Martin Franz, Kshitij Fadnis, Mihaela Bornea, Sara Rosenthal, Scott McCarley, Rong Zhang, Vishwajeet Kumar, Yulong Li, Md Arafat Sultan, Riyaz Bhat, Radu Florian, Salim Roukos*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://github.com/primeqa/primeqa)]
+
+**TRL: Transformer Reinforcement Learning**
+*Leandro von Werra, Younes Belkada, Lewis Tunstall, Edward Beeching, Tristan Thrush, Nathan Lambert, Shengyi Huang*
+GitHub – 2020 [[code](https://github.com/huggingface/trl)]
 
 ## Evaluation
 
@@ -877,6 +847,36 @@ AKBC 2021 – [[paper](https://openreview.net/pdf?id=o7sMlpr9yBW)]
 **Language Models as Knowledge Bases?**  
 *Fabio Petroni, Tim Rocktäschel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel*  
 EMNLP 2019 – Sep 2019 [[paper](https://arxiv.org/pdf/1909.01066.pdf)]
+
+
+## Live Generative Retrieval
+
+Although some of these are not accompanied by a paper, they might be useful to other Generative IR researchers for empirical studies or interface design considerations.
+
+⚡
+**Gemini** Dec 2023 [[live](https://gemini.google.com/app️)]  ⚡️
+**factiverse** Jun 2023 [[live](https://editor.factiverse.ai/)] ⚡️
+**devmarizer** Mar 2023 [[live](https://devmarizer.firebaseapp.com/)] ⚡️
+**TaxGenius** Mar 2023 [[live](https://www.taxgenius.app/)] ⚡️
+**doc-gpt** Mar 2023 [[live](https://pineappleexpress808-doc-gpt-doc-gpt-q0823l.streamlit.app/)] ⚡️
+**book-gpt** Feb 2023 [[live](https://github.com/fraserxu/book-gpt)] ⚡️
+**Neeva** Feb 2023 [[live](https://neeva.com/)] ⚡️
+**Golden Retriever** Feb 2023 [[live](https://golden.com/ai)] ⚡️
+**Bing – Prometheus** Feb 2023 [[waitlist](https://www.bing.com/)] ⚡️
+**Google – Bard** Feb 2023 [only in certain countries] ⚡️
+**Paper QA** Feb 2023 [[code](https://github.com/whitead/paper-qa)] [[demo](https://huggingface.co/spaces/whitead/paper-qa)] ⚡️
+**DocsGPT** Feb 2023 [[live](https://docsgpt.arc53.com/)] [[code](https://github.com/arc53/docsgpt)] ⚡️
+**DocAsker** Jan 2023 [[live](https://www.docasker.com/)] ⚡️
+**Lexii.ai** Jan 2023 [[live](https://lexii.ai/)] ⚡️
+**YOU.com** Dec 2022 [[live](https://you.com/)] ⚡️
+**arXivGPT** Dec 2022 [[Chrome extension](https://github.com/hunkimForks/chatgpt-arxiv-extension)] ⚡️
+**GPT Index** Nov 2022 [[API](https://github.com/jerryjliu/gpt_index)] ⚡️
+**BlenderBot** Aug 2022 [[live (USA)](https://geo-not-available.blenderbot.ai/)] [[model weights](https://parl.ai/docs/zoo.html)] [[code](https://github.com/facebookresearch/ParlAI/blob/main/projects/bb3/agents/README.md)] [[paper1](#paper-blenderbot)] [[paper2](#paper-blenderbot-hf)] ⚡️
+**PHIND** date? [[live](https://phind.com/)] ⚡️
+**Perplexity** date? [[live](https://www.perplexity.ai/)] ⚡️
+**Galactica** date? [[demo](https://galactica.org/explore/)] [[API](https://github.com/paperswithcode/galai)] [[paper](#paper-galactica)] ⚡️
+**Elicit** date? [[live](https://elicit.org/)] ⚡️
+**ZetaAlpha** date? [[live](https://search.zeta-alpha.com/)] uses OpenAI API 
 
 ---
 
