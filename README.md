@@ -123,8 +123,8 @@ GitHub – Dec 2023 [[code](https://github.com/pacman100/DHS-LLM-Workshop/tree/m
 *Avirup Sil, Jaydeep Sen, Bhavani Iyer, Martin Franz, Kshitij Fadnis, Mihaela Bornea, Sara Rosenthal, Scott McCarley, Rong Zhang, Vishwajeet Kumar, Yulong Li, Md Arafat Sultan, Riyaz Bhat, Radu Florian, Salim Roukos*  
 arXiv – Jan 2023 [[paper](https://arxiv.org/abs/2301.09715)] [[code](https://github.com/primeqa/primeqa)]
 
-**TRL: Transformer Reinforcement Learning**
-*Leandro von Werra, Younes Belkada, Lewis Tunstall, Edward Beeching, Tristan Thrush, Nathan Lambert, Shengyi Huang*
+**TRL: Transformer Reinforcement Learning**  
+*Leandro von Werra, Younes Belkada, Lewis Tunstall, Edward Beeching, Tristan Thrush, Nathan Lambert, Shengyi Huang*  
 GitHub – 2020 [[code](https://github.com/huggingface/trl)]
 
 ## Evaluation
