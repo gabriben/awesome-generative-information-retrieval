@@ -704,8 +704,8 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 *Hansi Zeng ,Chen Luo ,Hamed Zamani*  
 arXiv – Apr 2024 [[paper](https://arxiv.org/pdf/2404.14600.pdf)] [[Code](https://github.com/HansiZeng/PAG)]
 
-**NOVO: Learnable and Interpretable Document Identifiers for Model-Based IR**
-*Zihan Wang, Yujia Zhou, Yiteng Tu, Zhicheng Dou*
+**NOVO: Learnable and Interpretable Document Identifiers for Model-Based IR**  
+*Zihan Wang, Yujia Zhou, Yiteng Tu, Zhicheng Dou*  
 CIKM 2023 - October 2023 [[paper](https://dl.acm.org/doi/10.1145/3583780.3614993)]
 
 **Generative Retrieval as Multi-Vector Dense Retrieval**  
