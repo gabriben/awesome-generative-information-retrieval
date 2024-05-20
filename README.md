@@ -35,6 +35,10 @@ Pull-requests welcome!
 
 ## Blog Posts
 
+**Deterministic Quoting: Making LLMs Safer for Healthcare**  
+*Matt Yeung*  
+Personal Blog – Apr 2024 [[link](https://mattyyeung.github.io/deterministic-quoting)]
+
 **Retrieval Augmented Generation Research: 2017-2024**  
 *Moritz Mallawitsch*  
 Scaling Knowledge – Feb 2024 [[link](https://scalingknowledge.substack.com/p/rag)]
