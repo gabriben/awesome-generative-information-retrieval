@@ -210,7 +210,7 @@ TOIS – Dec 2023 [[paper](https://dl.acm.org/doi/10.1145/3637870)]
 arXiv – Dec 2023 [[paper](https://arxiv.org/pdf/2312.10997v2.pdf)]
 
 **Calibrated Language Models Must Hallucinate**  
-*Adam Tauman Kalai, Santosh S. Vempala*
+*Adam Tauman Kalai, Santosh S. Vempala*  
 arXiv – Nov 2023 [[paper](https://arxiv.org/pdf/2311.14648.pdf)]
 
 **The False Promise of Imitating Proprietary LLMs**  
