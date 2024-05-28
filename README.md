@@ -213,6 +213,10 @@ arXiv – Dec 2023 [[paper](https://arxiv.org/pdf/2312.10997v2.pdf)]
 *Adam Tauman Kalai, Santosh S. Vempala*  
 arXiv – Nov 2023 [[paper](https://arxiv.org/pdf/2311.14648.pdf)]
 
+**Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models**  
+*Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi*  
+arXiv – Sep 2023 [[paper](https://arxiv.org/pdf/2309.01219)]
+
 **The False Promise of Imitating Proprietary LLMs**  
 *Arnav Gudibande, Eric Wallace, Charlie Snell, Xinyang Geng, Hao Liu, Pieter Abbeel, Sergey Levine, Dawn Song*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.15717)]
