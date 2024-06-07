@@ -68,7 +68,7 @@ LangChain Blog – Dec 2023 [[link](https://blog.langchain.dev/benchmarking-rag-
 Towards Data Science – Nov 2023 [[link](https://towardsdatascience.com/advanced-rag-01-small-to-big-retrieval-172181b396d4)]
 
 **Query Transformations**  
-*LangChain*
+*LangChain*  
 LangChain Blog – Oct 2023 [[link](https://blog.langchain.dev/query-transformations/)]
 
 **What Makes a Dialog Agent Useful?**  
