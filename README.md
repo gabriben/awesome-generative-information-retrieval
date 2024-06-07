@@ -633,17 +633,41 @@ We jump-started this section by reusing the content of [awesome-generative-retri
 
 ### Generate a Document ID as an identifier
 
+**De-DSI: Decentralised Differentiable Search Index**  
+*Petru Neague, Marcel Gregoriadis, Johan Pouwelse*  
+EuroMLSys 24 – Apr 2024 [[paper](https://dl.acm.org/doi/pdf/10.1145/3642970.3655837)]
+
+**Listwise Generative Retrieval Models via a Sequential Learning Process**  
+*Yubao Tang, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Xueqi Cheng*  
+TOIS 2024 – Mar 2024 [[Paper](https://arxiv.org/abs/2403.12499v1)]
+
+**Distillation Enhanced Generative Retrieval**  
+*Yongqi Li, Zhen Zhang, Wenjie Wang, Liqiang Nie, Wenjie Li, Tat-Seng Chua*  
+arXiv 2024 – Feb 2024 [[Paper](https://arxiv.org/pdf/2402.10769)]
+
+**Self-Retrieval: Building an Information Retrieval System with One Large Language Model**  
+*Qiaoyu Tang, Jiawei Chen, Bowen Yu, Yaojie Lu, Cheng Fu, Haiyang Yu, Hongyu Lin, Fei Huang, Ben He, Xianpei Han, Le Sun, Yongbin Li*  
+arXiv 2024 – Feb 2024 [[Paper](https://arxiv.org/pdf/2403.00801)]
+
 **Generative Dense Retrieval: Memory Can Be a Burden**  
 *Peiwen Yuan, Xinglin Wang, Shaoxiong Feng, Boyuan Pan, Yiwei Li, Heda Wang, Xupeng Miao, Kan Li*  
 EACL 2024 - Jan 2024 [[paper](https://arxiv.org/abs/2401.10487)] [[code](https://github.com/ypw0102/GDR)]
+
+**Auto Search Indexer for End-to-End Document Retrieval**  
+*Tianchi Yang, Minghui Song, Zihan Zhang, Haizhen Huang, Weiwei Deng, Feng Sun, Qi Zhang*  
+EMNLP 2023 - December 23 [[paper](https://aclanthology.org/2023.findings-emnlp.464.pdf)]
+
+**DiffusionRet: Diffusion-Enhanced Generative Retriever using Constrained Decoding**  
+*Shanbao Qiao, Xuebing Liu, Seung-Hoon Na*  
+EMNLP Findings 2023 – Dec 2023 [[paper](https://aclanthology.org/2023.findings-emnlp.638.pdf)]
 
 **Scalable and Effective Generative Information Retrieval**  
 *Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani*  
 WWW 2024 - Nov 2023 [[paper](https://arxiv.org/abs/2311.09134)] [[code](https://github.com/HansiZeng/RIPOR)]
 
-**Auto Search Indexer for End-to-End Document Retrieval**  
-*Tianchi Yang, Minghui Song, Zihan Zhang, Haizhen Huang, Weiwei Deng, Feng Sun, Qi Zhang*  
-EMNLP 2023 - December 23 [[paper](https://aclanthology.org/2023.findings-emnlp.464.pdf)]
+**Nonparametric Decoding for Generative Retrieval**  
+*Hyunji Lee, JaeYoung Kim, Hoyeon Chang, Hanseok Oh, Sohee Yang, Vladimir Karpukhin, Yi Lu, Minjoon Seo*  
+ACL Findings 2023 – Jul 2023 [[paper](https://aclanthology.org/2023.findings-acl.801.pdf)]
 
 **Model-enhanced Vector Index**  
 *Hailin Zhang, Yujing Wang, Qi Chen, Ruiheng Chang, Ting Zhang, Ziming Miao, Yingyan Hou, Yang Ding, Xupeng Miao, Haonan Wang, Bochen Pang, Yuefeng Zhan, Hao Sun, Weiwei Deng, Qi Zhang, Fan Yang, Xing Xie, Mao Yang, Bin Cui*  
