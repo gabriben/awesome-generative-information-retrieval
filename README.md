@@ -504,10 +504,21 @@ ICLR 2020 – Sep 2019 [[paper](https://openreview.net/forum?id=HklBjCEKvH)] [[c
 
 ### Fact Uncertainty Estimates
 
+**Linguistic Calibration of Long-Form Generations**  
+*Neil Band, Xuechen Li, Tengyu Ma, Tatsunori Hashimoto*  
+arXiv 2024 – Jun 2024 [[paper](https://arxiv.org/pdf/2404.00474)]
+
+**To Believe or Not to Believe Your LLM**  
+*Yasin Abbasi Yadkori, Ilja Kuzborskij, András György, Csaba Szepesvári*  
+arXiv 2024 – Jun 2024 [[paper](https://arxiv.org/abs/2406.02543)]
+
+**SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales**  
+*Tianyang Xu, Shujin Wu, Shizhe Diao, Xiaoze Liu, Xingyao Wang, Yangyi Chen, Jing Gao*  
+arXiv 2024 – May 2024 [[paper](https://arxiv.org/abs/2405.20974)]
+
 **Experts Don’t Cheat: Learning What You Don’t Know By Predicting Pairs**  
 *Daniel D. Johnson, Daniel Tarlow, David Duvenaud, Chris J. Maddison*  
 arXiv 2024 – Feb 2024 [[paper](https://arxiv.org/pdf/2402.08733.pdf)]
-
 
 ### Constrained Generation
 
