@@ -169,6 +169,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**A Survey of Generative Information Retrieval**  
+*Tzu-Lin Kuo, Tzu-Wei Chiu, Tzung-Sheng Lin, Sheng-Yang Wu, Chao-Wei Huang, Yun-Nung Chen*  
+arXiv 4 - Jun 2024 [[paper](https://arxiv.org/abs/2406.01197)]
+
 **Hallucination of Multimodal Large Language Models: A Survey**  
 *Zechen Bai, Pichao Wang, Tianjun Xiao, Tong He, Zongbo Han, Zheng Zhang, Mike Zheng Shou*  
 arXiv 23 – Apr 2024 [[paper](https://arxiv.org/abs/2404.18930)]
