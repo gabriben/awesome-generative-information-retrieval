@@ -130,7 +130,7 @@ GitHub – 2020 [[code](https://github.com/huggingface/trl)]
 ## Evaluation
 
 **FACTSCORE: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation**  
-*Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi1*  
+*Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi*  
 Pypi – May 2023 [[paper](https://martiansideofthemoon.github.io/assets/factscore.pdf)] [[code](https://pypi.org/project/factscore/#description)]
 
 **FACTKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge**  
