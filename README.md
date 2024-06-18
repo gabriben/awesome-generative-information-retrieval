@@ -169,6 +169,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**ChatGPT is bullshit**  
+*Michael Townsen Hicks1, James Humphries1, Joe Slater1*  
+Ethics Inf Technol – Jun 2024 [[paper](https://link.springer.com/epdf/10.1007/s10676-024-09775-5?sharing_token=0CIhP_zo5-plierRq8kkDPe4RwlQNchNByi7wbcMAY77xTOWyddkW01qGFs1m5zuuoZGBctVlsJF8SbYqcxWi-XzgEYEPiw7xwWi4bMYXJ_1JARDrER9JGdWZOW-UGSkrk_tXPjPh-XWvFNoiFzNlnDUUUEBAztiX9PtP2p6jfI%3D)]
+
 **Hallucination of Multimodal Large Language Models: A Survey**  
 *Zechen Bai, Pichao Wang, Tianjun Xiao, Tong He, Zongbo Han, Zheng Zhang, Mike Zheng Shou*  
 arXiv 23 – Apr 2024 [[paper](https://arxiv.org/abs/2404.18930)]
