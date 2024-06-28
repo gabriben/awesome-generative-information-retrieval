@@ -169,6 +169,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**A Survey of Generative Information Retrieval**  
+*Tzu-Lin Kuo, Tzu-Wei Chiu, Tzung-Sheng Lin, Sheng-Yang Wu, Chao-Wei Huang, Yun-Nung Chen*  
+arXiv 4 - Jun 2024 [[paper](https://arxiv.org/abs/2406.01197)]
+
 **ChatGPT is bullshit**  
 *Michael Townsen Hicks, James Humphries, Joe Slater*  
 Ethics Inf Technol – Jun 2024 [[paper](https://link.springer.com/epdf/10.1007/s10676-024-09775-5?sharing_token=0CIhP_zo5-plierRq8kkDPe4RwlQNchNByi7wbcMAY77xTOWyddkW01qGFs1m5zuuoZGBctVlsJF8SbYqcxWi-XzgEYEPiw7xwWi4bMYXJ_1JARDrER9JGdWZOW-UGSkrk_tXPjPh-XWvFNoiFzNlnDUUUEBAztiX9PtP2p6jfI%3D)]
