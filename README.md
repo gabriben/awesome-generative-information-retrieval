@@ -130,7 +130,7 @@ GitHub – 2020 [[code](https://github.com/huggingface/trl)]
 ## Evaluation
 
 **FACTSCORE: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation**  
-*Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi1*  
+*Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi*  
 Pypi – May 2023 [[paper](https://martiansideofthemoon.github.io/assets/factscore.pdf)] [[code](https://pypi.org/project/factscore/#description)]
 
 **FACTKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge**  
@@ -172,6 +172,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 **A Survey of Generative Information Retrieval**  
 *Tzu-Lin Kuo, Tzu-Wei Chiu, Tzung-Sheng Lin, Sheng-Yang Wu, Chao-Wei Huang, Yun-Nung Chen*  
 arXiv 4 - Jun 2024 [[paper](https://arxiv.org/abs/2406.01197)]
+
+**ChatGPT is bullshit**  
+*Michael Townsen Hicks, James Humphries, Joe Slater*  
+Ethics Inf Technol – Jun 2024 [[paper](https://link.springer.com/epdf/10.1007/s10676-024-09775-5?sharing_token=0CIhP_zo5-plierRq8kkDPe4RwlQNchNByi7wbcMAY77xTOWyddkW01qGFs1m5zuuoZGBctVlsJF8SbYqcxWi-XzgEYEPiw7xwWi4bMYXJ_1JARDrER9JGdWZOW-UGSkrk_tXPjPh-XWvFNoiFzNlnDUUUEBAztiX9PtP2p6jfI%3D)]
 
 **Hallucination of Multimodal Large Language Models: A Survey**  
 *Zechen Bai, Pichao Wang, Tianjun Xiao, Tong He, Zongbo Han, Zheng Zhang, Mike Zheng Shou*  
@@ -448,6 +452,10 @@ arXiv – Apr 2019 [[paper](https://arxiv.org/abs/1904.09068)]
 ### LLM Memory Manipulation 
 
 > grounded in internal model weights at inference time
+
+**How Do Large Language Models Acquire Factual Knowledge During Pretraining?**  
+*Hoyeon Chang, Jinho Park, Seonghyeon Ye, Sohee Yang, Youngkyung Seo, Du-Seong Chang, Minjoon Seo*  
+arXiv – Jun 2024 [[paper](https://arxiv.org/pdf/2406.11813)]
 
 **R-Tuning: Teaching Large Language Models to Refuse Unknown Questions**  
 *Hanning Zhang, Shizhe Diao, Yong Lin, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang*  
