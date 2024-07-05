@@ -829,6 +829,10 @@ arXiv – Apr 2022 [[paper](https://arxiv.org/pdf/2312.15450.pdf)]
 
 ## Generative Recommendation
 
+**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**  
+*Ting-Ji Huang, Jia-Qi Yang, Chunxu Shen, Kai-Qi Liu, De-Chuan Zhan, Han-Jia Ye*  
+arXiv – Jun 2024 [[paper](https://arxiv.org/abs/2406.08477)]
+
 **Plug-in Diffusion Model for Sequential Recommendation**  
 *Haokai Ma, Ruobing Xie, Lei Meng, Xin Chen, Xu Zhang, Leyu Lin, Zhanhui Kang*  
 arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.02913.pdf)]
