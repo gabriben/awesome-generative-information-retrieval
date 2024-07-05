@@ -18,7 +18,7 @@ Pull-requests welcome!
   - [Fact Uncertainty Estimates](#fact-uncertainty-estimates)
   - [Constrained Generation](#constrained-generation)
   - [Data Centric](#data-centric)
-  - [Reinforcement Learning](#reinforcement-learning)
+  - [Utility Maximization](#utility-maximization)
   - [Multimodal](#multimodal)
   - [Prompting](#prompting)
   - [Generate Code](#generate-code)
@@ -544,7 +544,11 @@ ICLR 24 – Sep 2023 [[paper](https://openreview.net/forum?id=774elYc5tw)]
 *Stefan Hegselmann, Shannon Zejiang Shen, Florian Gierse, Monica Agrawal, David Sontag, Xiaoyi Jiang*  
 arXiv 24 – Feb 2024 [[paper](https://arxiv.org/pdf/2402.15422.pdf)]
 
-### Reinforcement Learning
+### Utility Maximization
+
+**Stochastic RAG: End-to-End Retrieval-Augmented Generation through Expected Utility Maximization**  
+*Hamed Zamani, Michael Bendersky*  
+arXiv 24 – May 2024 [[paper](https://arxiv.org/pdf/2405.02816)]
 
 <a name="paper-constiutional-ai"></a>
 **Constitutional AI: Harmlessness from AI Feedback**  
