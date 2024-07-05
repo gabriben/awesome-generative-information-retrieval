@@ -169,21 +169,25 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon**  
+*USVSN Sai Prashanth, Alvin Deng, Kyle O'Brien, Jyothir S V, Mohammad Aflah Khan, Jaydeep Borkar, Christopher A. Choquette-Choo, Jacob Ray Fuehne, Stella Biderman, Tracy Ke, Katherine Lee, Naomi Saphra*  
+arXiv – Jun 2024 [[paper](https://arxiv.org/abs/2406.17746)]
+
 **ChatGPT is bullshit**  
 *Michael Townsen Hicks, James Humphries, Joe Slater*  
 Ethics Inf Technol – Jun 2024 [[paper](https://link.springer.com/epdf/10.1007/s10676-024-09775-5?sharing_token=0CIhP_zo5-plierRq8kkDPe4RwlQNchNByi7wbcMAY77xTOWyddkW01qGFs1m5zuuoZGBctVlsJF8SbYqcxWi-XzgEYEPiw7xwWi4bMYXJ_1JARDrER9JGdWZOW-UGSkrk_tXPjPh-XWvFNoiFzNlnDUUUEBAztiX9PtP2p6jfI%3D)]
 
 **Hallucination of Multimodal Large Language Models: A Survey**  
 *Zechen Bai, Pichao Wang, Tianjun Xiao, Tong He, Zongbo Han, Zheng Zhang, Mike Zheng Shou*  
-arXiv 23 – Apr 2024 [[paper](https://arxiv.org/abs/2404.18930)]
+arXiv – Apr 2024 [[paper](https://arxiv.org/abs/2404.18930)]
 
 **From Matching to Generation: A Survey on Generative Information Retrieval**  
 *Xiaoxi Li, Jiajie Jin, Yujia Zhou, Yuyao Zhang, Peitian Zhang, Yutao Zhu, and Zhicheng Dou*  
-arXiv 23 – Apr 2024 [[paper](https://arxiv.org/abs/2404.14851)]
+arXiv – Apr 2024 [[paper](https://arxiv.org/abs/2404.14851)]
 
 **Knowledge Conflicts for LLMs: A Survey**  
 *Rongwu Xu, Zehan Qi, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu*  
-arXiv 24 – Mar 2024 [[paper](https://arxiv.org/abs/2403.08319)]
+arXiv – Mar 2024 [[paper](https://arxiv.org/abs/2403.08319)]
 
 **Report on the 1st Workshop on Generative Information Retrieval (Gen-IR 2023) at SIGIR 2023**  
 *Gabriel Bénédict, Ruqing Zhang, Donald Metzler, Andrew Yates, Romain Deffayet, Philipp Hager, Sami Jullien*  
