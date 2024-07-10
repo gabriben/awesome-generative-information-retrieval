@@ -111,6 +111,10 @@ TREC – 2017-2019 [[link](http://trec-car.cs.unh.edu/)]
 
 ## Tools
 
+**GraphRAG**  
+*Jonathan Larson, Steven Truitt*  
+Microsoft – Feb 2024 [[code](https://github.com/microsoft/graphrag)]
+
 **Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers**  
 *Gal Yona, Roee Aharoni, Mor Geva*  
 arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.04695.pdf)]
