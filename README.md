@@ -544,7 +544,7 @@ ICLR 24 – Oct 2023 [[paper](https://openreview.net/forum?id=774elYc5tw)]
 
 **DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**  
 *Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He*  
-ICLR 24 – Sep 2023 [[paper](https://openreview.net/forum?id=774elYc5tw)]
+ICLR 24 – Sep 2023 [[paper](https://arxiv.org/pdf/2309.03883)]
 
 ### Data Centric
 
