@@ -81,6 +81,10 @@ OpenAI Blog – Jan 2023 [[link](https://openai.com/research/forecasting-misuse)
 
 ## Datasets
 
+**BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval**  
+*Hongjin Su, Howard Yen, Mengzhou Xia, Weijia Shi, Niklas Muennighoff, Han-yu Wang, Haisu Liu, Quan Shi, Zachary S. Siegel, Michael Tang, Ruoxi Sun, Jinsung Yoon, Sercan O. Arik, Danqi Chen, Tao Yu*  
+arXiv – October 2023 [[paper](https://arxiv.org/pdf/2407.12883)] [[data](https://t.co/P3GyfcO0gO)] [[code](github.com/xlang-ai/BRIGHT)]
+
 **FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation**  
 *Tu Vu, Mohit Iyyer, Xuezhi Wang, Noah Constant, Jerry Wei, Jason Wei, Chris Tar, Yun-Hsuan Sung, Denny Zhou, Quoc Le, Thang Luong*  
 arXiv – October 2023 [[paper](https://arxiv.org/abs/2310.03214)] [[code](https://github.com/freshllms/freshqa)]
