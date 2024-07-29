@@ -294,6 +294,10 @@ arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.13222.pdf)]
 *Angels Balaguer, Vinamra Benara, Renato Luiz de Freitas Cunha, Roberto de M. Estevão Filho, Todd Hendry, Daniel Holstein, Jennifer Marsman, Nick Mecklenburg, Sara Malvar, Leonardo O. Nunes, Rafael Padilha, Morris Sharp, Bruno Silva, Swati Sharma, Vijay Aski, Ranveer Chandra*  
 arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.08406.pdf)]
 
+**Sequencing Matters: A Generate-Retrieve-Generate Model for Building Conversational Agents**  
+*Quinn Patwardhan, Grace Hui Yang*  
+TREC 23 – Nov 2023 [[paper](https://arxiv.org/abs/2311.09513)]
+
 **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**  
 *Anonymous*  
 ICLR 24 – Oct 2023 [[paper](https://openreview.net/forum?id=hSyW5go0v8)]
