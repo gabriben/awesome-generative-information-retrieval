@@ -462,6 +462,10 @@ arXiv – Apr 2019 [[paper](https://arxiv.org/abs/1904.09068)]
 *Hoyeon Chang, Jinho Park, Seonghyeon Ye, Sohee Yang, Youngkyung Seo, Du-Seong Chang, Minjoon Seo*  
 arXiv – Jun 2024 [[paper](https://arxiv.org/pdf/2406.11813)]
 
+**Fine-tuning Language Models for Factuality**  
+*Katherine Tian, Eric Mitchell, Huaxiu Yao, Christopher D. Manning, Chelsea Finn*  
+arXiv – Nov 2023 [[paper](https://arxiv.org/abs/2311.08401)]
+
 **R-Tuning: Teaching Large Language Models to Refuse Unknown Questions**  
 *Hanning Zhang, Shizhe Diao, Yong Lin, Yi R. Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang*  
 arXiv – Nov 2023 [[paper](https://arxiv.org/abs/2311.09677)]
