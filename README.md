@@ -15,6 +15,7 @@ Pull-requests welcome!
 - [Grounded Answer Generation](#grounded-answer-generation)
   - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation-rag)  (external grounding/retrieval at inference time)
   - [LLM Memory Manipulation](#llm-memory-manipulation) (grounded in internal model weights at inference time)
+  - [Re-Ranking](#re-ranking)
   - [Fact Uncertainty Estimates](#fact-uncertainty-estimates)
   - [Constrained Generation](#constrained-generation)
   - [Data Centric](#data-centric)
@@ -293,10 +294,6 @@ arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.13222.pdf)]
 *Angels Balaguer, Vinamra Benara, Renato Luiz de Freitas Cunha, Roberto de M. Estevão Filho, Todd Hendry, Daniel Holstein, Jennifer Marsman, Nick Mecklenburg, Sara Malvar, Leonardo O. Nunes, Rafael Padilha, Morris Sharp, Bruno Silva, Swati Sharma, Vijay Aski, Ranveer Chandra*  
 arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.08406.pdf)]
 
-**Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents**  
-*Wenhao Yu, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu*  
-arXiv – Nov 2023 [[paper](https://arxiv.org/abs/2311.09210)]
-
 **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**  
 *Anonymous*  
 ICLR 24 – Oct 2023 [[paper](https://openreview.net/forum?id=hSyW5go0v8)]
@@ -521,6 +518,16 @@ DL4KG 2021 – Oct 2021 [[paper](https://arxiv.org/pdf/2110.04888.pdf)]
 **Generalization through Memorization: Nearest Neighbor Language Models**\
 *Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis*  
 ICLR 2020 – Sep 2019 [[paper](https://openreview.net/forum?id=HklBjCEKvH)] [[code](https://github.com/urvashik/knnlm)]
+
+### Re-Ranking
+
+**Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents**  
+*Wenhao Yu, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu*  
+arXiv – Nov 2023 [[paper](https://arxiv.org/abs/2311.09210)]
+
+**Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers**  
+*Weiwei Sun, Zheng Chen, Xinyu Ma, Lingyong Yan, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren*  
+arXiv 2023 – nov 2023 [[paper](https://arxiv.org/pdf/2311.01555)]
 
 ### Fact Uncertainty Estimates
 
