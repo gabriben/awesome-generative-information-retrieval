@@ -82,13 +82,17 @@ OpenAI Blog – Jan 2023 [[link](https://openai.com/research/forecasting-misuse)
 
 ## Datasets
 
+**LitSearch: A Retrieval Benchmark for Scientific Literature Search**  
+*Anirudh Ajith, Mengzhou Xia, Alexis Chevalier, Tanya Goyal, Danqi Chen, Tianyu Gao*  
+arXiv – Jul 2023 [[paper](https://arxiv.org/pdf/2407.18940)] [[data](https://github.com/princeton-nlp/LitSearch)]
+
 **BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval**  
 *Hongjin Su, Howard Yen, Mengzhou Xia, Weijia Shi, Niklas Muennighoff, Han-yu Wang, Haisu Liu, Quan Shi, Zachary S. Siegel, Michael Tang, Ruoxi Sun, Jinsung Yoon, Sercan O. Arik, Danqi Chen, Tao Yu*  
-arXiv – October 2023 [[paper](https://arxiv.org/pdf/2407.12883)] [[data](https://t.co/P3GyfcO0gO)] [[code](github.com/xlang-ai/BRIGHT)]
+arXiv – Oct 2023 [[paper](https://arxiv.org/pdf/2407.12883)] [[data](https://t.co/P3GyfcO0gO)] [[code](github.com/xlang-ai/BRIGHT)]
 
 **FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation**  
 *Tu Vu, Mohit Iyyer, Xuezhi Wang, Noah Constant, Jerry Wei, Jason Wei, Chris Tar, Yun-Hsuan Sung, Denny Zhou, Quoc Le, Thang Luong*  
-arXiv – October 2023 [[paper](https://arxiv.org/abs/2310.03214)] [[code](https://github.com/freshllms/freshqa)]
+arXiv – Oct 2023 [[paper](https://arxiv.org/abs/2310.03214)] [[code](https://github.com/freshllms/freshqa)]
 
 **LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models**  
 *Neel Guha, Julian Nyarko, Daniel E. Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin Peters, Brandon Waldon, Daniel N. Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan, Galit Sarfaty, Gregory M. Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, Joel Niklaus, John Nay, Jonathan H. Choi, Kevin Tobia, Margaret Hagan, Megan Ma, Michael Livermore, Nikon Rasumov-Rahe, Nils Holzenberger, Noam Kolt, Peter Henderson, Sean Rehaag, Sharad Goel, Shang Gao, Spencer Williams, Sunny Gandhi, Tom Zur, Varun Iyer, Zehua Li*  
