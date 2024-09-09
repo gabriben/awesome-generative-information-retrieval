@@ -16,6 +16,7 @@ Pull-requests welcome!
   - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation-rag)  (external grounding/retrieval at inference time)
   - [LLM Memory Manipulation](#llm-memory-manipulation) (grounded in internal model weights at inference time)
   - [Re-Ranking](#re-ranking)
+  - [Self-Correction](#self-correction)
   - [Fact Uncertainty Estimates](#fact-uncertainty-estimates)
   - [Constrained Generation](#constrained-generation)
   - [Data Centric](#data-centric)
@@ -398,10 +399,6 @@ arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.14322)]
 *Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez*  
 arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.15334)] [[code](https://github.com/ShishirPatil/gorilla)]
 
-**Active Retrieval Augmented Generation**  
-*Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig*  
-arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.06983)] [[code](https://github.com/jzbjyb/FLARE)]
-
 **Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study**  
 *Boxin Wang, Wei Ping, Peng Xu, Lawrence McAfee, Zihan Liu, Mohammad Shoeybi, Yi Dong, Oleksii Kuchaiev, Bo Li, Chaowei Xiao, Anima Anandkumar, Bryan Catanzaro*  
 arXiv – Apr 2023 [[paper](https://arxiv.org/abs/2304.06762)] [[code](https://github.com/NVIDIA/Megatron-LM#retro)]
@@ -539,7 +536,33 @@ arXiv – Nov 2023 [[paper](https://arxiv.org/abs/2311.09210)]
 
 **Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers**  
 *Weiwei Sun, Zheng Chen, Xinyu Ma, Lingyong Yan, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren*  
-arXiv 2023 – nov 2023 [[paper](https://arxiv.org/pdf/2311.01555)]
+arXiv 2023 – Nov 2023 [[paper](https://arxiv.org/pdf/2311.01555)]
+
+### Self-Correction
+
+**CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**  
+*Zhibin Gou, Zhihong Shao, Yeyun Gong, yelong shen, Yujiu Yang, Nan Duan, Weizhu Chen*  
+ICLR 2024 – Jan 2024 [[paper](https://openreview.net/forum?id=Sx038qxjek)]
+
+**A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Validating Low-Confidence Generation**  
+*Neeraj Varshney, Wenlin Yao, Hongming Zhang, Jianshu Chen, Dong Yu*  
+arXiv – Aug 2023 [[paper](https://arxiv.org/abs/2305.06983)]
+
+**RARR: Researching and Revising What Language Models Say, Using Language Models**  
+*Luyu Gao, Zhuyun Dai, Panupong Pasupat, Anthony Chen, Arun Tejasvi Chaganty, Yicheng Fan, Vincent Zhao, Ni Lao, Hongrae Lee, Da-Cheng Juan, Kelvin Guu*  
+ACL 2023 – Jul 2023 [[paper](https://aclanthology.org/2023.acl-long.910/)]
+
+**Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework**  
+*Ruochen Zhao, Xingxuan Li, Shafiq Joty, Chengwei Qin, Lidong Bing*  
+ACL 2023 – Jul 2023 [[paper](https://aclanthology.org/2023.acl-long.320/)]
+
+**Active Retrieval Augmented Generation**  
+*Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig*  
+arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.06983)] [[code](https://github.com/jzbjyb/FLARE)]
+
+**Improving Language Models via Plug-and-Play Retrieval Feedback**  
+*Wenhao Yu, Zhihan Zhang, Zhenwen Liang, Meng Jiang, Ashish Sabharwal*  
+arXiv – May 2023 [[paper](https://arxiv.org/abs/2305.14002)]
 
 ### Fact Uncertainty Estimates
 
