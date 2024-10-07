@@ -83,6 +83,10 @@ OpenAI Blog – Jan 2023 [[link](https://openai.com/research/forecasting-misuse)
 
 ## Datasets
 
+**Fact, Fetch, And Reason: A Unified Evaluation Of Retrieval-Augmented Generation**
+*Satyapriya Krishna, Kalpesh Krishna, Anhad Mohananey, Steven Schwarcz, Adam Stambler, Shyam Upadhyay, Manaal Faruqui*
+arXiv – Sep 2024 [[paper](https://arxiv.org/pdf/2409.12941)] [[data](https://huggingface.co/datasets/google/frames-benchmark)]
+
 **LitSearch: A Retrieval Benchmark for Scientific Literature Search**  
 *Anirudh Ajith, Mengzhou Xia, Alexis Chevalier, Tanya Goyal, Danqi Chen, Tianyu Gao*  
 arXiv – Jul 2023 [[paper](https://arxiv.org/pdf/2407.18940)] [[data](https://github.com/princeton-nlp/LitSearch)]
