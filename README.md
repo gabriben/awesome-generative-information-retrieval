@@ -187,6 +187,10 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 ## Epistemology Papers
 
+**Agentic Information Retrieval**  
+*Weinan Zhang, Junwei Liao, Ning Li, Kounianhua Du*  
+arXiv – Oct 2024 [[paper](https://arxiv.org/pdf/2410.09713)]
+
 **Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon**  
 *USVSN Sai Prashanth, Alvin Deng, Kyle O'Brien, Jyothir S V, Mohammad Aflah Khan, Jaydeep Borkar, Christopher A. Choquette-Choo, Jacob Ray Fuehne, Stella Biderman, Tracy Ke, Katherine Lee, Naomi Saphra*  
 arXiv – Jun 2024 [[paper](https://arxiv.org/abs/2406.17746)]
