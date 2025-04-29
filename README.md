@@ -53,7 +53,7 @@ Galileo Labs – Jan 2024 [[link](https://www.rungalileo.io/blog/mastering-rag-h
 *LlamaIndex*  
 LlamaIndex Blog – Dec 2023 [[link](https://blog.llamaindex.ai/running-mixtral-8x7-locally-with-llamaindex-e6cebeabe0ab)]
 
-**Advanced RAG Techniques: an Illustrated Overview**  
+**Advanced RAG Techniques: An Illustrated Overview**  
 *Ivan Ilin*  
 Towards AI – Dec 2023 [[link](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)]
 
@@ -816,6 +816,10 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2203.00537.pdf)]
 Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Generate a string as an identifier
+
+**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**  
+*Kidist Amde Mekonnen, Yubao Tang, Maarten de Rijke*  
+arXiv – Apr 2025 [[paper](https://arxiv.org/abs/2504.05181)] [[Code]([https://github.com/HansiZeng/PAG](https://github.com/kidist-amde/ddro))]
 
 **Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous Decoding**  
 *Hansi Zeng ,Chen Luo ,Hamed Zamani*  
