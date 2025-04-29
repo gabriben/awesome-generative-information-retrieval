@@ -819,7 +819,7 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 **Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**  
 *Kidist Amde Mekonnen, Yubao Tang, Maarten de Rijke*  
-arXiv – Apr 2025 [[paper](https://arxiv.org/abs/2504.05181)] [[Code]([https://github.com/HansiZeng/PAG](https://github.com/kidist-amde/ddro))]
+arXiv – Apr 2025 [[paper](https://arxiv.org/abs/2504.05181)] [[Code](https://github.com/kidist-amde/ddro)]
 
 **Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous Decoding**  
 *Hansi Zeng ,Chen Luo ,Hamed Zamani*  
