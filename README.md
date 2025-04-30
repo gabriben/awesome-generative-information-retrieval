@@ -822,25 +822,37 @@ Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
 
 ### Generate a string as an identifier
 
+**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**  
+*Kidist Amde Mekonnen, Yubao Tang, Maarten de Rijke*  
+arXiv – Apr 2025 [[paper](https://arxiv.org/abs/2504.05181)] [[Code](https://github.com/kidist-amde/ddro)]
+
+**Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous Decoding**  
+*Hansi Zeng ,Chen Luo ,Hamed Zamani*  
+arXiv – Apr 2024 [[paper](https://arxiv.org/pdf/2404.14600.pdf)] [[Code](https://github.com/HansiZeng/PAG)]
+
 **Generative Retrieval as Multi-Vector Dense Retrieval**  
 *Shiguang Wu, Wenda Wei, Mengqi Zhang, Zhumin Chen, Jun Ma, Zhaochun Ren, Maarten de Rijke, Pengjie Ren*  
-SIGIR 2024 - March 24 [[paper](https://arxiv.org/abs/2404.00684)] [[Code](https://github.com/Furyton/GR-as-MVDR)]
+SIGIR 2024 - Mar 2024 [[paper](https://arxiv.org/abs/2404.00684)] [[Code](https://github.com/Furyton/GR-as-MVDR)]
 
 **Re3val: Reinforced and Reranked Generative Retrieval**  
 *EuiYul Song, Sangryul Kim, Haeju Lee, Joonkee Kim, James Thorne*  
-EACL Findings 2023 – Jan 24 [[paper](https://arxiv.org/pdf/2401.16979.pdf)]
+EACL Findings 2023 – Jan 2024 [[paper](https://arxiv.org/pdf/2401.16979.pdf)]
 
 **GLEN: Generative Retrieval via Lexical Index Learning**  
 *Sunkyung Lee, Minjin Choi, Jongwuk Lee*  
-EMNLP 2023 - December 23 [[paper](https://aclanthology.org/2023.emnlp-main.477/)] [[Code](https://github.com/skleee/GLEN)]
+EMNLP 2023 - Dec 2023 [[paper](https://aclanthology.org/2023.emnlp-main.477/)] [[Code](https://github.com/skleee/GLEN)]
 
 **Enhancing Generative Retrieval with Reinforcement Learning from Relevance Feedback**  
 *Yujia Zhou, Zhicheng Dou, Ji-Rong Wen*  
-EMNLP 2023 - December 23 [[paper](https://aclanthology.org/2023.emnlp-main.768.pdf)]
+EMNLP 2023 - Dec 2023 [[paper](https://aclanthology.org/2023.emnlp-main.768.pdf)]
+
+**NOVO: Learnable and Interpretable Document Identifiers for Model-Based IR**  
+*Zihan Wang, Yujia Zhou, Yiteng Tu, Zhicheng Dou*  
+CIKM 2023 - Oct 2023 [[paper](https://dl.acm.org/doi/10.1145/3583780.3614993)]
 
 **Generative Retrieval with Large Language Models**  
 *Anonymous*  
-ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=oXYZJXDdo7)]
+ICLR 24 – Oct 2023 [[paper](https://openreview.net/forum?id=oXYZJXDdo7)]
 
 **Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies**  
 *Yubao Tang, Ruqing Zhang, Jiafeng Guo, Jiangui Chen, Zuowei Zhu, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng*  
@@ -878,15 +890,15 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.09744)]
 
 **IncDSI: Incrementally Updatable Document Retrieval​**
 *Varsha Kishore, Chao Wan, Justin Lovelace, Yoav Artzi, Kilian Q. Weinberger*
-ICML'23 - July 2023 [[paper](https://dl.acm.org/doi/10.5555/3618408.3619112)]
+ICML'23 - Jul 2023 [[paper](https://dl.acm.org/doi/10.5555/3618408.3619112)]
 
 **Exploring the Practicality of Generative Retrieval on Dynamic Corpora**
 *Chaeeun Kim, Soyoung Yoon, Hyunji Lee, Joel Jang, Sohee Yang, Minjoon Seo*
-EMNLP 24 - November 2024 [[paper](https://aclanthology.org/2024.emnlp-main.755/)]
+EMNLP 24 - Nov 2024 [[paper](https://aclanthology.org/2024.emnlp-main.755/)]
 
 **Replication and Exploration of Generative Retrieval over Dynamic Corpora**
 *Zhen Zhang, Xinyu Ma, Weiwei Sun, Pengjie Ren, Zhumin Chen, Shuaiqiang Wang, Dawei Yin, Maarten de Rijke, Zhaochun Ren*
-SIGIR 2025 - July 2025 [[paper](https://arxiv.org/abs/2504.17519)]
+SIGIR 2025 - Jul 2025 [[paper](https://arxiv.org/abs/2504.17519)]
 
 **CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks​**
 *Jiafeng Guo, Changjiang Zhou, Ruqing Zhang, Jiangui Chen, Maarten de Rijke, Yixing Fan, Xueqi Cheng*
