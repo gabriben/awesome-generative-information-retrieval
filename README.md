@@ -665,6 +665,10 @@ ICLR 23 – Jul 2022 [[paper](https://arxiv.org/abs/2207.05987)] [[code](https:/
 
 ### Query Generation
 
+**Generalized Reinforcement Learning for Retriever-Specific Query Rewriter with Unstructured Real-World Documents**
+*Sungguk Cha, DongWook Kim, Taeseung Hahn, Mintae Kim, Youngsub Han, Byoung-Ki Jeon*
+arXiv, Aug 2025 [[paper](https://arxiv.org/abs/2507.23242)]
+
 **Generate, Filter, and Fuse: Query Expansion via Multi-Step Keyword Generation for Zero-Shot Neural Rankers**  
 *Minghan Li, Honglei Zhuang, Kai Hui, Zhen Qin, Jimmy Lin, Rolf Jagerman, Xuanhui Wang, Michael Bendersky*  
 arXiv – Nov 2023 [[paper](https://arxiv.org/pdf/2311.09175.pdf)]
