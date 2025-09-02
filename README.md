@@ -986,6 +986,14 @@ KSEM 2022 – Aug 2022 [[paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-109
 
 ## Generative Knowledge Graphs
 
+**What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge**  
+*Dongzhuoran Zhou, Yuqicheng Zhu, Xiaxia Wang, Hongkuan Zhou, Yuan He, Jiaoyan Chen, Steffen Staab, Evgeny Kharlamov*  
+arXiv – Aug 2025 [[paper](https://arxiv.org/abs/2508.08344)]
+
+**KG-CQR: Leveraging Structured Relation Representations in Knowledge Graphs for Contextual Query Retrieval**  
+*Chi Minh Bui, Ngoc Mai Thieu, Van Vinh Nguyen, Jason J.Jung, Khac-Hoai Nam Bui*  
+arXiv – Aug 2025 [[paper](https://arxiv.org/abs/2508.20417)]
+
 **DocGraphLM: Documental Graph Language Model for Information Extraction**  
 *Dongsheng Wang, Zhiqiang Ma, Armineh Nourbakhsh, Kang Gu, Sameena Shah*  
 arXiv – Jan 2024 [[paper](https://arxiv.org/pdf/2401.02823.pdf)]
