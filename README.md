@@ -292,6 +292,10 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 
 > external grounding/retrieval at inference time
 
+**REFRAG: Rethinking RAG based Decoding**  
+*Xiaoqiang Lin, Aritra Ghosh, Bryan Kian Hsiang Low, Anshumali Shrivastava, Vijai Mohan*  
+arXiv – Sep 2025 [[paper](https://arxiv.org/pdf/2509.01092)]
+
 **RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**  
 *Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, Christopher D. Manning*  
 ICLR 24 – Jan 2024 [[paper](https://arxiv.org/pdf/2401.18059.pdf)]
