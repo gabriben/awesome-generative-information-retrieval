@@ -724,6 +724,10 @@ SIGIR 2025 – July 2025 [[paper](https://arxiv.org/abs/2504.05181)] [[Code](htt
 *Hansi Zeng ,Chen Luo ,Hamed Zamani*  
 arXiv – Apr 2024 [[paper](https://arxiv.org/pdf/2404.14600.pdf)] [[Code](https://github.com/HansiZeng/PAG)]
 
+**Bottleneck-Minimal Indexing for Generative Document Retrieval**  
+*Xin Du, Lixin Xiu, Kumiko Tanaka-Ishii*  
+ICML 2024 Oral - July 2024 [[paper](https://arxiv.org/pdf/2405.10974)] [[Code](https://github.com/kduxin/Bottleneck-Minimal-Indexing)]
+
 **NOVO: Learnable and Interpretable Document Identifiers for Model-Based IR**  
 *Zihan Wang, Yujia Zhou, Yiteng Tu, Zhicheng Dou*  
 CIKM 2023 - October 2023 [[paper](https://dl.acm.org/doi/10.1145/3583780.3614993)]
