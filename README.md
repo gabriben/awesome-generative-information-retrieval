@@ -4,6 +4,7 @@ Conversational models started to be able to access the web or backup their claim
 
 Pull-requests welcome!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code with generative retrieval and multi-agent coordination. MIT licensed.
 # Table of Contents
 
 - [Blog Posts](#blog-posts)
