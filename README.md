@@ -543,6 +543,10 @@ ICLR 2020 – Sep 2019 [[paper](https://openreview.net/forum?id=HklBjCEKvH)] [[c
 
 ### Re-Ranking
 
+**FreeRet: MLLMs as Training-Free Retrievers**  
+*Yuhan Zhu, Xiangyu Zeng, Chenting Wang, Xinhao Li, Chunxu Liu, Yicheng Xu, Ziang Yan, Yi Wang, Limin Wang*  
+ICML 2026 – Sep 2025 preprint [[paper](https://arxiv.org/abs/2509.24621)] [[code](https://github.com/MCG-NJU/FreeRet)]
+
 **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents**  
 *Wenhao Yu, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu*  
 arXiv – Nov 2023 [[paper](https://arxiv.org/abs/2311.09210)]
