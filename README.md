@@ -292,9 +292,17 @@ arXiv – Dec 2022 [[paper](https://arxiv.org/abs/2212.08037)]
 
 > external grounding/retrieval at inference time
 
+**SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation**  
+*Ruochang Li, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Huiyuan Xie, Yu Gu, Ge Yu, Maosong Sun*  
+arXiv – Jun 2026 [[paper](https://arxiv.org/abs/2606.27786)] [[code](https://github.com/OpenBMB/SPARK)]
+
 **REFRAG: Rethinking RAG based Decoding**  
 *Xiaoqiang Lin, Aritra Ghosh, Bryan Kian Hsiang Low, Anshumali Shrivastava, Vijai Mohan*  
 arXiv – Sep 2025 [[paper](https://arxiv.org/pdf/2509.01092)]
+
+**ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation**  
+*Pengcheng Huang, Zhenghao Liu, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong*  
+NeurIPS 2025 – Feb 2025 [[paper](https://arxiv.org/abs/2502.15543)] [[code](https://github.com/OpenBMB/ParamMute)]
 
 **RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**  
 *Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, Christopher D. Manning*  
@@ -672,6 +680,10 @@ ICLR 23 – Jul 2022 [[paper](https://arxiv.org/abs/2207.05987)] [[code](https:/
 **Generalized Reinforcement Learning for Retriever-Specific Query Rewriter with Unstructured Real-World Documents**  
 *Sungguk Cha, DongWook Kim, Taeseung Hahn, Mintae Kim, Youngsub Han, Byoung-Ki Jeon*  
 arXiv – Aug 2025 [[paper](https://arxiv.org/abs/2507.23242)]
+
+**ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance**  
+*Sijia Yao, Pengcheng Huang, Zhenghao Liu, Yu Gu, Yukun Yan, Shi Yu, Ge Yu*  
+EMNLP 2025 – Feb 2025 [[paper](https://aclanthology.org/2025.emnlp-main.963/)] [[code](https://github.com/NEUIR/ExpandR)]
 
 **Generate, Filter, and Fuse: Query Expansion via Multi-Step Keyword Generation for Zero-Shot Neural Rankers**  
 *Minghan Li, Honglei Zhuang, Kai Hui, Zhen Qin, Jimmy Lin, Rolf Jagerman, Xuanhui Wang, Michael Bendersky*  
